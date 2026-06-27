@@ -1,0 +1,22 @@
+{
+  "created_at_utc": "2026-06-27T12:31:13.963357+00:00",
+  "script": "scripts/cvm_bert_baseline.py",
+  "script_version_git_commit": "1180b33",
+  "random_state": 42,
+  "test_size": 0.2,
+  "threshold": 0.4,
+  "n_records": 3333,
+  "n_train": 2666,
+  "n_test": 667,
+  "mistral_features_regenerated": false,
+  "semantic_schema_correction": "Satisfaction sentiment mapped to Positive; unknown sentiment mapped to Neutral.",
+  "auc_comparison_method": "Paired bootstrap AUC comparison (1,000 resamples)",
+  "acceptance_checks": {
+    "no_satisfaction_in_sentiment": true,
+    "satisfaction_available_in_emotion": true,
+    "prediction_rows_each": 667,
+    "identical_test_records": true,
+    "missing_prediction_probabilities": 0,
+    "auc_files_match_metrics": true
+  }
+}

@@ -1,0 +1,11 @@
+Rank,Feature,Mean_SHAP,Type,Source
+1,topic_enc,1.578063,LLM,Mistral 7B cleaned
+2,total_day_minutes,0.97603744,Structured,ChurnKB
+3,number_customer_service_calls,0.8287248,Structured,ChurnKB
+4,risk_enc,0.81733584,LLM,Mistral 7B cleaned
+5,sentiment_enc,0.80926496,LLM,Mistral 7B cleaned
+6,international_plan_yes,0.55370486,Structured,ChurnKB
+7,total_eve_minutes,0.469323,Structured,ChurnKB
+8,total_intl_minutes,0.39464352,Structured,ChurnKB
+9,total_night_minutes,0.37139967,Structured,ChurnKB
+10,urgency,0.34089002,LLM,Mistral 7B cleaned

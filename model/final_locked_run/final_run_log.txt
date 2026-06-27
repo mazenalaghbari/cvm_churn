@@ -1,0 +1,65 @@
+=== FINAL LOCKED RUN REPORT ===
+Semantic schema correction: sentiment Satisfaction -> Positive.
+Final sentiment labels: Positive, Neutral, Negative.
+Satisfaction remains valid only in emotion.
+
+=== ACCEPTANCE CHECKS ===
+no_satisfaction_in_sentiment: True
+satisfaction_available_in_emotion: True
+prediction_rows_each: 667
+identical_test_records: True
+missing_prediction_probabilities: 0
+auc_files_match_metrics: True
+
+=== METRICS FINAL ===
+                                    Configuration  ROC-AUC   PR-AUC  Precision   Recall       F1    Brier  CI_lower  CI_upper  Delta_AUC_vs_proposed  Paired_bootstrap_z_vs_proposed  Paired_bootstrap_p_vs_proposed
+                                  Structured only 0.909097 0.851908   0.852273 0.773196 0.810811 0.042577  0.861976  0.952161               0.060246                        3.256189                        0.001129
+                               Structured + VADER 0.922572 0.860048   0.852273 0.773196 0.810811 0.041886  0.880908  0.956660               0.046772                        3.274182                        0.001060
+                          Structured + TF-IDF+SVD 0.988660 0.961894   0.915789 0.896907 0.906250 0.021746  0.977677  0.996695              -0.019316                       -3.188434                        0.001430
+                   Structured + RoBERTa sentiment 0.972689 0.924100   0.846939 0.855670 0.851282 0.032836  0.952193  0.988137              -0.003346                       -0.597082                        0.550453
+Structured + Mistral 7B cleaned semantic features 0.969343 0.907792   0.814433 0.814433 0.814433 0.038996  0.948109  0.985597               0.000000                        0.000000                        1.000000
+
+=== PRIOR LOCKED RUN COMPARISON ===
+                                    Configuration  ROC_AUC_new  ROC_AUC_prior  ROC_AUC_delta  PR_AUC_delta  F1_delta
+                                  Structured only     0.909097       0.909097   0.000000e+00  0.000000e+00       0.0
+                               Structured + VADER     0.922572       0.922572   1.110223e-16  0.000000e+00       0.0
+                          Structured + TF-IDF+SVD     0.988660       0.988660   0.000000e+00  1.110223e-16       0.0
+                   Structured + RoBERTa sentiment     0.972689       0.972689   1.110223e-16  0.000000e+00       0.0
+Structured + Mistral 7B cleaned semantic features     0.969343       0.969343   0.000000e+00  1.110223e-16       0.0
+
+=== ABLATION ===
+        Configuration  ROC-AUC   PR-AUC  Precision   Recall       F1    Brier  CI_lower  CI_upper  Delta_AUC_vs_proposed  Paired_bootstrap_z_vs_proposed  Paired_bootstrap_p_vs_proposed  Delta_AUC Paired_bootstrap_z Paired_bootstrap_p
+      Structured only 0.909097 0.851908   0.852273 0.773196 0.810811 0.042577  0.861976  0.952161               0.060246                        3.256189                        0.001129   0.000000                                      
+Structured + LLM only 0.969343 0.907792   0.814433 0.814433 0.814433 0.038996  0.948109  0.985597               0.000000                        0.000000                        1.000000   0.060246           3.256189           0.001129
+
+=== SHAP TOP 10 ===
+ Rank                       Feature  Mean_SHAP       Type             Source
+    1                     topic_enc   1.578063        LLM Mistral 7B cleaned
+    2             total_day_minutes   0.976037 Structured            ChurnKB
+    3 number_customer_service_calls   0.828725 Structured            ChurnKB
+    4                      risk_enc   0.817336        LLM Mistral 7B cleaned
+    5                 sentiment_enc   0.809265        LLM Mistral 7B cleaned
+    6        international_plan_yes   0.553705 Structured            ChurnKB
+    7             total_eve_minutes   0.469323 Structured            ChurnKB
+    8            total_intl_minutes   0.394644 Structured            ChurnKB
+    9           total_night_minutes   0.371400 Structured            ChurnKB
+   10                       urgency   0.340890        LLM Mistral 7B cleaned
+
+=== SENTIMENT SCHEMA AUDIT ===
+                            section                    label  count                 run_datetime_utc script_version
+          original_sentiment_counts                  Neutral   1478 2026-06-27T12:30:52.746451+00:00        1180b33
+          original_sentiment_counts                 Positive    911 2026-06-27T12:30:52.746451+00:00        1180b33
+          original_sentiment_counts                 Negative    674 2026-06-27T12:30:52.746451+00:00        1180b33
+          original_sentiment_counts             Satisfaction    270 2026-06-27T12:30:52.746451+00:00        1180b33
+    mapped_satisfaction_to_positive Satisfaction -> Positive    270 2026-06-27T12:30:52.746451+00:00        1180b33
+unknown_sentiment_mapped_to_neutral       Unknown -> Neutral      0 2026-06-27T12:30:52.746451+00:00        1180b33
+             final_sentiment_counts                  Neutral   1478 2026-06-27T12:30:52.746451+00:00        1180b33
+             final_sentiment_counts                 Positive   1181 2026-06-27T12:30:52.746451+00:00        1180b33
+             final_sentiment_counts                 Negative    674 2026-06-27T12:30:52.746451+00:00        1180b33
+  unknown_emotion_mapped_to_neutral       Unknown -> Neutral     11 2026-06-27T12:30:52.746451+00:00        1180b33
+      unknown_topic_mapped_to_other         Unknown -> Other      2 2026-06-27T12:30:52.746451+00:00        1180b33
+
+=== JSON FALLBACK AUDIT ===
+   Group  Total  Invalid_JSON_Count  Invalid_JSON_Pct  Persistent_Fallback_Pct
+Retained   2850                   3            0.1053                   0.1053
+ Churned    483                   0            0.0000                   0.0000

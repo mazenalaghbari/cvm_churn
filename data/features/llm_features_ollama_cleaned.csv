@@ -1,0 +1,3334 @@
+sentiment,emotion,urgency,topic,risk_indicator,customer_id
+Positive,Satisfaction,0.7,Service Information,False,0
+Neutral,Confusion,0.7,Service Information,False,1
+Negative,Frustration,0.7,Complaint,True,2
+Neutral,Neutral,0.5,Billing,False,3
+Neutral,Confusion,0.5,Service Information,False,4
+Neutral,Confusion,0.6,Technical Support,False,5
+Neutral,Confusion,0.7,Technical Support,False,6
+Positive,Gratitude,0.0,Service Information,False,7
+Negative,Neutral,0.7,Complaint,True,8
+Neutral,Neutral,0.5,Billing,False,9
+Negative,Confusion,0.3,Service Information,False,10
+Positive,Satisfaction,0.3,Service Information,False,11
+Neutral,Confusion,0.7,Service Information,False,12
+Neutral,Confusion,0.6,Technical Support,False,13
+Neutral,Confusion,0.6,Technical Support,False,14
+Negative,Frustration,0.9,Complaint,True,15
+Neutral,Confusion,0.6,Service Information,False,16
+Positive,Neutral,0.2,Service Information,False,17
+Negative,Frustration,0.8,Complaint,True,18
+Neutral,Confusion,0.6,Service Information,False,19
+Positive,Gratitude,0.3,Service Information,False,20
+Positive,Neutral,0.3,Service Information,False,21
+Positive,Satisfaction,0.3,Service Information,False,22
+Neutral,Confusion,0.7,Service Information,False,23
+Neutral,Confusion,0.6,Technical Support,False,24
+Neutral,Confusion,0.5,Service Information,False,25
+Negative,Frustration,0.6,Service Information,False,26
+Negative,Frustration,1.0,Complaint,True,27
+Neutral,Confusion,0.6,Technical Support,False,28
+Neutral,Neutral,0.5,Complaint,False,29
+Negative,Frustration,0.8,Complaint,True,30
+Negative,Anger,0.9,Complaint,True,31
+Negative,Frustration,0.9,Service Information,False,32
+Positive,Gratitude,0.3,Service Information,False,33
+Neutral,Neutral,0.3,Technical Support,False,34
+Negative,Frustration,0.8,Complaint,True,35
+Positive,Gratitude,0.3,Service Information,False,36
+Neutral,Confusion,0.7,Technical Support,False,37
+Neutral,Confusion,0.5,Service Information,False,38
+Neutral,Confusion,0.7,Billing,True,39
+Positive,Satisfaction,0.3,Service Information,False,40
+Neutral,Confusion,0.5,Service Information,False,41
+Neutral,Confusion,0.5,Service Information,False,42
+Neutral,Confusion,0.6,Service Information,False,43
+Neutral,Satisfaction,0.2,Service Information,False,44
+Positive,Neutral,0.7,Service Information,False,45
+Positive,Gratitude,0.8,Service Information,False,46
+Positive,Satisfaction,0.5,Service Information,False,47
+Neutral,Confusion,0.7,Service Information,False,48
+Neutral,Confusion,0.6,Technical Support,False,49
+Neutral,Neutral,0.5,Service Information,False,50
+Neutral,Confusion,0.6,Technical Support,False,51
+Negative,Frustration,0.8,Billing,True,52
+Neutral,Confusion,0.6,Service Information,False,53
+Negative,Frustration,0.8,Complaint,True,54
+Neutral,Frustration,0.8,Service Information,False,55
+Neutral,Confusion,0.6,Technical Support,False,56
+Negative,Frustration,0.9,Technical Support,False,57
+Neutral,Confusion,0.7,Technical Support,False,58
+Neutral,Confusion,0.6,Technical Support,False,59
+Positive,Satisfaction,0.5,Service Information,False,60
+Neutral,Confusion,0.6,Technical Support,False,61
+Negative,Frustration,0.8,Complaint,True,62
+Positive,Satisfaction,0.4,Service Information,False,63
+Negative,Frustration,0.7,Complaint,True,64
+Neutral,Confusion,0.6,Technical Support,False,65
+Positive,Satisfaction,0.5,Service Information,False,66
+Neutral,Confusion,0.8,Service Information,False,67
+Neutral,Confusion,0.6,Technical Support,False,68
+Positive,Satisfaction,0.2,Service Information,False,69
+Negative,Frustration,1.0,Complaint,True,70
+Neutral,Confusion,0.7,Service Information,False,71
+Positive,Gratitude,0.6,Service Information,False,72
+Neutral,Neutral,0.5,Technical Support,False,73
+Neutral,Confusion,0.6,Technical Support,False,74
+Negative,Confusion,0.7,Technical Support,False,75
+Neutral,Confusion,0.7,Service Information,False,76
+Neutral,Confusion,0.4,Service Information,False,77
+Positive,Satisfaction,0.3,Service Information,False,78
+Positive,Satisfaction,0.3,Service Information,False,79
+Positive,Gratitude,0.0,Service Information,False,80
+Positive,Gratitude,0.3,Service Information,False,81
+Negative,Frustration,0.8,Technical Support,True,82
+Positive,Satisfaction,0.7,Service Information,False,83
+Positive,Gratitude,0.0,Service Information,False,84
+Positive,Satisfaction,0.3,Service Information,False,85
+Positive,Satisfaction,0.3,Service Information,False,86
+Neutral,Neutral,0.5,Technical Support,False,87
+Neutral,Confusion,0.7,Service Information,False,88
+Negative,Anger,1.0,Complaint,True,89
+Positive,Neutral,0.8,Service Information,False,90
+Negative,Frustration,0.8,Technical Support,True,91
+Neutral,Gratitude,0.0,Service Information,False,92
+Positive,Satisfaction,0.5,Service Information,False,93
+Positive,Gratitude,0.4,Service Information,False,94
+Negative,Frustration,0.8,Complaint,True,95
+Neutral,Confusion,0.6,Service Information,False,96
+Negative,Frustration,0.9,Technical Support,False,97
+Neutral,Neutral,0.5,Technical Support,False,98
+Positive,Satisfaction,0.2,Service Information,False,99
+Neutral,Neutral,0.5,Technical Support,False,100
+Neutral,Neutral,0.3,Service Information,False,101
+Neutral,Confusion,0.5,Service Information,False,102
+Positive,Satisfaction,0.5,Service Information,False,103
+Positive,Neutral,0.7,Service Information,False,104
+Negative,Frustration,0.8,Complaint,True,105
+Neutral,Confusion,0.5,Technical Support,False,106
+Negative,Frustration,0.8,Technical Support,True,107
+Neutral,Neutral,0.0,Other,False,108
+Positive,Satisfaction,0.5,Technical Support,False,109
+Neutral,Neutral,0.5,Technical Support,False,110
+Positive,Gratitude,0.2,Service Information,False,111
+Positive,Satisfaction,0.7,Service Information,False,112
+Neutral,Confusion,0.7,Service Information,False,113
+Neutral,Confusion,0.6,Technical Support,False,114
+Neutral,Satisfaction,0.3,Service Information,False,115
+Negative,Frustration,0.8,Complaint,False,116
+Positive,Neutral,0.7,Service Information,False,117
+Positive,Satisfaction,0.5,Service Information,False,118
+Neutral,Confusion,0.7,Technical Support,False,119
+Positive,Neutral,0.5,Service Information,False,120
+Neutral,Confusion,0.6,Technical Support,False,121
+Negative,Anger,0.8,Technical Support,True,122
+Neutral,Neutral,0.5,Technical Support,False,123
+Positive,Gratitude,0.3,Service Information,False,124
+Neutral,Neutral,0.5,Complaint,True,125
+Positive,Gratitude,0.5,Service Information,False,126
+Positive,Gratitude,0.3,Service Information,False,127
+Neutral,Confusion,0.5,Other,False,128
+Neutral,Confusion,0.5,Service Information,False,129
+Neutral,Confusion,0.7,Technical Support,False,130
+Positive,Satisfaction,0.2,Service Information,False,131
+Positive,Satisfaction,0.7,Service Information,False,132
+Negative,Frustration,0.7,Complaint,True,133
+Neutral,Confusion,0.6,Technical Support,False,134
+Negative,Frustration,0.7,Complaint,True,135
+Positive,Satisfaction,0.2,Service Information,False,136
+Neutral,Confusion,0.3,Service Information,False,137
+Neutral,Confusion,0.7,Service Information,False,138
+Neutral,Neutral,0.4,Service Information,False,139
+Negative,Frustration,0.8,Complaint,True,140
+Neutral,Confusion,0.6,Technical Support,False,141
+Neutral,Confusion,0.7,Service Information,False,142
+Positive,Satisfaction,0.4,Service Information,False,143
+Negative,Frustration,0.7,Complaint,True,144
+Positive,Satisfaction,0.3,Service Information,False,145
+Neutral,Confusion,0.6,Technical Support,False,146
+Neutral,Confusion,0.8,Service Information,False,147
+Neutral,Confusion,0.7,Technical Support,False,148
+Neutral,Confusion,0.6,Technical Support,False,149
+Positive,Satisfaction,0.5,Service Information,False,150
+Positive,Gratitude,0.8,Billing,False,151
+Positive,Neutral,0.7,Service Information,False,152
+Neutral,Confusion,0.6,Technical Support,False,153
+Negative,Frustration,0.6,Service Information,False,154
+Neutral,Confusion,0.6,Service Information,False,155
+Negative,Frustration,0.7,Complaint,True,156
+Neutral,Confusion,0.7,Technical Support,False,157
+Neutral,Confusion,0.6,Service Information,False,158
+Neutral,Confusion,0.6,Technical Support,False,159
+Neutral,Confusion,0.6,Technical Support,False,160
+Positive,Neutral,0.8,Service Information,False,161
+Positive,Gratitude,0.0,Service Information,False,162
+Positive,Satisfaction,0.8,Service Information,False,163
+Negative,Frustration,0.8,Technical Support,True,164
+Positive,Gratitude,0.6,Service Information,False,165
+Neutral,Confusion,0.7,Service Information,False,166
+Neutral,Confusion,0.5,Service Information,False,167
+Positive,Satisfaction,0.3,Service Information,False,168
+Negative,Frustration,0.8,Complaint,True,169
+Positive,Neutral,0.2,Service Information,False,170
+Positive,Gratitude,0.3,Service Information,False,171
+Negative,Frustration,0.8,Complaint,True,172
+Neutral,Frustration,0.8,Complaint,True,173
+Neutral,Confusion,0.7,Billing,True,174
+Neutral,Neutral,0.5,Service Information,False,175
+Neutral,Confusion,0.3,Service Information,False,176
+Positive,Satisfaction,0.7,Service Information,False,177
+Neutral,Confusion,0.6,Service Information,False,178
+Negative,Frustration,0.8,Complaint,True,179
+Neutral,Confusion,0.6,Technical Support,False,180
+Negative,Frustration,0.7,Complaint,True,181
+Positive,Satisfaction,0.6,Service Information,False,182
+Positive,Gratitude,0.4,Service Information,False,183
+Neutral,Confusion,0.6,Service Information,False,184
+Positive,Satisfaction,0.2,Service Information,False,185
+Negative,Frustration,0.8,Complaint,True,186
+Neutral,Gratitude,0.3,Service Information,False,187
+Positive,Satisfaction,0.3,Service Information,False,188
+Negative,Frustration,0.9,Complaint,False,189
+Neutral,Neutral,0.5,Service Information,False,190
+Neutral,Confusion,0.6,Service Information,False,191
+Neutral,Confusion,0.7,Service Information,True,192
+Negative,Frustration,0.8,Technical Support,True,193
+Neutral,Neutral,0.5,Service Information,False,194
+Positive,Gratitude,0.4,Service Information,False,195
+Negative,Frustration,0.7,Complaint,True,196
+Positive,Satisfaction,0.7,Service Information,False,197
+Neutral,Confusion,0.6,Technical Support,False,198
+Neutral,Confusion,0.7,Service Information,False,199
+Neutral,Neutral,0.7,Service Information,False,200
+Neutral,Confusion,0.6,Technical Support,False,201
+Positive,Satisfaction,0.8,Service Information,False,202
+Positive,Satisfaction,0.3,Service Information,False,203
+Neutral,Confusion,0.6,Technical Support,False,204
+Positive,Satisfaction,0.5,Service Information,False,205
+Neutral,Confusion,0.7,Technical Support,False,206
+Neutral,Neutral,0.5,Service Information,False,207
+Positive,Gratitude,0.1,Service Information,False,208
+Negative,Anger,1.0,Complaint,True,209
+Positive,Satisfaction,0.3,Technical Support,False,210
+Neutral,Confusion,0.7,Service Information,False,211
+Neutral,Confusion,0.5,Service Information,False,212
+Neutral,Confusion,0.5,Technical Support,False,213
+Positive,Satisfaction,0.2,Service Information,False,214
+Negative,Frustration,0.7,Complaint,True,215
+Neutral,Confusion,0.6,Technical Support,False,216
+Negative,Frustration,0.8,Complaint,True,217
+Neutral,Neutral,0.4,Technical Support,False,218
+Positive,Satisfaction,0.6,Technical Support,False,219
+Neutral,Confusion,0.6,Technical Support,False,220
+Positive,Neutral,0.7,Technical Support,False,221
+Positive,Satisfaction,0.5,Service Information,False,222
+Neutral,Confusion,0.6,Service Information,False,223
+Negative,Frustration,0.7,Complaint,False,224
+Neutral,Confusion,0.7,Service Information,False,225
+Positive,Satisfaction,0.7,Service Information,False,226
+Neutral,Neutral,0.5,Billing,False,227
+Neutral,Confusion,0.7,Service Information,False,228
+Negative,Frustration,0.8,Complaint,True,229
+Positive,Gratitude,0.0,Service Information,False,230
+Neutral,Confusion,0.8,Service Information,False,231
+Positive,Neutral,0.8,Service Information,False,232
+Neutral,Neutral,0.3,Service Information,False,233
+Positive,Satisfaction,0.4,Service Information,False,234
+Neutral,Frustration,0.7,Technical Support,False,235
+Neutral,Confusion,0.6,Technical Support,False,236
+Neutral,Confusion,0.6,Technical Support,False,237
+Neutral,Confusion,0.7,Service Information,False,238
+Neutral,Neutral,0.5,Technical Support,False,239
+Positive,Satisfaction,0.3,Service Information,False,240
+Negative,Frustration,0.9,Complaint,True,241
+Neutral,Neutral,0.5,Technical Support,False,242
+Neutral,Confusion,0.6,Technical Support,False,243
+Positive,Satisfaction,0.8,Service Information,False,244
+Neutral,Satisfaction,0.3,Service Information,False,245
+Neutral,Confusion,0.6,Service Information,False,246
+Positive,Gratitude,0.3,Service Information,False,247
+Neutral,Confusion,0.7,Service Information,False,248
+Neutral,Neutral,0.5,Technical Support,False,249
+Positive,Satisfaction,0.5,Service Information,False,250
+Neutral,Confusion,0.6,Technical Support,False,251
+Positive,Satisfaction,0.3,Service Information,False,252
+Negative,Frustration,0.9,Complaint,True,253
+Neutral,Confusion,0.6,Service Information,False,254
+Neutral,Confusion,0.7,Service Information,False,255
+Neutral,Neutral,0.7,Complaint,False,256
+Positive,Neutral,0.6,Service Information,False,257
+Neutral,Confusion,0.6,Service Information,False,258
+Neutral,Frustration,0.9,Service Information,False,259
+Neutral,Confusion,0.7,Service Information,True,260
+Negative,Frustration,0.6,Service Information,False,261
+Positive,Satisfaction,0.2,Service Information,False,262
+Positive,Satisfaction,0.7,Service Information,False,263
+Negative,Frustration,0.7,Complaint,True,264
+Negative,Frustration,0.8,Billing,True,265
+Positive,Satisfaction,0.4,Service Information,False,266
+Positive,Gratitude,0.0,Service Information,False,267
+Neutral,Confusion,0.7,Technical Support,False,268
+Positive,Satisfaction,0.8,Service Information,False,269
+Positive,Neutral,0.6,Service Information,False,270
+Neutral,Confusion,0.7,Service Information,False,271
+Neutral,Confusion,0.6,Service Information,False,272
+Neutral,Confusion,0.6,Complaint,False,273
+Neutral,Confusion,0.6,Service Information,False,274
+Positive,Gratitude,0.0,Service Information,False,275
+Neutral,Confusion,0.5,Service Information,False,276
+Positive,Satisfaction,0.3,Service Information,False,277
+Neutral,Confusion,0.3,Service Information,False,278
+Neutral,Confusion,0.6,Technical Support,False,279
+Neutral,Confusion,0.7,Technical Support,False,280
+Positive,Satisfaction,0.7,Service Information,False,281
+Neutral,Confusion,0.4,Technical Support,False,282
+Neutral,Confusion,0.6,Technical Support,False,283
+Neutral,Confusion,0.6,Technical Support,False,284
+Positive,Gratitude,0.2,Service Information,False,285
+Neutral,Confusion,0.3,Technical Support,False,286
+Positive,Neutral,0.6,Service Information,False,287
+Positive,Satisfaction,0.2,Service Information,False,288
+Neutral,Confusion,0.6,Technical Support,False,289
+Neutral,Confusion,0.6,Technical Support,False,290
+Positive,Neutral,0.6,Service Information,False,291
+Negative,Frustration,0.8,Service Information,False,292
+Neutral,Confusion,0.7,Technical Support,False,293
+Positive,Satisfaction,0.7,Service Information,False,294
+Neutral,Confusion,0.5,Service Information,False,295
+Neutral,Neutral,0.5,Technical Support,False,296
+Positive,Neutral,0.5,Service Information,False,297
+Positive,Satisfaction,0.5,Technical Support,False,298
+Positive,Satisfaction,0.3,Service Information,False,299
+Negative,Frustration,0.8,Complaint,True,300
+Neutral,Neutral,0.5,Billing,False,301
+Positive,Satisfaction,0.4,Service Information,False,302
+Negative,Frustration,0.8,Technical Support,True,303
+Positive,Satisfaction,0.5,Service Information,False,304
+Neutral,Confusion,0.5,Service Information,False,305
+Neutral,Confusion,0.6,Technical Support,False,306
+Negative,Frustration,0.9,Complaint,True,307
+Neutral,Confusion,0.6,Technical Support,False,308
+Neutral,Confusion,0.6,Technical Support,False,309
+Positive,Confusion,1.0,Service Information,False,310
+Positive,Satisfaction,0.3,Service Information,False,311
+Negative,Frustration,0.7,Service Information,False,312
+Negative,Frustration,0.7,Complaint,True,313
+Positive,Neutral,0.6,Service Information,False,314
+Positive,Satisfaction,0.7,Service Information,False,315
+Positive,Satisfaction,0.2,Service Information,False,316
+Neutral,Confusion,0.7,Service Information,False,317
+Positive,Satisfaction,0.3,Service Information,False,318
+Neutral,Confusion,0.5,Technical Support,False,319
+Neutral,Confusion,0.6,Service Information,False,320
+Negative,Frustration,0.8,Complaint,True,321
+Positive,Satisfaction,0.5,Service Information,False,322
+Neutral,Confusion,0.6,Technical Support,False,323
+Neutral,Confusion,0.6,Technical Support,False,324
+Negative,Anger,0.8,Complaint,True,325
+Positive,Neutral,0.3,Service Information,False,326
+Negative,Frustration,0.7,Complaint,True,327
+Negative,Frustration,0.8,Complaint,True,328
+Negative,Frustration,0.7,Complaint,True,329
+Neutral,Confusion,0.6,Service Information,False,330
+Neutral,Confusion,0.5,Service Information,False,331
+Positive,Satisfaction,0.7,Service Information,False,332
+Positive,Gratitude,0.2,Service Information,False,333
+Negative,Frustration,0.8,Complaint,True,334
+Neutral,Confusion,0.6,Technical Support,False,335
+Negative,Frustration,0.8,Complaint,True,336
+Positive,Neutral,0.7,Service Information,False,337
+Neutral,Confusion,0.6,Technical Support,False,338
+Neutral,Gratitude,0.5,Service Information,False,339
+Neutral,Confusion,0.6,Technical Support,False,340
+Positive,Satisfaction,0.0,Service Information,False,341
+Neutral,Confusion,0.6,Technical Support,False,342
+Neutral,Neutral,0.5,Technical Support,False,343
+Neutral,Confusion,0.6,Technical Support,False,344
+Negative,Frustration,0.7,Service Information,False,345
+Positive,Satisfaction,0.4,Service Information,False,346
+Neutral,Confusion,0.3,Service Information,False,347
+Positive,Gratitude,0.6,Service Information,False,348
+Negative,Frustration,0.8,Complaint,True,349
+Positive,Gratitude,0.5,Service Information,False,350
+Neutral,Frustration,0.7,Service Information,False,351
+Neutral,Confusion,0.6,Service Information,False,352
+Positive,Satisfaction,0.2,Service Information,False,353
+Neutral,Confusion,0.6,Service Information,False,354
+Negative,Frustration,1.0,Billing,True,355
+Positive,Gratitude,0.3,Service Information,False,356
+Negative,Frustration,0.8,Complaint,True,357
+Positive,Satisfaction,0.7,Service Information,False,358
+Neutral,Confusion,0.3,Service Information,False,359
+Positive,Gratitude,0.5,Service Information,False,360
+Neutral,Confusion,0.7,Complaint,False,361
+Neutral,Confusion,0.6,Technical Support,False,362
+Positive,Satisfaction,0.4,Service Information,False,363
+Positive,Confusion,0.7,Service Information,False,364
+Negative,Frustration,0.8,Complaint,True,365
+Positive,Satisfaction,1.0,Service Information,False,366
+Positive,Gratitude,0.8,Service Information,False,367
+Neutral,Frustration,0.7,Service Information,False,368
+Negative,Frustration,1.0,Complaint,True,369
+Neutral,Confusion,0.5,Service Information,False,370
+Negative,Frustration,0.6,Technical Support,True,371
+Neutral,Confusion,0.6,Service Information,False,372
+Neutral,Confusion,0.7,Technical Support,False,373
+Positive,Gratitude,0.0,Service Information,False,374
+Negative,Frustration,0.8,Complaint,True,375
+Negative,Frustration,0.8,Complaint,True,376
+Neutral,Neutral,0.5,Technical Support,False,377
+Negative,Frustration,0.9,Complaint,True,378
+Neutral,Confusion,0.6,Technical Support,False,379
+Positive,Gratitude,0.3,Service Information,False,380
+Positive,Neutral,0.3,Service Information,False,381
+Neutral,Confusion,0.6,Technical Support,False,382
+Neutral,Confusion,0.6,Technical Support,False,383
+Positive,Neutral,0.7,Service Information,False,384
+Negative,Frustration,0.9,Complaint,True,385
+Neutral,Confusion,0.6,Technical Support,False,386
+Neutral,Neutral,0.3,Technical Support,False,387
+Positive,Neutral,0.5,Service Information,False,388
+Negative,Frustration,0.8,Complaint,True,389
+Negative,Frustration,0.7,Complaint,True,390
+Negative,Frustration,0.8,Complaint,True,391
+Positive,Satisfaction,0.3,Service Information,False,392
+Neutral,Confusion,0.8,Service Information,False,393
+Negative,Frustration,0.8,Technical Support,True,394
+Positive,Satisfaction,0.3,Service Information,False,395
+Positive,Neutral,0.3,Service Information,False,396
+Neutral,Confusion,0.7,Technical Support,False,397
+Positive,Satisfaction,0.5,Service Information,False,398
+Negative,Frustration,0.7,Complaint,True,399
+Negative,Frustration,0.7,Complaint,True,400
+Positive,Satisfaction,0.8,Service Information,False,401
+Neutral,Satisfaction,0.5,Service Information,False,402
+Neutral,Confusion,0.7,Technical Support,False,403
+Positive,Satisfaction,0.3,Service Information,False,404
+Neutral,Confusion,0.6,Technical Support,False,405
+Neutral,Neutral,0.5,Billing,False,406
+Neutral,Confusion,0.5,Service Information,False,407
+Neutral,Confusion,0.6,Technical Support,False,408
+Neutral,Confusion,0.5,Service Information,False,409
+Neutral,Satisfaction,0.5,Complaint,False,410
+Neutral,Confusion,0.6,Technical Support,False,411
+Neutral,Confusion,0.8,Technical Support,False,412
+Positive,Satisfaction,0.7,Service Information,False,413
+Neutral,Confusion,0.5,Service Information,False,414
+Positive,Satisfaction,0.5,Service Information,False,415
+Positive,Gratitude,0.3,Service Information,False,416
+Negative,Frustration,0.9,Complaint,True,417
+Negative,Frustration,0.5,Technical Support,True,418
+Neutral,Confusion,0.7,Service Information,False,419
+Neutral,Confusion,0.8,Service Information,False,420
+Neutral,Confusion,0.7,Service Information,False,421
+Neutral,Confusion,0.6,Technical Support,False,422
+Neutral,Confusion,0.6,Technical Support,False,423
+Positive,Neutral,0.1,Service Information,False,424
+Negative,Confusion,0.7,Service Information,False,425
+Neutral,Confusion,0.7,Service Information,False,426
+Positive,Neutral,0.7,Service Information,False,427
+Negative,Frustration,0.8,Technical Support,True,428
+Negative,Frustration,0.8,Complaint,True,429
+Positive,Satisfaction,0.0,Service Information,False,430
+Neutral,Confusion,0.7,Technical Support,False,431
+Positive,Neutral,0.5,Service Information,False,432
+Neutral,Confusion,0.6,Technical Support,False,433
+Positive,Satisfaction,0.3,Service Information,False,434
+Neutral,Confusion,0.5,Service Information,False,435
+Positive,Neutral,0.5,Service Information,False,436
+Neutral,Neutral,0.5,Service Information,False,437
+Negative,Anger,1.0,Complaint,True,438
+Negative,Frustration,0.8,Service Information,False,439
+Positive,Satisfaction,0.2,Service Information,False,440
+Neutral,Confusion,0.4,Service Information,False,441
+Positive,Satisfaction,0.2,Service Information,False,442
+Neutral,Satisfaction,0.3,Service Information,False,443
+Neutral,Confusion,0.5,Technical Support,False,444
+Positive,Satisfaction,0.6,Service Information,False,445
+Positive,Gratitude,0.5,Service Information,False,446
+Negative,Frustration,0.8,Complaint,True,447
+Neutral,Confusion,0.6,Technical Support,False,448
+Positive,Satisfaction,0.3,Service Information,False,449
+Neutral,Confusion,0.6,Technical Support,False,450
+Positive,Gratitude,0.0,Service Information,False,451
+Neutral,Confusion,0.6,Technical Support,False,452
+Negative,Frustration,0.8,Complaint,True,453
+Negative,Frustration,0.8,Complaint,True,454
+Negative,Anger,0.8,Complaint,True,455
+Positive,Satisfaction,0.2,Service Information,False,456
+Neutral,Confusion,0.6,Technical Support,False,457
+Neutral,Confusion,0.7,Billing,False,458
+Positive,Gratitude,0.0,Service Information,False,459
+Negative,Frustration,0.7,Technical Support,False,460
+Negative,Frustration,0.7,Service Information,False,461
+Neutral,Confusion,0.7,Service Information,False,462
+Negative,Anger,1.0,Complaint,True,463
+Positive,Satisfaction,0.6,Service Information,False,464
+Neutral,Frustration,0.7,Service Information,False,465
+Neutral,Confusion,0.6,Technical Support,False,466
+Positive,Gratitude,0.3,Service Information,False,467
+Neutral,Confusion,0.6,Technical Support,False,468
+Negative,Frustration,0.8,Complaint,True,469
+Negative,Frustration,0.8,Billing,True,470
+Positive,Gratitude,0.2,Service Information,False,471
+Neutral,Confusion,0.7,Service Information,False,472
+Negative,Confusion,0.8,Service Information,False,473
+Positive,Satisfaction,0.2,Service Information,False,474
+Negative,Anger,0.7,Complaint,True,475
+Positive,Satisfaction,0.5,Service Information,False,476
+Neutral,Gratitude,0.5,Technical Support,False,477
+Positive,Gratitude,0.0,Other,False,478
+Neutral,Frustration,0.7,Complaint,True,479
+Neutral,Confusion,0.6,Technical Support,False,480
+Neutral,Confusion,0.6,Service Information,False,481
+Neutral,Frustration,0.7,Service Information,False,482
+Positive,Gratitude,0.1,Service Information,False,483
+Neutral,Confusion,0.3,Service Information,False,484
+Positive,Gratitude,0.2,Service Information,False,485
+Positive,Satisfaction,0.3,Service Information,False,486
+Neutral,Confusion,0.6,Technical Support,False,487
+Neutral,Neutral,0.5,Billing,False,488
+Positive,Neutral,0.3,Service Information,False,489
+Neutral,Frustration,0.7,Service Information,False,490
+Negative,Frustration,0.9,Complaint,True,491
+Neutral,Confusion,0.5,Service Information,False,492
+Neutral,Confusion,0.7,Service Information,False,493
+Neutral,Confusion,0.5,Service Information,False,494
+Neutral,Confusion,0.7,Technical Support,False,495
+Positive,Neutral,0.3,Service Information,False,496
+Positive,Satisfaction,0.5,Service Information,False,497
+Positive,Satisfaction,0.5,Service Information,False,498
+Neutral,Confusion,0.6,Technical Support,False,499
+Neutral,Confusion,0.6,Technical Support,False,500
+Neutral,Confusion,0.4,Billing,False,501
+Neutral,Confusion,0.7,Service Information,False,502
+Positive,Satisfaction,0.2,Billing,False,503
+Neutral,Neutral,0.5,Billing,False,504
+Neutral,Frustration,0.7,Complaint,True,505
+Neutral,Confusion,0.7,Technical Support,False,506
+Positive,Satisfaction,0.5,Service Information,False,507
+Positive,Neutral,0.3,Service Information,False,508
+Negative,Frustration,0.8,Complaint,True,509
+Neutral,Confusion,0.7,Service Information,False,510
+Neutral,Confusion,0.7,Service Information,False,511
+Neutral,Neutral,0.5,Technical Support,False,512
+Negative,Frustration,0.6,Service Information,False,513
+Positive,Satisfaction,0.7,Service Information,False,514
+Neutral,Confusion,0.6,Service Information,False,515
+Negative,Frustration,0.7,Service Information,False,516
+Neutral,Confusion,0.7,Service Information,False,517
+Neutral,Confusion,0.5,Technical Support,False,518
+Positive,Satisfaction,0.3,Service Information,False,519
+Neutral,Confusion,0.6,Technical Support,False,520
+Neutral,Confusion,0.6,Technical Support,False,521
+Neutral,Confusion,0.7,Service Information,True,522
+Positive,Satisfaction,0.8,Service Information,False,523
+Positive,Gratitude,0.2,Service Information,False,524
+Neutral,Confusion,0.3,Service Information,False,525
+Positive,Satisfaction,0.7,Service Information,False,526
+Positive,Gratitude,0.4,Service Information,False,527
+Negative,Frustration,0.9,Complaint,True,528
+Neutral,Confusion,0.7,Technical Support,False,529
+Neutral,Confusion,0.6,Technical Support,False,530
+Neutral,Confusion,0.6,Technical Support,False,531
+Negative,Anger,0.9,Complaint,True,532
+Negative,Frustration,0.8,Complaint,True,533
+Neutral,Confusion,0.6,Technical Support,False,534
+Negative,Frustration,0.9,Complaint,True,535
+Positive,Satisfaction,0.3,Service Information,False,536
+Positive,Neutral,0.5,Service Information,False,537
+Positive,Neutral,0.5,Service Information,False,538
+Neutral,Confusion,0.6,Technical Support,False,539
+Neutral,Confusion,0.6,Service Information,False,540
+Negative,Frustration,0.7,Complaint,True,541
+Positive,Gratitude,0.3,Service Information,False,542
+Negative,Frustration,0.9,Complaint,True,543
+Neutral,Confusion,0.5,Technical Support,False,544
+Neutral,Confusion,0.6,Technical Support,False,545
+Negative,Frustration,0.6,Complaint,True,546
+Positive,Satisfaction,0.3,Service Information,False,547
+Neutral,Neutral,0.2,Service Information,False,548
+Neutral,Confusion,0.7,Service Information,True,549
+Neutral,Confusion,0.6,Service Information,False,550
+Negative,Frustration,0.7,Complaint,True,551
+Negative,Frustration,0.8,Service Information,False,552
+Neutral,Confusion,0.7,Service Information,False,553
+Neutral,Confusion,0.6,Technical Support,False,554
+Neutral,Confusion,0.6,Technical Support,False,555
+Positive,Satisfaction,0.7,Service Information,False,556
+Negative,Frustration,0.6,Complaint,True,557
+Neutral,Confusion,0.6,Technical Support,False,558
+Positive,Neutral,0.4,Service Information,False,559
+Negative,Frustration,0.6,Service Information,False,560
+Neutral,Confusion,0.6,Technical Support,False,561
+Neutral,Confusion,0.7,Service Information,False,562
+Neutral,Confusion,0.6,Service Information,False,563
+Neutral,Confusion,0.7,Service Information,False,564
+Neutral,Confusion,0.6,Technical Support,False,565
+Positive,Satisfaction,0.4,Service Information,False,566
+Negative,Frustration,0.8,Complaint,True,567
+Positive,Satisfaction,0.3,Service Information,False,568
+Neutral,Frustration,0.8,Complaint,True,569
+Positive,Neutral,0.5,Service Information,False,570
+Positive,Confusion,0.6,Service Information,False,571
+Negative,Frustration,0.8,Service Information,False,572
+Positive,Gratitude,0.7,Service Information,False,573
+Positive,Satisfaction,0.6,Service Information,False,574
+Positive,Satisfaction,0.5,Service Information,False,575
+Neutral,Confusion,0.6,Service Information,False,576
+Negative,Frustration,0.7,Billing,False,577
+Neutral,Confusion,0.5,Service Information,False,578
+Positive,Gratitude,0.6,Service Information,False,579
+Negative,Frustration,0.8,Complaint,True,580
+Positive,Satisfaction,0.7,Service Information,False,581
+Positive,Gratitude,0.6,Technical Support,False,582
+Positive,Gratitude,0.7,Service Information,False,583
+Positive,Satisfaction,0.6,Service Information,False,584
+Neutral,Confusion,0.7,Service Information,False,585
+Positive,Satisfaction,0.3,Service Information,False,586
+Neutral,Frustration,0.8,Complaint,False,587
+Neutral,Confusion,0.6,Technical Support,False,588
+Positive,Neutral,0.8,Service Information,False,589
+Positive,Gratitude,0.0,Service Information,False,590
+Positive,Satisfaction,0.5,Service Information,False,591
+Neutral,Confusion,0.7,Service Information,False,592
+Positive,Satisfaction,0.4,Service Information,False,593
+Positive,Neutral,0.7,Service Information,False,594
+Negative,Frustration,0.9,Complaint,True,595
+Negative,Confusion,0.7,Service Information,False,596
+Positive,Satisfaction,0.6,Service Information,False,597
+Positive,Satisfaction,0.1,Service Information,False,598
+Negative,Frustration,0.8,Complaint,True,599
+Positive,Gratitude,0.2,Service Information,False,600
+Positive,Neutral,0.3,Service Information,False,601
+Positive,Neutral,0.3,Service Information,False,602
+Neutral,Frustration,0.6,Billing,False,603
+Positive,Confusion,0.3,Service Information,False,604
+Neutral,Neutral,0.5,Billing,False,605
+Neutral,Frustration,0.7,Service Information,False,606
+Negative,Frustration,0.8,Complaint,True,607
+Neutral,Confusion,0.7,Technical Support,False,608
+Positive,Gratitude,0.0,Service Information,False,609
+Neutral,Confusion,0.3,Service Information,False,610
+Negative,Frustration,0.8,Complaint,True,611
+Neutral,Confusion,0.7,Service Information,False,612
+Positive,Neutral,0.6,Service Information,False,613
+Negative,Frustration,0.8,Complaint,True,614
+Positive,Gratitude,0.8,Service Information,False,615
+Positive,Satisfaction,0.3,Technical Support,False,616
+Neutral,Confusion,0.6,Technical Support,False,617
+Positive,Satisfaction,0.3,Service Information,False,618
+Neutral,Confusion,0.5,Technical Support,False,619
+Positive,Satisfaction,0.2,Service Information,False,620
+Neutral,Confusion,0.7,Service Information,False,621
+Neutral,Neutral,0.5,Billing,False,622
+Neutral,Confusion,0.7,Technical Support,False,623
+Positive,Gratitude,0.2,Service Information,False,624
+Negative,Frustration,0.8,Complaint,True,625
+Negative,Frustration,0.7,Service Information,False,626
+Positive,Neutral,0.5,Service Information,False,627
+Neutral,Confusion,0.6,Technical Support,False,628
+Positive,Satisfaction,0.5,Service Information,False,629
+Positive,Satisfaction,0.3,Service Information,False,630
+Neutral,Confusion,0.8,Service Information,False,631
+Negative,Frustration,0.9,Complaint,True,632
+Negative,Frustration,0.8,Complaint,True,633
+Neutral,Neutral,0.5,Billing,False,634
+Neutral,Neutral,0.8,Technical Support,False,635
+Negative,Anger,0.9,Complaint,True,636
+Neutral,Confusion,0.6,Technical Support,False,637
+Negative,Frustration,0.8,Complaint,True,638
+Positive,Satisfaction,0.1,Service Information,False,639
+Positive,Satisfaction,0.3,Service Information,False,640
+Negative,Frustration,0.8,Complaint,True,641
+Positive,Satisfaction,0.3,Service Information,False,642
+Positive,Satisfaction,0.6,Service Information,False,643
+Positive,Satisfaction,0.5,Service Information,False,644
+Neutral,Confusion,0.8,Technical Support,False,645
+Positive,Satisfaction,0.2,Service Information,False,646
+Negative,Frustration,0.7,Service Information,False,647
+Positive,Satisfaction,1.0,Service Information,False,648
+Neutral,Confusion,0.7,Technical Support,False,649
+Neutral,Confusion,0.6,Technical Support,False,650
+Positive,Neutral,0.3,Service Information,False,651
+Positive,Satisfaction,0.3,Service Information,False,652
+Neutral,Confusion,0.6,Technical Support,False,653
+Neutral,Confusion,0.3,Service Information,False,654
+Positive,Satisfaction,0.5,Service Information,False,655
+Neutral,Confusion,0.6,Technical Support,False,656
+Neutral,Confusion,0.7,Technical Support,False,657
+Positive,Satisfaction,0.3,Service Information,False,658
+Neutral,Confusion,0.6,Service Information,False,659
+Neutral,Confusion,0.7,Technical Support,False,660
+Negative,Frustration,0.8,Complaint,True,661
+Positive,Satisfaction,0.7,Service Information,False,662
+Positive,Satisfaction,0.5,Service Information,False,663
+Negative,Frustration,0.8,Complaint,True,664
+Neutral,Confusion,0.5,Technical Support,False,665
+Neutral,Neutral,0.5,Billing,False,666
+Positive,Neutral,0.5,Service Information,False,667
+Neutral,Confusion,0.5,Service Information,False,668
+Positive,Satisfaction,0.3,Service Information,False,669
+Neutral,Confusion,0.7,Service Information,False,670
+Positive,Gratitude,0.3,Service Information,False,671
+Positive,Satisfaction,0.5,Service Information,False,672
+Neutral,Confusion,0.6,Service Information,False,673
+Positive,Gratitude,0.2,Service Information,False,674
+Neutral,Confusion,0.7,Service Information,False,675
+Negative,Frustration,0.8,Complaint,True,676
+Neutral,Neutral,0.0,Complaint,False,677
+Neutral,Confusion,0.7,Service Information,False,678
+Neutral,Confusion,0.7,Billing,True,679
+Positive,Satisfaction,1.0,Service Information,False,680
+Negative,Confusion,0.8,Complaint,False,681
+Positive,Neutral,0.6,Service Information,False,682
+Neutral,Confusion,0.7,Service Information,False,683
+Negative,Frustration,0.9,Complaint,True,684
+Positive,Satisfaction,0.6,Service Information,False,685
+Neutral,Confusion,0.6,Technical Support,False,686
+Positive,Gratitude,0.2,Service Information,False,687
+Neutral,Confusion,0.3,Service Information,False,688
+Positive,Gratitude,0.5,Billing,False,689
+Neutral,Confusion,0.6,Technical Support,False,690
+Negative,Frustration,0.8,Technical Support,True,691
+Negative,Frustration,0.8,Complaint,True,692
+Negative,Frustration,0.8,Complaint,True,693
+Neutral,Confusion,0.6,Technical Support,False,694
+Neutral,Neutral,0.7,Service Information,False,695
+Negative,Frustration,0.7,Technical Support,True,696
+Negative,Frustration,0.7,Complaint,True,697
+Positive,Satisfaction,0.5,Service Information,False,698
+Positive,Satisfaction,0.3,Service Information,False,699
+Neutral,Confusion,0.6,Billing,False,700
+Positive,Gratitude,0.3,Service Information,False,701
+Neutral,Confusion,0.6,Technical Support,False,702
+Neutral,Confusion,0.7,Technical Support,False,703
+Positive,Satisfaction,0.3,Service Information,False,704
+Neutral,Confusion,0.7,Technical Support,False,705
+Neutral,Confusion,0.6,Service Information,False,706
+Negative,Frustration,0.7,Billing,True,707
+Positive,Gratitude,0.3,Service Information,False,708
+Neutral,Confusion,0.2,Service Information,False,709
+Positive,Neutral,0.9,Technical Support,False,710
+Neutral,Confusion,0.6,Technical Support,False,711
+Positive,Satisfaction,0.0,Service Information,False,712
+Positive,Neutral,0.2,Service Information,False,713
+Positive,Neutral,0.3,Service Information,False,714
+Negative,Anger,0.8,Complaint,True,715
+Neutral,Confusion,0.7,Service Information,False,716
+Positive,Gratitude,0.3,Service Information,False,717
+Positive,Satisfaction,0.3,Service Information,False,718
+Neutral,Neutral,0.5,Service Information,False,719
+Positive,Satisfaction,0.8,Service Information,False,720
+Neutral,Frustration,0.7,Complaint,True,721
+Neutral,Confusion,0.6,Technical Support,False,722
+Negative,Frustration,1.0,Complaint,True,723
+Positive,Satisfaction,0.7,Service Information,False,724
+Neutral,Neutral,0.5,Service Information,False,725
+Positive,Gratitude,0.7,Complaint,True,726
+Neutral,Confusion,0.6,Technical Support,False,727
+Negative,Frustration,0.8,Complaint,True,728
+Neutral,Confusion,0.4,Service Information,False,729
+Positive,Satisfaction,0.5,Service Information,False,730
+Positive,Neutral,0.5,Technical Support,False,731
+Negative,Frustration,0.8,Complaint,True,732
+Positive,Gratitude,0.3,Billing,False,733
+Neutral,Confusion,0.5,Service Information,False,734
+Negative,Frustration,1.0,Complaint,True,735
+Positive,Gratitude,0.3,Service Information,False,736
+Neutral,Confusion,0.3,Service Information,False,737
+Positive,Neutral,0.3,Service Information,False,738
+Neutral,Satisfaction,0.7,Service Information,False,739
+Negative,Frustration,0.7,Service Information,False,740
+Neutral,Confusion,0.7,Technical Support,False,741
+Positive,Satisfaction,0.3,Service Information,False,742
+Neutral,Confusion,0.6,Technical Support,False,743
+Positive,Gratitude,0.0,Service Information,False,744
+Positive,Satisfaction,0.5,Service Information,False,745
+Positive,Gratitude,0.5,Service Information,False,746
+Positive,Satisfaction,0.7,Service Information,False,747
+Neutral,Confusion,0.5,Service Information,False,748
+Neutral,Satisfaction,0.3,Service Information,False,749
+Negative,Frustration,0.7,Complaint,True,750
+Neutral,Confusion,0.7,Technical Support,False,751
+Positive,Satisfaction,0.7,Service Information,False,752
+Positive,Satisfaction,0.2,Service Information,False,753
+Neutral,Confusion,0.6,Technical Support,False,754
+Negative,Frustration,0.8,Technical Support,True,755
+Neutral,Confusion,0.6,Technical Support,False,756
+Positive,Gratitude,0.6,Service Information,False,757
+Neutral,Confusion,0.6,Technical Support,False,758
+Neutral,Confusion,0.3,Service Information,False,759
+Neutral,Confusion,0.6,Technical Support,False,760
+Positive,Satisfaction,0.6,Service Information,False,761
+Neutral,Neutral,0.6,Service Information,False,762
+Neutral,Confusion,0.5,Service Information,False,763
+Negative,Frustration,0.8,Complaint,True,764
+Positive,Satisfaction,0.2,Service Information,False,765
+Positive,Gratitude,0.3,Billing,False,766
+Neutral,Confusion,0.7,Service Information,False,767
+Negative,Frustration,0.8,Technical Support,True,768
+Negative,Confusion,0.6,Complaint,False,769
+Positive,Satisfaction,0.5,Service Information,False,770
+Positive,Satisfaction,0.3,Service Information,False,771
+Positive,Neutral,0.5,Service Information,False,772
+Positive,Gratitude,0.2,Service Information,False,773
+Neutral,Confusion,0.7,Service Information,False,774
+Positive,Satisfaction,0.2,Service Information,False,775
+Neutral,Neutral,0.2,Service Information,False,776
+Positive,Gratitude,0.7,Service Information,False,777
+Negative,Frustration,0.9,Complaint,True,778
+Neutral,Confusion,0.7,Technical Support,False,779
+Neutral,Neutral,0.5,Billing,False,780
+Neutral,Confusion,0.7,Technical Support,False,781
+Neutral,Confusion,0.6,Technical Support,False,782
+Neutral,Confusion,0.7,Technical Support,False,783
+Neutral,Confusion,0.6,Service Information,False,784
+Positive,Gratitude,0.3,Service Information,False,785
+Positive,Gratitude,0.7,Service Information,False,786
+Positive,Satisfaction,0.5,Service Information,False,787
+Neutral,Confusion,0.7,Service Information,False,788
+Positive,Neutral,0.3,Service Information,False,789
+Positive,Satisfaction,0.5,Service Information,False,790
+Neutral,Confusion,0.6,Technical Support,False,791
+Neutral,Confusion,0.6,Technical Support,False,792
+Positive,Neutral,0.3,Service Information,False,793
+Neutral,Confusion,0.6,Service Information,False,794
+Positive,Gratitude,0.2,Service Information,False,795
+Positive,Gratitude,0.6,Service Information,False,796
+Neutral,Confusion,0.6,Technical Support,False,797
+Neutral,Neutral,0.5,Billing,False,798
+Negative,Frustration,0.8,Complaint,True,799
+Positive,Satisfaction,0.5,Service Information,False,800
+Negative,Frustration,0.8,Complaint,True,801
+Negative,Frustration,0.7,Service Information,False,802
+Positive,Neutral,0.5,Service Information,False,803
+Negative,Frustration,0.7,Complaint,True,804
+Neutral,Confusion,0.7,Service Information,False,805
+Positive,Neutral,0.5,Service Information,False,806
+Neutral,Confusion,0.6,Technical Support,False,807
+Neutral,Confusion,0.7,Service Information,False,808
+Positive,Gratitude,0.4,Service Information,False,809
+Negative,Anger,1.0,Complaint,True,810
+Negative,Frustration,0.8,Complaint,True,811
+Neutral,Satisfaction,0.3,Service Information,False,812
+Negative,Frustration,0.7,Technical Support,True,813
+Positive,Neutral,0.0,Service Information,False,814
+Neutral,Confusion,0.7,Service Information,False,815
+Neutral,Confusion,0.6,Service Information,False,816
+Positive,Gratitude,0.0,Service Information,False,817
+Negative,Frustration,0.8,Technical Support,True,818
+Negative,Frustration,0.7,Complaint,True,819
+Neutral,Confusion,0.6,Technical Support,False,820
+Neutral,Confusion,0.7,Technical Support,False,821
+Positive,Gratitude,0.3,Service Information,False,822
+Positive,Satisfaction,0.9,Service Information,False,823
+Positive,Satisfaction,0.2,Service Information,False,824
+Positive,Satisfaction,0.2,Service Information,False,825
+Neutral,Confusion,0.6,Technical Support,False,826
+Neutral,Confusion,0.7,Service Information,False,827
+Neutral,Confusion,0.6,Technical Support,False,828
+Neutral,Confusion,0.6,Service Information,False,829
+Negative,Anger,0.9,Complaint,True,830
+Neutral,Neutral,0.5,Service Information,False,831
+Neutral,Confusion,0.6,Technical Support,False,832
+Negative,Frustration,0.8,Complaint,True,833
+Neutral,Confusion,0.3,Service Information,False,834
+Negative,Frustration,0.9,Complaint,True,835
+Positive,Neutral,0.6,Technical Support,False,836
+Positive,Satisfaction,0.5,Service Information,False,837
+Neutral,Confusion,0.6,Technical Support,False,838
+Positive,Satisfaction,0.5,Service Information,False,839
+Negative,Frustration,0.7,Complaint,True,840
+Neutral,Confusion,0.6,Service Information,False,841
+Neutral,Confusion,0.6,Technical Support,False,842
+Positive,Satisfaction,0.5,Service Information,False,843
+Negative,Frustration,0.8,Complaint,True,844
+Neutral,Confusion,0.6,Technical Support,False,845
+Positive,Satisfaction,0.6,Service Information,False,846
+Neutral,Confusion,0.6,Technical Support,False,847
+Neutral,Confusion,0.6,Technical Support,False,848
+Neutral,Confusion,0.7,Service Information,False,849
+Positive,Gratitude,0.3,Service Information,False,850
+Neutral,Confusion,0.6,Billing,False,851
+Negative,Frustration,0.7,Billing,True,852
+Neutral,Confusion,0.7,Technical Support,False,853
+Neutral,Satisfaction,0.5,Service Information,False,854
+Negative,Frustration,0.9,Complaint,True,855
+Neutral,Confusion,0.6,Technical Support,False,856
+Negative,Frustration,0.8,Billing,False,857
+Positive,Satisfaction,0.6,Service Information,False,858
+Neutral,Neutral,0.5,Billing,False,859
+Positive,Frustration,0.8,Complaint,True,860
+Neutral,Confusion,0.6,Service Information,False,861
+Positive,Satisfaction,0.3,Service Information,False,862
+Positive,Satisfaction,0.5,Service Information,False,863
+Neutral,Confusion,0.6,Technical Support,False,864
+Negative,Frustration,0.9,Complaint,True,865
+Neutral,Confusion,0.7,Technical Support,False,866
+Neutral,Confusion,0.6,Technical Support,False,867
+Positive,Neutral,0.3,Service Information,False,868
+Neutral,Confusion,0.6,Technical Support,False,869
+Negative,Frustration,0.8,Complaint,False,870
+Neutral,Confusion,0.6,Technical Support,False,871
+Negative,Anger,0.9,Complaint,True,872
+Positive,Satisfaction,0.7,Service Information,False,873
+Positive,Satisfaction,0.3,Service Information,False,874
+Positive,Satisfaction,0.8,Service Information,False,875
+Neutral,Confusion,0.6,Technical Support,False,876
+Negative,Frustration,0.8,Complaint,True,877
+Neutral,Confusion,0.6,Technical Support,False,878
+Neutral,Frustration,0.8,Service Information,False,879
+Positive,Satisfaction,0.6,Service Information,False,880
+Neutral,Confusion,0.7,Technical Support,False,881
+Positive,Gratitude,0.2,Complaint,False,882
+Negative,Frustration,0.8,Technical Support,True,883
+Neutral,Confusion,0.6,Technical Support,False,884
+Negative,Frustration,0.8,Complaint,True,885
+Positive,Neutral,0.0,Service Information,False,886
+Negative,Frustration,0.8,Complaint,True,887
+Negative,Frustration,0.8,Technical Support,True,888
+Positive,Neutral,0.3,Service Information,False,889
+Neutral,Neutral,0.5,Billing,False,890
+Positive,Gratitude,0.3,Service Information,False,891
+Neutral,Confusion,0.7,Technical Support,False,892
+Positive,Gratitude,0.2,Service Information,False,893
+Positive,Neutral,0.5,Service Information,False,894
+Neutral,Confusion,0.6,Service Information,False,895
+Positive,Satisfaction,0.3,Service Information,False,896
+Positive,Satisfaction,0.7,Service Information,False,897
+Negative,Frustration,0.7,Complaint,True,898
+Neutral,Confusion,0.6,Technical Support,False,899
+Negative,Frustration,1.0,Complaint,False,900
+Negative,Frustration,0.8,Complaint,True,901
+Negative,Frustration,0.7,Technical Support,False,902
+Neutral,Satisfaction,0.3,Service Information,False,903
+Negative,Frustration,0.7,Service Information,False,904
+Positive,Satisfaction,0.3,Service Information,False,905
+Positive,Satisfaction,0.6,Service Information,False,906
+Neutral,Confusion,0.6,Technical Support,False,907
+Neutral,Confusion,0.6,Technical Support,False,908
+Neutral,Neutral,0.5,Billing,False,909
+Positive,Neutral,0.3,Service Information,False,910
+Neutral,Confusion,0.6,Technical Support,False,911
+Neutral,Confusion,0.6,Technical Support,False,912
+Neutral,Confusion,0.6,Technical Support,False,913
+Negative,Frustration,0.8,Complaint,True,914
+Positive,Satisfaction,0.0,Service Information,False,915
+Neutral,Confusion,0.6,Service Information,False,916
+Positive,Satisfaction,0.7,Service Information,False,917
+Positive,Satisfaction,0.4,Service Information,False,918
+Positive,Gratitude,0.0,Service Information,False,919
+Neutral,Confusion,0.6,Technical Support,False,920
+Neutral,Confusion,0.6,Technical Support,False,921
+Positive,Satisfaction,0.3,Service Information,False,922
+Neutral,Confusion,0.6,Technical Support,False,923
+Positive,Satisfaction,0.3,Service Information,False,924
+Positive,Satisfaction,0.3,Service Information,False,925
+Positive,Neutral,0.0,Service Information,False,926
+Positive,Satisfaction,0.2,Service Information,False,927
+Neutral,Confusion,0.7,Technical Support,False,928
+Neutral,Confusion,0.6,Technical Support,False,929
+Neutral,Confusion,0.7,Technical Support,False,930
+Negative,Frustration,0.8,Complaint,True,931
+Neutral,Neutral,0.5,Technical Support,False,932
+Positive,Gratitude,0.3,Service Information,False,933
+Negative,Frustration,0.8,Complaint,True,934
+Positive,Neutral,0.6,Service Information,False,935
+Positive,Satisfaction,0.3,Service Information,False,936
+Negative,Frustration,0.8,Technical Support,True,937
+Neutral,Neutral,0.5,Billing,False,938
+Neutral,Neutral,0.5,Technical Support,False,939
+Neutral,Confusion,0.7,Technical Support,False,940
+Neutral,Confusion,0.6,Technical Support,False,941
+Positive,Neutral,0.7,Service Information,False,942
+Neutral,Confusion,0.6,Technical Support,False,943
+Neutral,Confusion,0.6,Technical Support,False,944
+Neutral,Confusion,0.6,Technical Support,False,945
+Positive,Satisfaction,0.5,Service Information,False,946
+Neutral,Confusion,0.7,Technical Support,False,947
+Negative,Frustration,1.0,Complaint,True,948
+Positive,Neutral,1.0,Service Information,True,949
+Negative,Frustration,0.7,Complaint,True,950
+Negative,Anger,0.8,Complaint,True,951
+Neutral,Confusion,0.6,Technical Support,False,952
+Neutral,Confusion,0.6,Technical Support,False,953
+Neutral,Confusion,0.6,Service Information,False,954
+Positive,Satisfaction,0.8,Billing,False,955
+Neutral,Confusion,0.6,Service Information,False,956
+Neutral,Confusion,0.7,Service Information,False,957
+Positive,Satisfaction,0.3,Service Information,False,958
+Positive,Satisfaction,0.4,Service Information,False,959
+Negative,Frustration,0.8,Complaint,False,960
+Positive,Neutral,0.5,Service Information,False,961
+Negative,Frustration,0.8,Complaint,True,962
+Positive,Satisfaction,0.7,Service Information,False,963
+Neutral,Neutral,0.6,Service Information,False,964
+Positive,Satisfaction,0.7,Service Information,False,965
+Neutral,Confusion,0.6,Technical Support,False,966
+Positive,Gratitude,0.3,Service Information,False,967
+Positive,Satisfaction,0.5,Service Information,False,968
+Positive,Neutral,0.6,Service Information,False,969
+Neutral,Confusion,0.6,Technical Support,False,970
+Positive,Gratitude,0.8,Technical Support,False,971
+Positive,Neutral,0.5,Technical Support,False,972
+Positive,Neutral,0.8,Service Information,False,973
+Positive,Neutral,0.3,Service Information,False,974
+Negative,Frustration,0.8,Complaint,True,975
+Negative,Anger,0.9,Complaint,True,976
+Negative,Frustration,0.8,Complaint,True,977
+Neutral,Confusion,0.6,Technical Support,False,978
+Neutral,Confusion,0.6,Billing,False,979
+Negative,Frustration,0.8,Complaint,True,980
+Negative,Frustration,0.8,Complaint,True,981
+Negative,Frustration,1.0,Complaint,True,982
+Neutral,Confusion,0.6,Technical Support,False,983
+Neutral,Confusion,0.7,Service Information,False,984
+Neutral,Satisfaction,0.3,Service Information,False,985
+Negative,Frustration,0.6,Complaint,False,986
+Negative,Frustration,0.8,Service Information,True,987
+Neutral,Confusion,0.6,Technical Support,False,988
+Positive,Neutral,0.8,Service Information,False,989
+Positive,Gratitude,0.0,Service Information,False,990
+Neutral,Confusion,0.7,Technical Support,False,991
+Neutral,Confusion,0.6,Service Information,False,992
+Positive,Satisfaction,0.5,Service Information,False,993
+Neutral,Confusion,0.7,Service Information,False,994
+Positive,Satisfaction,0.5,Service Information,False,995
+Neutral,Confusion,0.6,Technical Support,False,996
+Positive,Neutral,0.3,Service Information,False,997
+Positive,Gratitude,0.2,Service Information,False,998
+Neutral,Confusion,0.5,Service Information,False,999
+Positive,Gratitude,0.2,Service Information,False,1000
+Negative,Frustration,0.7,Complaint,True,1001
+Positive,Satisfaction,0.6,Service Information,False,1002
+Positive,Satisfaction,0.5,Service Information,False,1003
+Negative,Frustration,1.0,Complaint,True,1004
+Positive,Gratitude,0.3,Service Information,False,1005
+Neutral,Confusion,0.6,Technical Support,False,1006
+Negative,Frustration,0.8,Service Information,False,1007
+Positive,Neutral,0.3,Service Information,False,1008
+Positive,Neutral,0.2,Technical Support,False,1009
+Neutral,Neutral,0.5,Complaint,False,1010
+Neutral,Confusion,0.7,Technical Support,False,1011
+Neutral,Neutral,0.5,Service Information,False,1012
+Positive,Satisfaction,0.3,Service Information,False,1013
+Positive,Gratitude,0.2,Service Information,False,1014
+Positive,Neutral,0.3,Service Information,False,1015
+Neutral,Confusion,0.5,Service Information,False,1016
+Neutral,Confusion,0.7,Technical Support,False,1017
+Positive,Gratitude,0.0,Service Information,False,1018
+Positive,Satisfaction,0.3,Service Information,False,1019
+Negative,Frustration,0.8,Complaint,True,1020
+Positive,Neutral,0.3,Service Information,False,1021
+Positive,Neutral,0.3,Service Information,False,1022
+Negative,Frustration,0.8,Technical Support,True,1023
+Neutral,Confusion,0.4,Service Information,False,1024
+Negative,Frustration,0.8,Technical Support,True,1025
+Neutral,Confusion,0.7,Service Information,False,1026
+Positive,Satisfaction,0.1,Service Information,False,1027
+Positive,Neutral,0.5,Service Information,False,1028
+Negative,Frustration,0.8,Complaint,False,1029
+Neutral,Confusion,0.7,Technical Support,False,1030
+Positive,Confusion,0.5,Service Information,False,1031
+Negative,Confusion,0.8,Technical Support,False,1032
+Neutral,Confusion,0.8,Service Information,False,1033
+Neutral,Neutral,0.4,Technical Support,False,1034
+Neutral,Confusion,0.6,Technical Support,False,1035
+Neutral,Neutral,0.5,Service Information,False,1036
+Neutral,Confusion,0.6,Service Information,False,1037
+Neutral,Frustration,0.8,Service Information,False,1038
+Neutral,Confusion,0.6,Service Information,False,1039
+Neutral,Neutral,0.5,Billing,False,1040
+Positive,Neutral,0.3,Service Information,False,1041
+Positive,Neutral,0.5,Service Information,False,1042
+Positive,Satisfaction,0.1,Service Information,False,1043
+Neutral,Confusion,0.7,Service Information,False,1044
+Neutral,Confusion,0.5,Service Information,False,1045
+Positive,Satisfaction,0.5,Service Information,False,1046
+Positive,Satisfaction,0.7,Service Information,False,1047
+Positive,Satisfaction,0.3,Service Information,False,1048
+Positive,Gratitude,0.8,Service Information,False,1049
+Positive,Satisfaction,0.8,Service Information,False,1050
+Neutral,Confusion,0.6,Technical Support,False,1051
+Negative,Frustration,0.9,Complaint,True,1052
+Positive,Satisfaction,0.2,Service Information,False,1053
+Neutral,Frustration,0.6,Billing,False,1054
+Positive,Gratitude,0.3,Service Information,False,1055
+Positive,Gratitude,0.3,Service Information,False,1056
+Positive,Neutral,0.7,Service Information,False,1057
+Negative,Frustration,0.7,Complaint,True,1058
+Neutral,Confusion,0.5,Complaint,False,1059
+Positive,Gratitude,0.4,Service Information,False,1060
+Neutral,Neutral,0.7,Service Information,False,1061
+Positive,Satisfaction,0.8,Service Information,False,1062
+Positive,Neutral,0.3,Service Information,False,1063
+Positive,Neutral,0.8,Service Information,False,1064
+Neutral,Confusion,0.6,Technical Support,False,1065
+Negative,Neutral,0.8,Complaint,True,1066
+Negative,Frustration,0.8,Complaint,True,1067
+Neutral,Confusion,0.3,Service Information,False,1068
+Positive,Satisfaction,0.6,Service Information,False,1069
+Positive,Gratitude,0.0,Service Information,False,1070
+Neutral,Confusion,0.6,Technical Support,False,1071
+Neutral,Confusion,0.5,Technical Support,False,1072
+Negative,Frustration,0.8,Technical Support,True,1073
+Positive,Satisfaction,0.7,Technical Support,False,1074
+Neutral,Confusion,0.6,Service Information,False,1075
+Neutral,Neutral,0.5,Technical Support,False,1076
+Positive,Neutral,0.5,Technical Support,False,1077
+Positive,Satisfaction,0.3,Service Information,False,1078
+Neutral,Neutral,0.5,Technical Support,False,1079
+Neutral,Confusion,0.7,Service Information,False,1080
+Neutral,Neutral,0.5,Service Information,False,1081
+Neutral,Confusion,0.6,Technical Support,False,1082
+Neutral,Confusion,0.6,Technical Support,False,1083
+Neutral,Confusion,0.7,Technical Support,False,1084
+Neutral,Confusion,0.7,Service Information,False,1085
+Neutral,Confusion,0.7,Service Information,False,1086
+Negative,Frustration,0.9,Complaint,True,1087
+Positive,Satisfaction,0.5,Service Information,False,1088
+Neutral,Confusion,0.6,Technical Support,False,1089
+Positive,Neutral,0.6,Service Information,False,1090
+Positive,Satisfaction,0.2,Service Information,False,1091
+Positive,Satisfaction,0.6,Service Information,False,1092
+Neutral,Confusion,0.6,Technical Support,False,1093
+Neutral,Confusion,0.6,Technical Support,False,1094
+Positive,Satisfaction,0.5,Service Information,False,1095
+Positive,Satisfaction,0.2,Service Information,False,1096
+Neutral,Confusion,0.6,Technical Support,False,1097
+Neutral,Confusion,0.6,Technical Support,False,1098
+Negative,Frustration,0.7,Service Information,False,1099
+Neutral,Confusion,0.3,Service Information,False,1100
+Positive,Satisfaction,0.3,Service Information,False,1101
+Neutral,Confusion,0.7,Service Information,False,1102
+Neutral,Confusion,0.3,Service Information,False,1103
+Negative,Frustration,0.8,Complaint,True,1104
+Neutral,Confusion,0.6,Technical Support,False,1105
+Neutral,Confusion,0.6,Technical Support,False,1106
+Positive,Satisfaction,0.7,Service Information,False,1107
+Neutral,Confusion,0.6,Technical Support,False,1108
+Positive,Satisfaction,0.5,Service Information,False,1109
+Positive,Satisfaction,0.3,Service Information,False,1110
+Positive,Satisfaction,0.7,Service Information,False,1111
+Positive,Satisfaction,0.2,Service Information,False,1112
+Positive,Satisfaction,0.7,Service Information,False,1113
+Positive,Gratitude,0.5,Billing,False,1114
+Negative,Frustration,0.7,Complaint,True,1115
+Positive,Satisfaction,0.2,Service Information,False,1116
+Negative,Frustration,0.7,Complaint,True,1117
+Positive,Satisfaction,0.3,Service Information,False,1118
+Negative,Frustration,0.8,Complaint,True,1119
+Positive,Satisfaction,0.5,Other,False,1120
+Neutral,Confusion,0.6,Technical Support,False,1121
+Neutral,Frustration,0.8,Complaint,True,1122
+Positive,Satisfaction,0.3,Service Information,False,1123
+Positive,Satisfaction,0.6,Service Information,False,1124
+Neutral,Confusion,0.4,Service Information,False,1125
+Negative,Frustration,0.7,Technical Support,False,1126
+Negative,Frustration,0.8,Complaint,True,1127
+Neutral,Confusion,0.5,Service Information,False,1128
+Positive,Satisfaction,0.3,Service Information,False,1129
+Positive,Satisfaction,0.7,Service Information,False,1130
+Positive,Neutral,0.3,Technical Support,False,1131
+Neutral,Confusion,0.7,Technical Support,False,1132
+Neutral,Neutral,0.5,Technical Support,False,1133
+Neutral,Confusion,0.7,Technical Support,False,1134
+Neutral,Confusion,0.4,Service Information,False,1135
+Negative,Neutral,0.7,Complaint,True,1136
+Neutral,Confusion,0.7,Technical Support,False,1137
+Negative,Frustration,0.8,Complaint,True,1138
+Neutral,Frustration,0.7,Service Information,False,1139
+Positive,Satisfaction,0.3,Service Information,False,1140
+Neutral,Confusion,0.7,Billing,False,1141
+Neutral,Confusion,0.7,Technical Support,False,1142
+Neutral,Satisfaction,0.5,Service Information,False,1143
+Neutral,Neutral,0.5,Technical Support,False,1144
+Positive,Satisfaction,0.3,Service Information,False,1145
+Neutral,Confusion,0.5,Service Information,False,1146
+Neutral,Confusion,0.6,Technical Support,False,1147
+Negative,Frustration,0.8,Complaint,True,1148
+Neutral,Frustration,0.7,Service Information,False,1149
+Neutral,Confusion,0.7,Service Information,False,1150
+Positive,Satisfaction,0.3,Service Information,False,1151
+Negative,Frustration,0.8,Complaint,False,1152
+Positive,Satisfaction,0.3,Service Information,False,1153
+Neutral,Neutral,0.5,Technical Support,False,1154
+Positive,Satisfaction,0.3,Service Information,False,1155
+Negative,Frustration,0.7,Service Information,False,1156
+Neutral,Confusion,0.7,Service Information,False,1157
+Positive,Satisfaction,0.2,Service Information,False,1158
+Neutral,Confusion,0.5,Technical Support,False,1159
+Positive,Neutral,0.3,Service Information,False,1160
+Neutral,Confusion,0.7,Service Information,False,1161
+Negative,Frustration,0.9,Complaint,True,1162
+Positive,Satisfaction,0.4,Service Information,False,1163
+Neutral,Confusion,0.6,Technical Support,False,1164
+Positive,Satisfaction,0.6,Service Information,False,1165
+Positive,Neutral,0.3,Service Information,False,1166
+Neutral,Confusion,0.6,Service Information,False,1167
+Neutral,Confusion,0.5,Service Information,False,1168
+Positive,Satisfaction,0.3,Service Information,False,1169
+Positive,Satisfaction,0.8,Service Information,False,1170
+Positive,Gratitude,0.0,Service Information,False,1171
+Negative,Frustration,0.7,Complaint,True,1172
+Positive,Satisfaction,0.2,Service Information,False,1173
+Neutral,Confusion,0.5,Technical Support,False,1174
+Neutral,Confusion,0.6,Technical Support,False,1175
+Neutral,Confusion,0.7,Technical Support,False,1176
+Positive,Gratitude,0.2,Service Information,False,1177
+Neutral,Confusion,0.4,Service Information,False,1178
+Neutral,Confusion,0.6,Technical Support,False,1179
+Negative,Frustration,0.8,Complaint,True,1180
+Positive,Neutral,0.2,Service Information,False,1181
+Positive,Satisfaction,0.2,Service Information,False,1182
+Positive,Satisfaction,0.8,Service Information,False,1183
+Positive,Satisfaction,0.2,Service Information,False,1184
+Neutral,Gratitude,0.6,Service Information,False,1185
+Positive,Gratitude,0.2,Service Information,False,1186
+Positive,Neutral,0.6,Technical Support,False,1187
+Neutral,Satisfaction,0.5,Service Information,False,1188
+Neutral,Neutral,0.5,Technical Support,False,1189
+Positive,Gratitude,0.7,Service Information,False,1190
+Positive,Gratitude,0.2,Service Information,False,1191
+Neutral,Confusion,0.7,Service Information,False,1192
+Positive,Gratitude,0.7,Service Information,False,1193
+Neutral,Confusion,0.9,Technical Support,False,1194
+Neutral,Confusion,0.7,Technical Support,False,1195
+Positive,Satisfaction,0.3,Service Information,False,1196
+Neutral,Confusion,0.6,Technical Support,False,1197
+Negative,Frustration,0.7,Technical Support,True,1198
+Neutral,Confusion,0.5,Service Information,False,1199
+Positive,Gratitude,1.0,Service Information,False,1200
+Positive,Satisfaction,0.3,Service Information,False,1201
+Neutral,Confusion,0.6,Technical Support,False,1202
+Negative,Frustration,0.8,Complaint,True,1203
+Neutral,Confusion,0.5,Service Information,False,1204
+Negative,Frustration,0.8,Complaint,True,1205
+Positive,Satisfaction,0.7,Service Information,False,1206
+Neutral,Confusion,0.6,Technical Support,False,1207
+Neutral,Confusion,0.4,Service Information,False,1208
+Positive,Satisfaction,0.2,Service Information,False,1209
+Positive,Gratitude,0.0,Service Information,False,1210
+Neutral,Confusion,0.5,Technical Support,False,1211
+Positive,Satisfaction,0.1,Service Information,False,1212
+Neutral,Neutral,0.5,Billing,False,1213
+Negative,Confusion,0.4,Service Information,False,1214
+Neutral,Confusion,0.6,Technical Support,False,1215
+Neutral,Confusion,0.6,Service Information,False,1216
+Negative,Frustration,0.8,Complaint,True,1217
+Neutral,Confusion,0.6,Technical Support,False,1218
+Negative,Frustration,0.8,Complaint,True,1219
+Neutral,Neutral,0.5,Billing,False,1220
+Positive,Satisfaction,0.5,Service Information,False,1221
+Neutral,Confusion,0.6,Technical Support,False,1222
+Negative,Frustration,0.8,Complaint,False,1223
+Negative,Frustration,0.8,Complaint,True,1224
+Positive,Satisfaction,0.0,Service Information,False,1225
+Neutral,Confusion,0.8,Service Information,False,1226
+Neutral,Confusion,0.7,Technical Support,False,1227
+Neutral,Confusion,0.6,Technical Support,False,1228
+Positive,Gratitude,0.0,Service Information,False,1229
+Negative,Frustration,0.6,Complaint,True,1230
+Neutral,Confusion,0.6,Technical Support,False,1231
+Positive,Neutral,0.5,Service Information,False,1232
+Positive,Satisfaction,0.5,Service Information,False,1233
+Positive,Satisfaction,0.7,Technical Support,False,1234
+Negative,Frustration,0.9,Complaint,True,1235
+Negative,Frustration,0.9,Complaint,True,1236
+Positive,Satisfaction,0.2,Service Information,False,1237
+Neutral,Confusion,0.7,Service Information,False,1238
+Neutral,Confusion,0.6,Service Information,False,1239
+Positive,Gratitude,0.5,Service Information,False,1240
+Positive,Satisfaction,0.1,Service Information,False,1241
+Neutral,Neutral,0.5,Service Information,False,1242
+Neutral,Confusion,0.6,Technical Support,False,1243
+Neutral,Confusion,0.6,Service Information,False,1244
+Neutral,Confusion,0.6,Technical Support,False,1245
+Neutral,Confusion,0.8,Service Information,True,1246
+Neutral,Neutral,0.5,Technical Support,False,1247
+Negative,Frustration,0.8,Technical Support,True,1248
+Neutral,Confusion,0.7,Service Information,False,1249
+Negative,Frustration,0.8,Complaint,True,1250
+Positive,Satisfaction,0.3,Service Information,False,1251
+Negative,Confusion,0.7,Complaint,True,1252
+Positive,Satisfaction,0.7,Service Information,False,1253
+Positive,Satisfaction,0.5,Service Information,False,1254
+Positive,Satisfaction,0.3,Service Information,False,1255
+Neutral,Confusion,0.6,Technical Support,False,1256
+Neutral,Confusion,0.6,Technical Support,False,1257
+Neutral,Frustration,0.6,Service Information,False,1258
+Negative,Frustration,0.8,Complaint,False,1259
+Neutral,Confusion,0.7,Service Information,False,1260
+Positive,Satisfaction,0.7,Service Information,False,1261
+Neutral,Confusion,0.8,Complaint,True,1262
+Negative,Frustration,0.8,Complaint,True,1263
+Positive,Satisfaction,0.3,Service Information,False,1264
+Neutral,Confusion,0.6,Service Information,False,1265
+Positive,Gratitude,0.0,Service Information,False,1266
+Neutral,Neutral,0.5,Technical Support,False,1267
+Neutral,Confusion,0.7,Service Information,False,1268
+Neutral,Confusion,0.6,Technical Support,False,1269
+Neutral,Confusion,0.7,Service Information,False,1270
+Negative,Frustration,0.9,Service Information,False,1271
+Neutral,Confusion,0.6,Technical Support,False,1272
+Neutral,Confusion,0.7,Service Information,False,1273
+Neutral,Confusion,0.7,Technical Support,False,1274
+Neutral,Confusion,0.7,Technical Support,False,1275
+Positive,Satisfaction,0.5,Service Information,False,1276
+Positive,Gratitude,0.3,Service Information,False,1277
+Neutral,Frustration,0.7,Service Information,False,1278
+Negative,Frustration,0.7,Technical Support,False,1279
+Neutral,Confusion,0.7,Billing,False,1280
+Positive,Neutral,0.2,Service Information,False,1281
+Neutral,Confusion,0.6,Technical Support,False,1282
+Negative,Frustration,0.8,Complaint,True,1283
+Negative,Frustration,0.7,Billing,False,1284
+Neutral,Confusion,0.6,Technical Support,False,1285
+Positive,Satisfaction,0.1,Service Information,False,1286
+Positive,Gratitude,0.3,Service Information,False,1287
+Neutral,Confusion,0.7,Technical Support,False,1288
+Negative,Frustration,0.8,Complaint,True,1289
+Neutral,Confusion,0.8,Technical Support,True,1290
+Positive,Neutral,0.7,Service Information,False,1291
+Positive,Satisfaction,0.8,Service Information,False,1292
+Neutral,Neutral,0.5,Service Information,False,1293
+Neutral,Confusion,0.6,Technical Support,False,1294
+Neutral,Neutral,0.5,Complaint,True,1295
+Neutral,Neutral,0.5,Technical Support,False,1296
+Neutral,Confusion,0.6,Technical Support,False,1297
+Neutral,Confusion,0.6,Service Information,False,1298
+Negative,Frustration,0.9,Complaint,True,1299
+Neutral,Confusion,0.6,Technical Support,False,1300
+Positive,Satisfaction,0.0,Service Information,False,1301
+Neutral,Confusion,0.6,Technical Support,False,1302
+Neutral,Frustration,0.8,Service Information,False,1303
+Neutral,Confusion,0.6,Technical Support,False,1304
+Positive,Satisfaction,0.2,Service Information,False,1305
+Neutral,Confusion,0.6,Service Information,False,1306
+Negative,Confusion,0.8,Service Information,False,1307
+Neutral,Confusion,0.6,Service Information,False,1308
+Positive,Neutral,0.7,Service Information,False,1309
+Negative,Anger,0.9,Complaint,True,1310
+Neutral,Neutral,0.5,Technical Support,False,1311
+Positive,Satisfaction,0.4,Service Information,False,1312
+Neutral,Neutral,0.5,Service Information,False,1313
+Positive,Satisfaction,0.3,Service Information,False,1314
+Positive,Neutral,0.5,Service Information,False,1315
+Positive,Satisfaction,0.5,Service Information,False,1316
+Positive,Satisfaction,0.5,Service Information,False,1317
+Neutral,Confusion,0.7,Service Information,False,1318
+Neutral,Confusion,0.6,Technical Support,False,1319
+Positive,Gratitude,0.2,Service Information,False,1320
+Neutral,Confusion,0.6,Technical Support,False,1321
+Positive,Satisfaction,0.3,Service Information,False,1322
+Neutral,Confusion,0.5,Service Information,False,1323
+Neutral,Confusion,0.6,Technical Support,False,1324
+Neutral,Confusion,0.5,Technical Support,False,1325
+Neutral,Confusion,0.7,Technical Support,False,1326
+Positive,Neutral,0.5,Service Information,False,1327
+Neutral,Confusion,0.7,Service Information,False,1328
+Positive,Satisfaction,0.5,Service Information,False,1329
+Neutral,Confusion,0.6,Technical Support,False,1330
+Neutral,Confusion,0.5,Service Information,False,1331
+Neutral,Confusion,0.7,Technical Support,False,1332
+Neutral,Confusion,0.7,Service Information,False,1333
+Neutral,Confusion,0.6,Technical Support,False,1334
+Positive,Satisfaction,0.5,Service Information,False,1335
+Positive,Gratitude,0.7,Service Information,False,1336
+Neutral,Confusion,0.6,Technical Support,False,1337
+Neutral,Neutral,0.3,Technical Support,False,1338
+Positive,Gratitude,0.2,Service Information,False,1339
+Neutral,Confusion,0.7,Technical Support,False,1340
+Positive,Gratitude,0.3,Service Information,False,1341
+Positive,Satisfaction,0.7,Service Information,False,1342
+Negative,Frustration,0.7,Service Information,True,1343
+Positive,Satisfaction,0.2,Service Information,False,1344
+Positive,Satisfaction,0.5,Service Information,False,1345
+Positive,Gratitude,0.0,Service Information,False,1346
+Neutral,Confusion,0.6,Technical Support,False,1347
+Positive,Satisfaction,0.8,Service Information,False,1348
+Negative,Frustration,0.7,Complaint,True,1349
+Positive,Satisfaction,0.7,Service Information,False,1350
+Neutral,Confusion,0.8,Service Information,False,1351
+Neutral,Confusion,0.6,Service Information,False,1352
+Neutral,Neutral,0.5,Service Information,False,1353
+Positive,Satisfaction,0.8,Service Information,False,1354
+Positive,Satisfaction,0.3,Service Information,False,1355
+Neutral,Neutral,0.5,Technical Support,False,1356
+Neutral,Frustration,0.8,Service Information,True,1357
+Positive,Neutral,0.7,Complaint,True,1358
+Positive,Satisfaction,0.7,Service Information,False,1359
+Negative,Frustration,0.8,Complaint,True,1360
+Neutral,Confusion,0.5,Service Information,False,1361
+Neutral,Confusion,0.6,Technical Support,False,1362
+Positive,Confusion,0.7,Service Information,False,1363
+Positive,Confusion,0.6,Service Information,False,1364
+Neutral,Confusion,0.5,Service Information,False,1365
+Positive,Satisfaction,0.3,Service Information,False,1366
+Positive,Gratitude,0.1,Service Information,False,1367
+Negative,Frustration,0.8,Complaint,True,1368
+Positive,Satisfaction,0.2,Service Information,False,1369
+Positive,Satisfaction,0.3,Service Information,False,1370
+Negative,Frustration,0.8,Complaint,True,1371
+Positive,Gratitude,0.0,Service Information,False,1372
+Positive,Satisfaction,0.4,Service Information,False,1373
+Neutral,Confusion,0.5,Service Information,False,1374
+Negative,Frustration,0.8,Complaint,True,1375
+Neutral,Frustration,0.7,Service Information,False,1376
+Neutral,Confusion,0.6,Service Information,False,1377
+Negative,Frustration,0.8,Complaint,False,1378
+Positive,Satisfaction,0.7,Service Information,False,1379
+Positive,Satisfaction,0.3,Service Information,False,1380
+Neutral,Frustration,0.8,Technical Support,False,1381
+Neutral,Confusion,0.6,Service Information,False,1382
+Neutral,Confusion,0.7,Technical Support,False,1383
+Positive,Confusion,0.6,Service Information,False,1384
+Neutral,Confusion,0.3,Service Information,False,1385
+Neutral,Neutral,0.5,Technical Support,False,1386
+Positive,Satisfaction,0.2,Billing,False,1387
+Neutral,Confusion,0.7,Service Information,False,1388
+Negative,Frustration,0.6,Complaint,False,1389
+Positive,Satisfaction,0.7,Service Information,False,1390
+Neutral,Neutral,0.4,Billing,False,1391
+Neutral,Confusion,0.7,Technical Support,False,1392
+Neutral,Confusion,0.7,Service Information,False,1393
+Negative,Frustration,0.8,Technical Support,True,1394
+Negative,Frustration,0.9,Complaint,True,1395
+Positive,Satisfaction,0.5,Service Information,False,1396
+Neutral,Confusion,0.7,Technical Support,False,1397
+Neutral,Satisfaction,0.6,Complaint,False,1398
+Neutral,Confusion,0.5,Service Information,False,1399
+Neutral,Confusion,0.6,Technical Support,False,1400
+Negative,Frustration,0.8,Complaint,True,1401
+Negative,Frustration,0.8,Complaint,True,1402
+Positive,Satisfaction,0.2,Service Information,False,1403
+Positive,Neutral,0.5,Service Information,False,1404
+Positive,Satisfaction,0.5,Service Information,False,1405
+Negative,Frustration,0.7,Complaint,True,1406
+Neutral,Confusion,0.6,Technical Support,False,1407
+Positive,Neutral,0.6,Service Information,False,1408
+Neutral,Confusion,0.6,Service Information,False,1409
+Negative,Frustration,0.8,Complaint,True,1410
+Positive,Satisfaction,0.6,Service Information,False,1411
+Neutral,Confusion,0.7,Technical Support,False,1412
+Neutral,Confusion,0.2,Service Information,False,1413
+Positive,Gratitude,0.0,Service Information,False,1414
+Negative,Frustration,0.7,Complaint,True,1415
+Positive,Satisfaction,0.3,Service Information,False,1416
+Positive,Neutral,0.714285714,Service Information,False,1417
+Positive,Satisfaction,0.6,Service Information,False,1418
+Positive,Satisfaction,0.3,Service Information,False,1419
+Neutral,Confusion,0.5,Technical Support,False,1420
+Positive,Satisfaction,0.3,Service Information,False,1421
+Positive,Gratitude,0.0,Service Information,False,1422
+Neutral,Confusion,0.5,Service Information,False,1423
+Negative,Anger,0.8,Complaint,True,1424
+Negative,Frustration,0.8,Technical Support,True,1425
+Negative,Frustration,0.8,Complaint,True,1426
+Neutral,Confusion,0.7,Service Information,False,1427
+Neutral,Confusion,0.6,Technical Support,False,1428
+Neutral,Confusion,0.7,Service Information,False,1429
+Neutral,Confusion,0.6,Service Information,False,1430
+Positive,Satisfaction,0.5,Service Information,False,1431
+Positive,Satisfaction,0.0,Service Information,False,1432
+Neutral,Confusion,0.7,Technical Support,False,1433
+Negative,Frustration,0.8,Complaint,True,1434
+Positive,Satisfaction,0.5,Service Information,False,1435
+Positive,Satisfaction,0.5,Service Information,False,1436
+Neutral,Confusion,0.6,Technical Support,False,1437
+Neutral,Confusion,0.7,Service Information,False,1438
+Negative,Frustration,0.8,Complaint,True,1439
+Positive,Gratitude,0.1,Service Information,False,1440
+Neutral,Gratitude,0.3,Service Information,False,1441
+Neutral,Confusion,0.7,Service Information,False,1442
+Negative,Frustration,0.8,Complaint,True,1443
+Neutral,Confusion,0.6,Technical Support,False,1444
+Neutral,Confusion,0.5,Service Information,False,1445
+Negative,Frustration,0.8,Complaint,True,1446
+Positive,Gratitude,0.3,Service Information,False,1447
+Negative,Frustration,0.9,Complaint,True,1448
+Neutral,Confusion,0.6,Technical Support,False,1449
+Negative,Frustration,0.8,Complaint,True,1450
+Positive,Satisfaction,0.3,Service Information,False,1451
+Negative,Frustration,0.7,Complaint,False,1452
+Positive,Satisfaction,0.0,Service Information,False,1453
+Neutral,Neutral,0.5,Billing,False,1454
+Neutral,Neutral,0.5,Service Information,False,1455
+Neutral,Frustration,0.8,Service Information,False,1456
+Neutral,Neutral,0.5,Technical Support,False,1457
+Negative,Frustration,0.8,Service Information,False,1458
+Neutral,Neutral,0.5,Technical Support,False,1459
+Neutral,Confusion,0.6,Service Information,False,1460
+Negative,Frustration,0.6,Service Information,False,1461
+Neutral,Confusion,0.6,Technical Support,False,1462
+Neutral,Confusion,0.8,Service Information,False,1463
+Positive,Gratitude,0.3,Service Information,False,1464
+Positive,Neutral,0.6,Service Information,False,1465
+Positive,Satisfaction,0.3,Service Information,False,1466
+Neutral,Confusion,0.7,Service Information,False,1467
+Negative,Frustration,0.8,Technical Support,True,1468
+Negative,Frustration,0.9,Complaint,False,1469
+Positive,Satisfaction,0.3,Service Information,False,1470
+Neutral,Confusion,0.7,Technical Support,False,1471
+Positive,Satisfaction,0.2,Service Information,False,1472
+Positive,Satisfaction,0.3,Service Information,False,1473
+Positive,Confusion,0.8,Service Information,False,1474
+Negative,Frustration,0.8,Complaint,True,1475
+Neutral,Confusion,0.5,Service Information,False,1476
+Positive,Satisfaction,0.5,Service Information,False,1477
+Neutral,Neutral,0.5,Service Information,False,1478
+Negative,Frustration,0.7,Complaint,True,1479
+Negative,Frustration,0.8,Complaint,True,1480
+Negative,Frustration,0.8,Complaint,True,1481
+Negative,Frustration,0.8,Complaint,True,1482
+Negative,Frustration,0.8,Complaint,True,1483
+Neutral,Neutral,0.5,Service Information,False,1484
+Neutral,Frustration,0.8,Service Information,False,1485
+Neutral,Neutral,0.5,Technical Support,False,1486
+Negative,Frustration,0.8,Complaint,True,1487
+Negative,Frustration,0.8,Technical Support,True,1488
+Neutral,Confusion,0.6,Service Information,False,1489
+Positive,Satisfaction,0.5,Service Information,False,1490
+Neutral,Confusion,0.7,Technical Support,False,1491
+Positive,Gratitude,0.2,Service Information,False,1492
+Negative,Frustration,0.7,Service Information,False,1493
+Neutral,Confusion,0.6,Technical Support,False,1494
+Positive,Satisfaction,0.3,Service Information,False,1495
+Neutral,Confusion,0.6,Technical Support,False,1496
+Positive,Satisfaction,0.3,Service Information,False,1497
+Negative,Frustration,0.9,Complaint,True,1498
+Negative,Frustration,0.8,Complaint,True,1499
+Neutral,Neutral,0.5,Technical Support,False,1500
+Positive,Satisfaction,0.2,Service Information,False,1501
+Negative,Frustration,0.7,Technical Support,True,1502
+Positive,Satisfaction,1.0,Service Information,False,1503
+Negative,Frustration,0.7,Service Information,False,1504
+Neutral,Confusion,0.6,Technical Support,False,1505
+Positive,Satisfaction,0.5,Service Information,False,1506
+Neutral,Neutral,0.5,Complaint,False,1507
+Negative,Frustration,0.8,Complaint,True,1508
+Positive,Neutral,0.3,Service Information,False,1509
+Neutral,Confusion,0.3,Service Information,False,1510
+Positive,Satisfaction,0.6,Service Information,False,1511
+Positive,Satisfaction,0.7,Service Information,False,1512
+Neutral,Neutral,0.5,Billing,False,1513
+Positive,Gratitude,0.2,Service Information,False,1514
+Positive,Satisfaction,0.6,Service Information,False,1515
+Neutral,Confusion,0.6,Technical Support,False,1516
+Neutral,Confusion,0.7,Complaint,False,1517
+Positive,Satisfaction,0.3,Service Information,False,1518
+Neutral,Confusion,0.6,Technical Support,False,1519
+Neutral,Confusion,0.7,Technical Support,False,1520
+Positive,Satisfaction,0.5,Service Information,False,1521
+Positive,Neutral,0.5,Service Information,False,1522
+Neutral,Neutral,0.5,Technical Support,False,1523
+Positive,Satisfaction,0.3,Service Information,False,1524
+Negative,Frustration,0.7,Complaint,True,1525
+Negative,Confusion,0.7,Service Information,True,1526
+Positive,Gratitude,0.3,Service Information,False,1527
+Positive,Neutral,0.5,Service Information,False,1528
+Neutral,Confusion,0.6,Technical Support,False,1529
+Positive,Neutral,0.2,Service Information,False,1530
+Negative,Frustration,0.7,Complaint,True,1531
+Neutral,Confusion,0.5,Technical Support,False,1532
+Neutral,Frustration,0.7,Service Information,False,1533
+Positive,Satisfaction,0.5,Service Information,False,1534
+Neutral,Confusion,0.7,Service Information,False,1535
+Positive,Satisfaction,0.3,Service Information,False,1536
+Neutral,Neutral,0.5,Billing,False,1537
+Neutral,Neutral,0.5,Technical Support,False,1538
+Neutral,Confusion,0.5,Service Information,False,1539
+Positive,Gratitude,0.3,Service Information,False,1540
+Positive,Gratitude,0.2,Service Information,False,1541
+Neutral,Confusion,0.7,Service Information,False,1542
+Neutral,Confusion,0.6,Billing,False,1543
+Neutral,Confusion,0.6,Technical Support,False,1544
+Positive,Satisfaction,0.4,Service Information,False,1545
+Positive,Neutral,0.5,Service Information,False,1546
+Neutral,Confusion,0.7,Service Information,False,1547
+Negative,Frustration,1.0,Complaint,True,1548
+Neutral,Confusion,0.7,Service Information,False,1549
+Neutral,Confusion,0.6,Technical Support,False,1550
+Positive,Gratitude,0.3,Service Information,False,1551
+Neutral,Confusion,0.7,Service Information,False,1552
+Positive,Satisfaction,0.2,Technical Support,False,1553
+Neutral,Confusion,0.6,Technical Support,False,1554
+Neutral,Confusion,0.5,Service Information,False,1555
+Neutral,Confusion,0.6,Technical Support,False,1556
+Neutral,Neutral,0.3,Service Information,False,1557
+Positive,Satisfaction,0.2,Technical Support,False,1558
+Neutral,Confusion,0.6,Technical Support,False,1559
+Negative,Frustration,0.7,Complaint,True,1560
+Positive,Satisfaction,0.5,Service Information,False,1561
+Negative,Frustration,0.9,Complaint,True,1562
+Positive,Satisfaction,0.0,Service Information,False,1563
+Positive,Satisfaction,0.3,Service Information,False,1564
+Positive,Satisfaction,0.7,Service Information,False,1565
+Neutral,Confusion,0.6,Service Information,False,1566
+Neutral,Confusion,0.6,Technical Support,False,1567
+Neutral,Neutral,0.5,Billing,False,1568
+Negative,Frustration,0.8,Complaint,True,1569
+Neutral,Confusion,0.6,Technical Support,False,1570
+Positive,Satisfaction,0.4,Service Information,False,1571
+Positive,Satisfaction,0.7,Service Information,False,1572
+Negative,Frustration,0.6,Service Information,False,1573
+Negative,Frustration,0.8,Billing,True,1574
+Positive,Satisfaction,0.2,Service Information,False,1575
+Positive,Satisfaction,0.2,Service Information,False,1576
+Neutral,Confusion,0.6,Technical Support,False,1577
+Neutral,Confusion,0.7,Service Information,False,1578
+Neutral,Confusion,0.7,Technical Support,False,1579
+Neutral,Frustration,0.7,Service Information,False,1580
+Positive,Gratitude,0.7,Service Information,False,1581
+Neutral,Satisfaction,0.7,Complaint,True,1582
+Negative,Frustration,1.0,Complaint,True,1583
+Negative,Frustration,1.0,Complaint,True,1584
+Neutral,Confusion,0.7,Service Information,False,1585
+Neutral,Neutral,0.5,Technical Support,False,1586
+Negative,Frustration,0.8,Complaint,True,1587
+Positive,Gratitude,0.3,Service Information,False,1588
+Neutral,Frustration,0.7,Complaint,False,1589
+Negative,Frustration,0.8,Complaint,False,1590
+Neutral,Confusion,0.7,Service Information,False,1591
+Negative,Frustration,0.8,Service Information,True,1592
+Positive,Satisfaction,0.6,Service Information,False,1593
+Negative,Frustration,0.6,Complaint,False,1594
+Neutral,Neutral,0.0,Service Information,False,1595
+Positive,Satisfaction,0.3,Service Information,False,1596
+Positive,Satisfaction,0.3,Service Information,False,1597
+Positive,Neutral,0.6,Service Information,False,1598
+Positive,Neutral,0.6,Service Information,False,1599
+Positive,Satisfaction,0.3,Service Information,False,1600
+Neutral,Neutral,0.5,Technical Support,False,1601
+Negative,Frustration,0.8,Complaint,False,1602
+Neutral,Confusion,0.6,Service Information,False,1603
+Positive,Gratitude,0.5,Service Information,False,1604
+Neutral,Confusion,0.6,Service Information,False,1605
+Neutral,Confusion,0.6,Technical Support,False,1606
+Positive,Satisfaction,0.7,Service Information,False,1607
+Neutral,Confusion,0.6,Technical Support,False,1608
+Negative,Frustration,0.8,Complaint,True,1609
+Positive,Satisfaction,0.6,Technical Support,False,1610
+Neutral,Gratitude,0.6,Complaint,True,1611
+Negative,Frustration,0.4,Service Information,False,1612
+Positive,Satisfaction,0.5,Billing,False,1613
+Neutral,Neutral,0.6,Service Information,False,1614
+Positive,Satisfaction,0.5,Service Information,False,1615
+Neutral,Confusion,0.5,Service Information,False,1616
+Positive,Neutral,0.6,Service Information,False,1617
+Positive,Satisfaction,0.3,Service Information,False,1618
+Positive,Gratitude,0.6,Service Information,False,1619
+Negative,Frustration,0.9,Complaint,True,1620
+Neutral,Confusion,0.6,Technical Support,False,1621
+Neutral,Confusion,0.6,Technical Support,False,1622
+Neutral,Confusion,0.6,Service Information,False,1623
+Positive,Gratitude,0.6,Service Information,False,1624
+Neutral,Confusion,0.7,Technical Support,False,1625
+Neutral,Confusion,0.6,Technical Support,False,1626
+Positive,Satisfaction,0.7,Service Information,False,1627
+Neutral,Confusion,0.7,Service Information,False,1628
+Negative,Confusion,0.7,Service Information,False,1629
+Neutral,Confusion,0.6,Technical Support,False,1630
+Positive,Satisfaction,0.3,Service Information,False,1631
+Neutral,Confusion,0.7,Service Information,False,1632
+Neutral,Confusion,0.6,Service Information,False,1633
+Positive,Satisfaction,0.4,Service Information,False,1634
+Negative,Frustration,0.7,Technical Support,False,1635
+Neutral,Confusion,0.6,Technical Support,False,1636
+Neutral,Confusion,0.6,Technical Support,False,1637
+Neutral,Confusion,0.3,Service Information,False,1638
+Negative,Frustration,0.8,Technical Support,True,1639
+Positive,Satisfaction,0.3,Service Information,False,1640
+Neutral,Neutral,0.5,Billing,False,1641
+Positive,Satisfaction,0.3,Service Information,False,1642
+Neutral,Confusion,0.5,Service Information,False,1643
+Positive,Satisfaction,0.2,Service Information,False,1644
+Positive,Gratitude,0.1,Complaint,False,1645
+Positive,Satisfaction,0.3,Service Information,False,1646
+Neutral,Neutral,0.5,Billing,False,1647
+Neutral,Confusion,0.6,Service Information,False,1648
+Neutral,Confusion,0.6,Technical Support,False,1649
+Neutral,Neutral,0.5,Billing,False,1650
+Positive,Gratitude,0.6,Service Information,False,1651
+Positive,Satisfaction,0.2,Service Information,False,1652
+Positive,Satisfaction,0.3,Service Information,False,1653
+Negative,Frustration,0.8,Complaint,True,1654
+Positive,Satisfaction,0.5,Service Information,False,1655
+Positive,Neutral,0.5,Service Information,False,1656
+Neutral,Neutral,0.5,Service Information,False,1657
+Negative,Frustration,0.8,Technical Support,True,1658
+Neutral,Confusion,0.5,Technical Support,False,1659
+Neutral,Confusion,0.8,Complaint,True,1660
+Neutral,Neutral,0.5,Service Information,False,1661
+Neutral,Confusion,0.5,Service Information,False,1662
+Positive,Neutral,0.5,Service Information,False,1663
+Neutral,Confusion,0.7,Technical Support,True,1664
+Positive,Gratitude,0.0,Service Information,False,1665
+Negative,Confusion,0.6,Technical Support,False,1666
+Negative,Frustration,0.7,Complaint,True,1667
+Neutral,Confusion,0.6,Service Information,False,1668
+Neutral,Confusion,0.6,Billing,False,1669
+Neutral,Confusion,0.6,Technical Support,False,1670
+Neutral,Confusion,0.7,Technical Support,False,1671
+Positive,Gratitude,0.7,Service Information,False,1672
+Positive,Satisfaction,0.7,Service Information,False,1673
+Negative,Frustration,0.8,Complaint,True,1674
+Positive,Satisfaction,0.0,Service Information,False,1675
+Negative,Anger,0.9,Complaint,True,1676
+Neutral,Confusion,0.7,Technical Support,False,1677
+Neutral,Confusion,0.6,Technical Support,False,1678
+Negative,Frustration,0.8,Complaint,True,1679
+Negative,Anger,0.8,Complaint,True,1680
+Neutral,Satisfaction,0.3,Service Information,False,1681
+Neutral,Neutral,0.5,Service Information,False,1682
+Negative,Frustration,1.0,Complaint,True,1683
+Neutral,Neutral,0.7,Service Information,False,1684
+Negative,Frustration,0.9,Billing,True,1685
+Positive,Satisfaction,0.5,Service Information,False,1686
+Neutral,Satisfaction,0.3,Service Information,False,1687
+Positive,Neutral,0.7,Billing,False,1688
+Neutral,Confusion,0.7,Service Information,False,1689
+Positive,Satisfaction,0.6,Service Information,False,1690
+Neutral,Confusion,0.7,Billing,False,1691
+Neutral,Confusion,0.7,Technical Support,False,1692
+Positive,Satisfaction,0.5,Service Information,False,1693
+Neutral,Confusion,0.7,Technical Support,False,1694
+Neutral,Confusion,0.6,Technical Support,False,1695
+Neutral,Neutral,0.5,Technical Support,False,1696
+Neutral,Confusion,0.7,Service Information,False,1697
+Negative,Frustration,0.7,Complaint,True,1698
+Neutral,Neutral,0.5,Billing,False,1699
+Neutral,Confusion,0.7,Service Information,False,1700
+Positive,Satisfaction,0.7,Complaint,False,1701
+Positive,Gratitude,0.7,Service Information,False,1702
+Neutral,Confusion,0.6,Technical Support,False,1703
+Positive,Satisfaction,0.5,Service Information,False,1704
+Negative,Frustration,0.9,Complaint,True,1705
+Positive,Satisfaction,0.3,Service Information,False,1706
+Neutral,Confusion,0.6,Technical Support,False,1707
+Neutral,Confusion,0.7,Technical Support,False,1708
+Positive,Satisfaction,0.3,Service Information,False,1709
+Positive,Neutral,0.3,Service Information,False,1710
+Positive,Satisfaction,1.0,Service Information,False,1711
+Positive,Satisfaction,0.5,Service Information,False,1712
+Neutral,Confusion,0.6,Technical Support,False,1713
+Negative,Confusion,0.3,Complaint,False,1714
+Neutral,Confusion,0.5,Service Information,False,1715
+Negative,Frustration,0.8,Complaint,True,1716
+Negative,Frustration,0.7,Complaint,True,1717
+Neutral,Neutral,0.3,Service Information,False,1718
+Neutral,Confusion,0.7,Service Information,True,1719
+Neutral,Confusion,0.7,Service Information,False,1720
+Negative,Frustration,0.7,Complaint,True,1721
+Positive,Satisfaction,0.5,Service Information,False,1722
+Positive,Satisfaction,0.5,Service Information,False,1723
+Negative,Frustration,0.7,Complaint,True,1724
+Positive,Satisfaction,0.3,Service Information,False,1725
+Neutral,Frustration,0.6,Service Information,False,1726
+Neutral,Confusion,0.6,Service Information,False,1727
+Positive,Gratitude,0.0,Service Information,False,1728
+Neutral,Neutral,0.3,Service Information,False,1729
+Neutral,Confusion,0.6,Technical Support,False,1730
+Positive,Neutral,0.5,Service Information,False,1731
+Neutral,Confusion,0.6,Billing,False,1732
+Neutral,Confusion,0.7,Service Information,False,1733
+Negative,Frustration,0.8,Complaint,True,1734
+Negative,Confusion,0.8,Billing,False,1735
+Negative,Anger,1.0,Complaint,True,1736
+Negative,Frustration,0.7,Complaint,True,1737
+Positive,Gratitude,0.3,Service Information,False,1738
+Neutral,Confusion,0.5,Billing,False,1739
+Positive,Satisfaction,0.3,Service Information,False,1740
+Neutral,Confusion,0.5,Service Information,False,1741
+Neutral,Frustration,0.7,Service Information,False,1742
+Neutral,Confusion,0.6,Service Information,False,1743
+Negative,Frustration,0.8,Complaint,True,1744
+Positive,Satisfaction,0.3,Service Information,False,1745
+Positive,Satisfaction,0.5,Service Information,False,1746
+Neutral,Neutral,0.5,Service Information,False,1747
+Negative,Frustration,0.8,Service Information,False,1748
+Negative,Frustration,0.8,Complaint,True,1749
+Neutral,Confusion,0.6,Technical Support,False,1750
+Neutral,Confusion,0.7,Service Information,True,1751
+Neutral,Confusion,0.7,Service Information,False,1752
+Neutral,Confusion,0.6,Technical Support,False,1753
+Neutral,Confusion,0.7,Technical Support,False,1754
+Neutral,Confusion,0.7,Technical Support,False,1755
+Neutral,Confusion,0.6,Technical Support,False,1756
+Neutral,Confusion,0.7,Service Information,False,1757
+Neutral,Neutral,0.2,Service Information,False,1758
+Negative,Frustration,0.7,Service Information,False,1759
+Neutral,Neutral,0.5,Billing,False,1760
+Positive,Satisfaction,0.5,Service Information,False,1761
+Neutral,Confusion,0.7,Service Information,False,1762
+Neutral,Confusion,0.6,Technical Support,False,1763
+Negative,Frustration,0.8,Technical Support,True,1764
+Neutral,Confusion,0.7,Billing,False,1765
+Positive,Gratitude,0.2,Service Information,False,1766
+Neutral,Neutral,0.5,Technical Support,False,1767
+Positive,Gratitude,0.0,Service Information,False,1768
+Positive,Gratitude,0.3,Service Information,False,1769
+Neutral,Neutral,0.5,Billing,False,1770
+Neutral,Neutral,0.5,Technical Support,False,1771
+Positive,Gratitude,0.0,Service Information,False,1772
+Neutral,Confusion,0.5,Service Information,False,1773
+Neutral,Neutral,0.6,Service Information,False,1774
+Negative,Frustration,0.8,Complaint,True,1775
+Positive,Neutral,0.5,Service Information,False,1776
+Negative,Frustration,0.8,Complaint,True,1777
+Neutral,Neutral,0.6,Billing,False,1778
+Negative,Frustration,0.7,Complaint,True,1779
+Positive,Satisfaction,0.0,Service Information,False,1780
+Negative,Frustration,0.8,Complaint,True,1781
+Negative,Frustration,0.9,Complaint,True,1782
+Negative,Frustration,0.8,Complaint,True,1783
+Positive,Satisfaction,0.3,Service Information,False,1784
+Neutral,Confusion,0.6,Technical Support,False,1785
+Neutral,Confusion,0.6,Technical Support,False,1786
+Negative,Frustration,0.8,Service Information,False,1787
+Positive,Gratitude,0.1,Service Information,False,1788
+Neutral,Confusion,0.5,Service Information,False,1789
+Positive,Neutral,0.6,Technical Support,False,1790
+Neutral,Confusion,0.3,Service Information,False,1791
+Positive,Gratitude,0.8,Service Information,False,1792
+Positive,Satisfaction,0.3,Service Information,False,1793
+Neutral,Confusion,0.6,Service Information,False,1794
+Neutral,Confusion,0.6,Technical Support,False,1795
+Neutral,Confusion,0.6,Technical Support,False,1796
+Negative,Frustration,0.8,Complaint,True,1797
+Neutral,Confusion,0.7,Technical Support,False,1798
+Positive,Gratitude,0.5,Service Information,False,1799
+Neutral,Frustration,0.8,Complaint,True,1800
+Negative,Frustration,0.6,Service Information,False,1801
+Positive,Neutral,0.4,Service Information,False,1802
+Negative,Frustration,0.5,Service Information,False,1803
+Neutral,Confusion,0.5,Service Information,False,1804
+Neutral,Confusion,0.7,Service Information,False,1805
+Positive,Satisfaction,0.5,Service Information,False,1806
+Negative,Frustration,0.7,Service Information,False,1807
+Positive,Neutral,0.3,Technical Support,False,1808
+Neutral,Confusion,0.6,Technical Support,False,1809
+Neutral,Confusion,0.5,Service Information,False,1810
+Neutral,Neutral,0.3,Technical Support,False,1811
+Neutral,Neutral,0.3,Service Information,False,1812
+Neutral,Confusion,0.7,Technical Support,False,1813
+Negative,Frustration,0.8,Complaint,True,1814
+Negative,Frustration,0.8,Complaint,True,1815
+Negative,Frustration,0.7,Complaint,True,1816
+Negative,Frustration,0.8,Technical Support,True,1817
+Positive,Neutral,0.5,Service Information,False,1818
+Positive,Gratitude,0.0,Service Information,False,1819
+Negative,Frustration,0.7,Complaint,True,1820
+Negative,Confusion,0.7,Service Information,True,1821
+Positive,Satisfaction,0.3,Service Information,False,1822
+Neutral,Confusion,0.7,Service Information,False,1823
+Negative,Frustration,0.7,Complaint,True,1824
+Neutral,Confusion,0.6,Technical Support,False,1825
+Neutral,Confusion,0.5,Technical Support,False,1826
+Neutral,Confusion,0.7,Technical Support,False,1827
+Positive,Satisfaction,0.3,Service Information,False,1828
+Positive,Neutral,0.3,Service Information,False,1829
+Positive,Satisfaction,0.7,Service Information,False,1830
+Negative,Frustration,0.8,Complaint,True,1831
+Positive,Frustration,0.7,Service Information,False,1832
+Neutral,Neutral,0.0,Other,False,1833
+Negative,Frustration,0.7,Complaint,True,1834
+Neutral,Neutral,0.5,Technical Support,False,1835
+Neutral,Confusion,0.5,Technical Support,False,1836
+Neutral,Confusion,0.7,Service Information,False,1837
+Positive,Satisfaction,0.7,Service Information,False,1838
+Positive,Gratitude,0.5,Service Information,False,1839
+Negative,Frustration,0.7,Complaint,True,1840
+Negative,Frustration,0.7,Billing,False,1841
+Neutral,Confusion,0.6,Technical Support,False,1842
+Neutral,Frustration,0.7,Billing,False,1843
+Positive,Satisfaction,0.3,Service Information,False,1844
+Neutral,Confusion,0.7,Service Information,False,1845
+Positive,Gratitude,0.3,Service Information,False,1846
+Positive,Satisfaction,0.0,Service Information,False,1847
+Neutral,Neutral,0.5,Billing,False,1848
+Neutral,Confusion,0.7,Technical Support,False,1849
+Positive,Satisfaction,0.7,Service Information,False,1850
+Positive,Neutral,0.4,Service Information,False,1851
+Positive,Gratitude,0.0,Service Information,False,1852
+Positive,Neutral,1.0,Service Information,False,1853
+Neutral,Confusion,0.6,Technical Support,False,1854
+Neutral,Frustration,0.8,Service Information,False,1855
+Neutral,Confusion,0.6,Technical Support,False,1856
+Positive,Satisfaction,0.6,Service Information,False,1857
+Neutral,Frustration,0.7,Complaint,True,1858
+Neutral,Confusion,0.6,Technical Support,False,1859
+Neutral,Confusion,0.6,Technical Support,False,1860
+Neutral,Confusion,0.7,Technical Support,False,1861
+Positive,Gratitude,0.3,Service Information,False,1862
+Positive,Satisfaction,0.5,Service Information,False,1863
+Neutral,Confusion,0.6,Technical Support,False,1864
+Positive,Satisfaction,0.3,Service Information,False,1865
+Negative,Frustration,0.8,Complaint,True,1866
+Neutral,Neutral,0.5,Technical Support,False,1867
+Neutral,Confusion,0.6,Service Information,False,1868
+Neutral,Confusion,0.6,Technical Support,False,1869
+Positive,Gratitude,0.4,Service Information,False,1870
+Positive,Satisfaction,0.0,Service Information,False,1871
+Positive,Satisfaction,0.6,Service Information,False,1872
+Positive,Gratitude,0.1,Service Information,False,1873
+Positive,Neutral,0.7,Service Information,False,1874
+Negative,Frustration,0.6,Complaint,True,1875
+Positive,Neutral,0.5,Billing,False,1876
+Positive,Satisfaction,0.5,Service Information,False,1877
+Positive,Satisfaction,0.3,Service Information,False,1878
+Positive,Neutral,0.7,Service Information,False,1879
+Neutral,Confusion,0.6,Technical Support,False,1880
+Positive,Satisfaction,0.5,Service Information,False,1881
+Positive,Satisfaction,0.5,Service Information,False,1882
+Neutral,Confusion,0.6,Technical Support,False,1883
+Neutral,Confusion,0.7,Service Information,False,1884
+Neutral,Neutral,0.4,Service Information,False,1885
+Positive,Gratitude,0.2,Service Information,False,1886
+Positive,Satisfaction,0.7,Service Information,False,1887
+Positive,Satisfaction,0.2,Service Information,False,1888
+Neutral,Confusion,0.6,Technical Support,False,1889
+Negative,Frustration,0.8,Complaint,True,1890
+Negative,Frustration,0.8,Complaint,True,1891
+Neutral,Confusion,0.6,Service Information,False,1892
+Neutral,Satisfaction,0.5,Complaint,False,1893
+Positive,Gratitude,0.0,Service Information,False,1894
+Positive,Satisfaction,0.3,Service Information,False,1895
+Neutral,Neutral,0.7,Service Information,False,1896
+Negative,Frustration,0.9,Complaint,True,1897
+Negative,Frustration,0.8,Complaint,True,1898
+Negative,Frustration,0.6,Service Information,False,1899
+Positive,Satisfaction,0.2,Service Information,False,1900
+Neutral,Confusion,0.3,Service Information,False,1901
+Neutral,Neutral,0.3,Service Information,True,1902
+Positive,Gratitude,0.3,Service Information,False,1903
+Positive,Satisfaction,0.3,Service Information,False,1904
+Neutral,Confusion,0.7,Service Information,False,1905
+Negative,Frustration,0.8,Complaint,True,1906
+Negative,Frustration,0.9,Complaint,True,1907
+Negative,Frustration,0.8,Complaint,True,1908
+Positive,Satisfaction,0.3,Service Information,False,1909
+Neutral,Frustration,0.7,Service Information,False,1910
+Neutral,Confusion,0.6,Technical Support,False,1911
+Positive,Frustration,0.7,Technical Support,False,1912
+Positive,Satisfaction,0.3,Service Information,False,1913
+Negative,Frustration,0.9,Complaint,True,1914
+Neutral,Neutral,0.5,Technical Support,False,1915
+Negative,Frustration,0.8,Complaint,True,1916
+Negative,Frustration,0.7,Service Information,False,1917
+Positive,Satisfaction,0.7,Technical Support,False,1918
+Neutral,Confusion,0.6,Technical Support,False,1919
+Negative,Confusion,0.7,Technical Support,True,1920
+Neutral,Confusion,0.7,Service Information,False,1921
+Neutral,Confusion,0.6,Technical Support,False,1922
+Neutral,Confusion,0.7,Service Information,False,1923
+Negative,Frustration,0.8,Complaint,True,1924
+Positive,Gratitude,0.3,Service Information,False,1925
+Negative,Frustration,0.7,Complaint,True,1926
+Negative,Anger,0.9,Complaint,True,1927
+Neutral,Confusion,0.7,Service Information,False,1928
+Positive,Satisfaction,0.2,Service Information,False,1929
+Neutral,Confusion,0.6,Technical Support,False,1930
+Neutral,Confusion,0.6,Technical Support,False,1931
+Neutral,Neutral,0.5,Service Information,False,1932
+Neutral,Confusion,0.6,Service Information,False,1933
+Neutral,Confusion,0.6,Technical Support,False,1934
+Neutral,Confusion,0.6,Technical Support,False,1935
+Neutral,Neutral,0.5,Billing,False,1936
+Neutral,Confusion,0.7,Service Information,False,1937
+Positive,Gratitude,0.2,Service Information,False,1938
+Neutral,Confusion,0.7,Service Information,False,1939
+Neutral,Confusion,0.6,Service Information,False,1940
+Neutral,Confusion,0.7,Service Information,False,1941
+Neutral,Satisfaction,0.3,Technical Support,False,1942
+Positive,Neutral,0.3,Service Information,False,1943
+Positive,Satisfaction,0.5,Service Information,False,1944
+Negative,Frustration,0.8,Complaint,True,1945
+Neutral,Confusion,0.6,Technical Support,False,1946
+Neutral,Confusion,0.6,Technical Support,False,1947
+Positive,Satisfaction,0.6,Service Information,False,1948
+Negative,Frustration,0.8,Complaint,True,1949
+Neutral,Confusion,0.6,Technical Support,False,1950
+Neutral,Confusion,0.6,Service Information,False,1951
+Negative,Frustration,0.8,Complaint,True,1952
+Positive,Satisfaction,0.2,Service Information,False,1953
+Neutral,Neutral,0.5,Service Information,False,1954
+Neutral,Neutral,0.6,Service Information,False,1955
+Positive,Satisfaction,0.5,Service Information,False,1956
+Neutral,Confusion,0.6,Technical Support,False,1957
+Neutral,Confusion,0.7,Technical Support,True,1958
+Neutral,Confusion,0.6,Technical Support,False,1959
+Neutral,Confusion,0.8,Service Information,False,1960
+Positive,Satisfaction,0.7,Billing,False,1961
+Negative,Frustration,0.8,Complaint,True,1962
+Negative,Frustration,0.9,Complaint,True,1963
+Neutral,Confusion,0.6,Technical Support,False,1964
+Neutral,Confusion,0.6,Service Information,False,1965
+Neutral,Confusion,0.6,Service Information,False,1966
+Positive,Satisfaction,0.5,Service Information,False,1967
+Negative,Frustration,0.8,Complaint,True,1968
+Positive,Satisfaction,0.2,Service Information,False,1969
+Neutral,Confusion,0.7,Service Information,False,1970
+Positive,Neutral,0.5,Service Information,False,1971
+Negative,Anger,1.0,Complaint,True,1972
+Neutral,Confusion,0.6,Service Information,False,1973
+Neutral,Confusion,0.6,Technical Support,False,1974
+Neutral,Neutral,0.5,Service Information,False,1975
+Negative,Confusion,0.7,Service Information,True,1976
+Neutral,Confusion,0.6,Technical Support,False,1977
+Positive,Gratitude,0.0,Service Information,False,1978
+Neutral,Confusion,0.3,Technical Support,False,1979
+Neutral,Confusion,0.6,Technical Support,False,1980
+Neutral,Confusion,0.7,Service Information,False,1981
+Negative,Frustration,0.7,Complaint,True,1982
+Negative,Frustration,0.9,Complaint,True,1983
+Positive,Neutral,0.2,Service Information,False,1984
+Positive,Gratitude,0.7,Service Information,False,1985
+Neutral,Confusion,0.6,Technical Support,False,1986
+Neutral,Neutral,0.5,Technical Support,False,1987
+Negative,Frustration,0.9,Complaint,True,1988
+Negative,Neutral,0.5,Billing,False,1989
+Positive,Gratitude,0.0,Service Information,False,1990
+Positive,Gratitude,0.0,Service Information,False,1991
+Neutral,Confusion,0.7,Technical Support,False,1992
+Neutral,Confusion,0.7,Billing,False,1993
+Neutral,Confusion,0.6,Technical Support,False,1994
+Neutral,Confusion,0.7,Service Information,False,1995
+Positive,Neutral,0.3,Service Information,False,1996
+Negative,Frustration,0.8,Service Information,False,1997
+Positive,Satisfaction,0.3,Service Information,False,1998
+Positive,Neutral,0.3,Service Information,False,1999
+Neutral,Confusion,0.7,Technical Support,False,2000
+Negative,Frustration,0.9,Complaint,True,2001
+Negative,Frustration,0.8,Service Information,False,2002
+Neutral,Confusion,0.6,Service Information,False,2003
+Neutral,Neutral,0.5,Technical Support,False,2004
+Positive,Satisfaction,0.5,Service Information,False,2005
+Negative,Frustration,0.9,Complaint,True,2006
+Positive,Satisfaction,0.2,Service Information,False,2007
+Neutral,Confusion,0.6,Technical Support,False,2008
+Negative,Frustration,0.8,Complaint,False,2009
+Negative,Frustration,0.7,Service Information,False,2010
+Neutral,Confusion,0.5,Technical Support,False,2011
+Neutral,Confusion,0.7,Technical Support,False,2012
+Positive,Gratitude,0.5,Service Information,False,2013
+Positive,Satisfaction,0.0,Service Information,False,2014
+Positive,Satisfaction,0.5,Service Information,False,2015
+Neutral,Confusion,0.4,Service Information,False,2016
+Neutral,Confusion,0.6,Technical Support,False,2017
+Positive,Neutral,0.6,Service Information,False,2018
+Neutral,Confusion,0.6,Service Information,False,2019
+Positive,Satisfaction,0.5,Service Information,False,2020
+Negative,Frustration,0.9,Complaint,True,2021
+Negative,Frustration,0.7,Complaint,True,2022
+Neutral,Neutral,0.5,Billing,False,2023
+Positive,Satisfaction,0.2,Service Information,False,2024
+Neutral,Confusion,0.6,Technical Support,False,2025
+Negative,Frustration,0.8,Technical Support,False,2026
+Negative,Frustration,0.7,Complaint,True,2027
+Positive,Satisfaction,0.3,Service Information,False,2028
+Positive,Neutral,0.5,Service Information,False,2029
+Neutral,Neutral,0.5,Service Information,False,2030
+Neutral,Confusion,0.6,Technical Support,False,2031
+Positive,Satisfaction,0.2,Service Information,False,2032
+Negative,Confusion,0.6,Technical Support,False,2033
+Positive,Satisfaction,1.0,Complaint,False,2034
+Negative,Frustration,0.8,Complaint,True,2035
+Positive,Satisfaction,0.3,Service Information,False,2036
+Neutral,Confusion,0.8,Service Information,False,2037
+Negative,Frustration,0.8,Billing,True,2038
+Negative,Frustration,0.8,Complaint,True,2039
+Neutral,Confusion,0.6,Service Information,False,2040
+Positive,Satisfaction,0.7,Service Information,False,2041
+Neutral,Confusion,0.7,Service Information,False,2042
+Negative,Anger,1.0,Complaint,True,2043
+Positive,Frustration,0.8,Complaint,True,2044
+Positive,Satisfaction,0.7,Service Information,False,2045
+Neutral,Neutral,0.5,Billing,False,2046
+Negative,Frustration,0.8,Complaint,True,2047
+Positive,Gratitude,0.2,Service Information,False,2048
+Neutral,Confusion,0.8,Technical Support,False,2049
+Neutral,Neutral,0.5,Technical Support,False,2050
+Positive,Neutral,0.8,Service Information,False,2051
+Positive,Neutral,0.5,Service Information,False,2052
+Neutral,Confusion,0.6,Technical Support,False,2053
+Positive,Satisfaction,0.2,Service Information,False,2054
+Negative,Frustration,0.8,Complaint,True,2055
+Neutral,Confusion,0.7,Technical Support,False,2056
+Neutral,Confusion,0.7,Service Information,False,2057
+Neutral,Confusion,0.7,Technical Support,False,2058
+Positive,Satisfaction,0.2,Service Information,False,2059
+Neutral,Frustration,0.8,Service Information,False,2060
+Positive,Satisfaction,1.0,Service Information,False,2061
+Negative,Frustration,0.7,Complaint,False,2062
+Positive,Satisfaction,0.3,Technical Support,False,2063
+Negative,Frustration,0.8,Complaint,True,2064
+Negative,Confusion,0.8,Complaint,True,2065
+Neutral,Confusion,0.6,Technical Support,False,2066
+Negative,Confusion,0.8,Service Information,True,2067
+Neutral,Confusion,0.5,Service Information,False,2068
+Positive,Neutral,0.8,Service Information,False,2069
+Negative,Frustration,0.8,Complaint,True,2070
+Negative,Frustration,0.8,Complaint,True,2071
+Neutral,Confusion,0.6,Technical Support,False,2072
+Negative,Frustration,0.7,Service Information,False,2073
+Negative,Frustration,0.7,Service Information,False,2074
+Negative,Frustration,0.8,Complaint,True,2075
+Neutral,Confusion,0.3,Service Information,False,2076
+Neutral,Confusion,0.7,Service Information,False,2077
+Neutral,Confusion,0.6,Technical Support,False,2078
+Neutral,Confusion,0.7,Technical Support,False,2079
+Negative,Anger,0.8,Complaint,True,2080
+Positive,Satisfaction,0.3,Service Information,False,2081
+Positive,Satisfaction,0.4,Service Information,False,2082
+Neutral,Neutral,0.5,Technical Support,False,2083
+Neutral,Confusion,0.4,Service Information,True,2084
+Neutral,Confusion,0.7,Technical Support,False,2085
+Negative,Frustration,0.9,Complaint,True,2086
+Neutral,Confusion,0.5,Service Information,False,2087
+Positive,Satisfaction,0.5,Service Information,False,2088
+Positive,Satisfaction,0.5,Service Information,False,2089
+Neutral,Confusion,0.6,Technical Support,False,2090
+Neutral,Satisfaction,0.6,Service Information,False,2091
+Neutral,Confusion,0.6,Technical Support,False,2092
+Neutral,Neutral,0.5,Complaint,False,2093
+Neutral,Confusion,0.5,Technical Support,False,2094
+Neutral,Confusion,0.5,Service Information,False,2095
+Positive,Neutral,0.6,Service Information,False,2096
+Neutral,Confusion,0.6,Service Information,False,2097
+Neutral,Neutral,0.3,Service Information,False,2098
+Neutral,Frustration,0.7,Service Information,False,2099
+Negative,Frustration,0.8,Complaint,True,2100
+Neutral,Confusion,0.5,Service Information,False,2101
+Neutral,Confusion,0.7,Complaint,False,2102
+Positive,Satisfaction,0.4,Service Information,False,2103
+Negative,Frustration,0.8,Technical Support,True,2104
+Neutral,Neutral,0.5,Technical Support,False,2105
+Positive,Gratitude,0.2,Service Information,False,2106
+Positive,Neutral,0.3,Service Information,False,2107
+Neutral,Confusion,0.7,Technical Support,False,2108
+Neutral,Confusion,0.7,Service Information,False,2109
+Positive,Satisfaction,0.5,Service Information,False,2110
+Positive,Satisfaction,0.5,Service Information,False,2111
+Neutral,Confusion,0.6,Technical Support,False,2112
+Neutral,Neutral,0.5,Service Information,False,2113
+Positive,Satisfaction,1.0,Billing,False,2114
+Positive,Satisfaction,0.3,Service Information,False,2115
+Negative,Frustration,0.8,Complaint,True,2116
+Negative,Frustration,0.8,Complaint,True,2117
+Positive,Satisfaction,1.0,Service Information,False,2118
+Neutral,Confusion,0.7,Technical Support,False,2119
+Neutral,Confusion,0.6,Service Information,False,2120
+Positive,Satisfaction,0.3,Billing,False,2121
+Negative,Anger,0.9,Complaint,True,2122
+Neutral,Frustration,0.8,Technical Support,False,2123
+Positive,Gratitude,0.2,Complaint,True,2124
+Positive,Gratitude,0.3,Service Information,False,2125
+Neutral,Confusion,0.6,Technical Support,False,2126
+Neutral,Neutral,0.5,Service Information,False,2127
+Neutral,Confusion,0.6,Technical Support,False,2128
+Negative,Frustration,0.8,Complaint,True,2129
+Neutral,Neutral,0.5,Technical Support,False,2130
+Negative,Confusion,0.7,Complaint,True,2131
+Positive,Neutral,0.3,Service Information,False,2132
+Positive,Satisfaction,0.3,Service Information,False,2133
+Neutral,Neutral,0.5,Technical Support,False,2134
+Positive,Satisfaction,0.8,Technical Support,False,2135
+Negative,Frustration,0.8,Service Information,False,2136
+Positive,Satisfaction,0.0,Service Information,False,2137
+Neutral,Frustration,0.7,Complaint,True,2138
+Positive,Gratitude,0.3,Service Information,False,2139
+Neutral,Neutral,0.5,Billing,False,2140
+Negative,Frustration,0.8,Complaint,True,2141
+Positive,Satisfaction,0.6,Service Information,False,2142
+Positive,Satisfaction,0.6,Service Information,False,2143
+Neutral,Confusion,0.6,Technical Support,False,2144
+Positive,Gratitude,0.0,Service Information,False,2145
+Positive,Satisfaction,1.0,Service Information,False,2146
+Negative,Frustration,0.8,Complaint,True,2147
+Negative,Frustration,0.7,Technical Support,False,2148
+Neutral,Confusion,0.6,Technical Support,False,2149
+Positive,Gratitude,0.3,Service Information,False,2150
+Positive,Neutral,0.4,Service Information,False,2151
+Neutral,Neutral,0.5,Service Information,False,2152
+Neutral,Neutral,0.6,Service Information,False,2153
+Neutral,Confusion,0.6,Technical Support,False,2154
+Negative,Frustration,0.8,Service Information,False,2155
+Neutral,Confusion,0.6,Technical Support,False,2156
+Neutral,Confusion,0.7,Technical Support,False,2157
+Neutral,Confusion,0.6,Technical Support,False,2158
+Neutral,Confusion,0.6,Technical Support,False,2159
+Positive,Satisfaction,0.4,Service Information,False,2160
+Neutral,Confusion,0.6,Service Information,False,2161
+Neutral,Confusion,0.6,Technical Support,False,2162
+Positive,Satisfaction,0.5,Service Information,False,2163
+Neutral,Confusion,0.7,Technical Support,False,2164
+Neutral,Confusion,0.5,Service Information,False,2165
+Neutral,Confusion,0.6,Technical Support,False,2166
+Neutral,Confusion,0.7,Service Information,False,2167
+Neutral,Confusion,0.6,Technical Support,False,2168
+Neutral,Confusion,0.6,Service Information,False,2169
+Negative,Frustration,0.8,Technical Support,True,2170
+Positive,Satisfaction,0.3,Service Information,False,2171
+Negative,Neutral,0.8,Complaint,True,2172
+Positive,Satisfaction,0.5,Service Information,False,2173
+Neutral,Confusion,0.6,Technical Support,False,2174
+Negative,Anger,1.0,Complaint,True,2175
+Neutral,Neutral,0.6,Complaint,True,2176
+Neutral,Confusion,0.6,Technical Support,False,2177
+Positive,Gratitude,0.5,Service Information,False,2178
+Positive,Satisfaction,0.3,Service Information,False,2179
+Positive,Satisfaction,0.3,Service Information,False,2180
+Neutral,Confusion,0.7,Technical Support,False,2181
+Positive,Gratitude,0.2,Service Information,False,2182
+Neutral,Confusion,0.6,Technical Support,False,2183
+Neutral,Confusion,0.6,Technical Support,False,2184
+Neutral,Frustration,0.7,Service Information,False,2185
+Neutral,Frustration,0.2,Service Information,False,2186
+Negative,Frustration,0.8,Complaint,True,2187
+Neutral,Confusion,0.6,Technical Support,False,2188
+Positive,Gratitude,0.3,Service Information,False,2189
+Negative,Frustration,0.9,Technical Support,True,2190
+Neutral,Confusion,0.7,Service Information,False,2191
+Positive,Gratitude,0.6,Service Information,False,2192
+Positive,Neutral,0.7,Service Information,False,2193
+Positive,Satisfaction,0.3,Service Information,False,2194
+Neutral,Confusion,0.5,Technical Support,False,2195
+Neutral,Confusion,0.6,Technical Support,False,2196
+Neutral,Confusion,0.7,Service Information,False,2197
+Neutral,Neutral,0.5,Billing,False,2198
+Positive,Satisfaction,0.6,Service Information,False,2199
+Neutral,Confusion,0.6,Technical Support,False,2200
+Neutral,Confusion,0.6,Technical Support,False,2201
+Neutral,Neutral,0.2,Service Information,False,2202
+Neutral,Confusion,0.4,Service Information,False,2203
+Neutral,Confusion,0.7,Service Information,False,2204
+Negative,Frustration,0.7,Complaint,False,2205
+Neutral,Confusion,0.7,Technical Support,False,2206
+Positive,Neutral,0.6,Technical Support,False,2207
+Negative,Anger,0.8,Complaint,True,2208
+Positive,Satisfaction,0.0,Service Information,False,2209
+Positive,Satisfaction,0.3,Service Information,False,2210
+Negative,Frustration,0.7,Complaint,False,2211
+Negative,Frustration,0.9,Complaint,True,2212
+Negative,Anger,0.9,Complaint,True,2213
+Positive,Gratitude,0.4,Service Information,False,2214
+Negative,Frustration,0.8,Complaint,False,2215
+Neutral,Confusion,0.7,Complaint,True,2216
+Neutral,Neutral,0.5,Technical Support,False,2217
+Negative,Frustration,0.7,Complaint,True,2218
+Negative,Anger,0.8,Complaint,True,2219
+Neutral,Confusion,0.3,Service Information,False,2220
+Positive,Satisfaction,0.3,Service Information,False,2221
+Negative,Frustration,0.9,Complaint,True,2222
+Neutral,Confusion,0.6,Service Information,False,2223
+Positive,Neutral,0.5,Service Information,False,2224
+Neutral,Confusion,0.5,Technical Support,False,2225
+Neutral,Confusion,0.5,Service Information,False,2226
+Positive,Satisfaction,0.3,Service Information,False,2227
+Positive,Satisfaction,0.3,Service Information,False,2228
+Positive,Neutral,0.2,Service Information,False,2229
+Neutral,Confusion,0.6,Service Information,False,2230
+Positive,Satisfaction,0.6,Service Information,False,2231
+Neutral,Confusion,0.6,Technical Support,False,2232
+Negative,Frustration,0.8,Complaint,True,2233
+Positive,Gratitude,0.2,Service Information,False,2234
+Neutral,Confusion,0.6,Service Information,False,2235
+Positive,Gratitude,0.2,Service Information,False,2236
+Neutral,Confusion,0.6,Technical Support,False,2237
+Negative,Frustration,0.8,Service Information,True,2238
+Negative,Frustration,0.8,Technical Support,True,2239
+Neutral,Confusion,0.5,Technical Support,False,2240
+Positive,Gratitude,0.5,Service Information,False,2241
+Positive,Gratitude,0.0,Service Information,False,2242
+Neutral,Confusion,0.5,Service Information,False,2243
+Positive,Satisfaction,0.1,Service Information,False,2244
+Positive,Gratitude,0.3,Service Information,False,2245
+Negative,Frustration,0.8,Complaint,True,2246
+Negative,Frustration,0.8,Technical Support,True,2247
+Positive,Satisfaction,0.7,Service Information,False,2248
+Positive,Satisfaction,0.2,Service Information,False,2249
+Positive,Satisfaction,0.3,Service Information,False,2250
+Positive,Satisfaction,0.7,Billing,False,2251
+Neutral,Confusion,0.5,Service Information,False,2252
+Positive,Neutral,0.3,Service Information,False,2253
+Positive,Satisfaction,0.3,Service Information,False,2254
+Positive,Neutral,0.6,Technical Support,False,2255
+Neutral,Confusion,0.6,Technical Support,False,2256
+Neutral,Confusion,0.7,Service Information,False,2257
+Neutral,Confusion,0.7,Service Information,False,2258
+Positive,Satisfaction,0.2,Service Information,False,2259
+Positive,Satisfaction,0.2,Service Information,False,2260
+Neutral,Confusion,0.6,Technical Support,False,2261
+Neutral,Confusion,0.6,Technical Support,False,2262
+Negative,Anger,1.0,Complaint,True,2263
+Neutral,Confusion,0.7,Service Information,False,2264
+Negative,Frustration,0.8,Complaint,True,2265
+Neutral,Neutral,0.6,Service Information,False,2266
+Negative,Frustration,0.9,Complaint,True,2267
+Positive,Satisfaction,0.7,Service Information,False,2268
+Neutral,Confusion,0.6,Technical Support,False,2269
+Negative,Frustration,0.8,Complaint,True,2270
+Neutral,Confusion,0.6,Technical Support,False,2271
+Negative,Frustration,0.7,Complaint,True,2272
+Positive,Satisfaction,0.3,Billing,False,2273
+Negative,Frustration,0.8,Complaint,True,2274
+Negative,Frustration,0.8,Complaint,True,2275
+Negative,Frustration,0.9,Complaint,True,2276
+Neutral,Confusion,0.7,Service Information,False,2277
+Negative,Frustration,0.7,Complaint,False,2278
+Neutral,Confusion,0.5,Service Information,False,2279
+Neutral,Confusion,0.3,Service Information,False,2280
+Positive,Satisfaction,0.8,Service Information,False,2281
+Positive,Neutral,0.3,Service Information,False,2282
+Positive,Satisfaction,0.5,Service Information,False,2283
+Negative,Frustration,0.8,Service Information,True,2284
+Neutral,Confusion,0.6,Technical Support,False,2285
+Neutral,Neutral,0.5,Service Information,False,2286
+Negative,Frustration,0.8,Complaint,True,2287
+Neutral,Confusion,0.6,Technical Support,False,2288
+Positive,Neutral,0.3,Service Information,False,2289
+Neutral,Satisfaction,0.3,Billing,False,2290
+Positive,Neutral,0.7,Service Information,False,2291
+Neutral,Confusion,0.7,Service Information,False,2292
+Positive,Gratitude,0.1,Service Information,False,2293
+Positive,Gratitude,0.6,Service Information,False,2294
+Neutral,Confusion,0.6,Service Information,False,2295
+Negative,Frustration,0.7,Complaint,True,2296
+Negative,Frustration,0.8,Complaint,True,2297
+Positive,Satisfaction,0.5,Service Information,False,2298
+Neutral,Neutral,0.5,Technical Support,False,2299
+Neutral,Confusion,0.6,Technical Support,False,2300
+Neutral,Confusion,0.8,Service Information,True,2301
+Neutral,Neutral,0.5,Technical Support,False,2302
+Positive,Satisfaction,0.7,Service Information,False,2303
+Neutral,Neutral,0.5,Service Information,False,2304
+Negative,Frustration,0.8,Technical Support,True,2305
+Neutral,Neutral,0.5,Service Information,False,2306
+Neutral,Confusion,0.7,Technical Support,False,2307
+Positive,Satisfaction,0.3,Service Information,False,2308
+Positive,Neutral,0.5,Service Information,False,2309
+Positive,Satisfaction,0.7,Service Information,False,2310
+Neutral,Confusion,0.7,Billing,False,2311
+Positive,Neutral,0.3,Service Information,False,2312
+Neutral,Neutral,0.3,Service Information,False,2313
+Positive,Satisfaction,0.6,Service Information,False,2314
+Positive,Satisfaction,1.0,Service Information,False,2315
+Positive,Satisfaction,0.6,Billing,False,2316
+Negative,Frustration,0.8,Complaint,True,2317
+Positive,Neutral,0.3,Technical Support,False,2318
+Negative,Frustration,1.0,Complaint,True,2319
+Positive,Neutral,0.2,Service Information,False,2320
+Neutral,Confusion,0.6,Technical Support,False,2321
+Positive,Neutral,0.7,Technical Support,False,2322
+Positive,Satisfaction,0.6,Service Information,False,2323
+Positive,Satisfaction,0.7,Service Information,False,2324
+Positive,Neutral,0.5,Service Information,False,2325
+Negative,Frustration,0.9,Complaint,True,2326
+Positive,Satisfaction,0.3,Service Information,False,2327
+Positive,Satisfaction,0.0,Service Information,False,2328
+Neutral,Confusion,0.6,Technical Support,False,2329
+Positive,Satisfaction,0.3,Service Information,False,2330
+Neutral,Neutral,0.5,Billing,False,2331
+Negative,Frustration,0.8,Technical Support,False,2332
+Positive,Satisfaction,0.5,Service Information,False,2333
+Positive,Neutral,0.7,Service Information,False,2334
+Positive,Neutral,0.2,Service Information,False,2335
+Neutral,Confusion,0.7,Service Information,False,2336
+Positive,Satisfaction,0.5,Service Information,False,2337
+Positive,Neutral,0.3,Service Information,False,2338
+Neutral,Confusion,0.6,Technical Support,False,2339
+Negative,Frustration,0.8,Complaint,True,2340
+Neutral,Confusion,0.7,Service Information,False,2341
+Neutral,Confusion,0.6,Technical Support,False,2342
+Neutral,Confusion,0.5,Other,False,2343
+Neutral,Neutral,0.5,Billing,False,2344
+Negative,Frustration,0.8,Complaint,False,2345
+Positive,Neutral,0.7,Service Information,False,2346
+Negative,Frustration,0.8,Complaint,True,2347
+Negative,Frustration,0.8,Complaint,True,2348
+Negative,Frustration,0.8,Complaint,True,2349
+Positive,Satisfaction,0.7,Service Information,False,2350
+Negative,Frustration,1.0,Complaint,True,2351
+Neutral,Confusion,0.6,Technical Support,False,2352
+Positive,Satisfaction,0.7,Service Information,False,2353
+Neutral,Confusion,0.7,Service Information,True,2354
+Positive,Neutral,0.5,Service Information,False,2355
+Neutral,Confusion,0.3,Service Information,False,2356
+Neutral,Confusion,0.6,Technical Support,False,2357
+Positive,Satisfaction,0.7,Service Information,False,2358
+Neutral,Confusion,0.6,Technical Support,False,2359
+Negative,Frustration,0.7,Complaint,True,2360
+Neutral,Confusion,0.5,Service Information,False,2361
+Neutral,Confusion,0.3,Service Information,False,2362
+Neutral,Confusion,0.6,Technical Support,False,2363
+Negative,Frustration,0.7,Service Information,False,2364
+Positive,Neutral,0.7,Service Information,False,2365
+Negative,Frustration,0.8,Complaint,True,2366
+Positive,Confusion,0.7,Service Information,False,2367
+Negative,Frustration,0.7,Service Information,False,2368
+Positive,Satisfaction,0.3,Service Information,False,2369
+Neutral,Confusion,0.3,Service Information,False,2370
+Negative,Frustration,0.8,Service Information,False,2371
+Neutral,Confusion,0.6,Technical Support,False,2372
+Neutral,Confusion,0.6,Technical Support,False,2373
+Positive,Satisfaction,0.5,Service Information,False,2374
+Neutral,Confusion,0.6,Technical Support,False,2375
+Neutral,Confusion,0.6,Technical Support,False,2376
+Neutral,Frustration,0.6,Service Information,False,2377
+Positive,Satisfaction,0.3,Service Information,False,2378
+Negative,Frustration,0.8,Complaint,True,2379
+Neutral,Frustration,0.6,Service Information,False,2380
+Positive,Neutral,0.6,Service Information,False,2381
+Neutral,Confusion,0.6,Technical Support,False,2382
+Positive,Satisfaction,0.3,Service Information,False,2383
+Neutral,Confusion,0.6,Technical Support,False,2384
+Neutral,Confusion,0.6,Service Information,False,2385
+Negative,Frustration,0.8,Complaint,False,2386
+Neutral,Confusion,0.7,Technical Support,False,2387
+Neutral,Confusion,0.6,Technical Support,False,2388
+Positive,Gratitude,0.3,Service Information,False,2389
+Positive,Gratitude,0.1,Complaint,False,2390
+Neutral,Confusion,0.8,Service Information,False,2391
+Negative,Frustration,0.8,Complaint,True,2392
+Negative,Frustration,0.8,Complaint,True,2393
+Neutral,Confusion,0.6,Technical Support,False,2394
+Neutral,Confusion,0.7,Technical Support,False,2395
+Positive,Neutral,0.5,Service Information,False,2396
+Positive,Satisfaction,0.6,Service Information,False,2397
+Neutral,Confusion,0.6,Service Information,False,2398
+Neutral,Confusion,0.7,Service Information,False,2399
+Neutral,Confusion,0.6,Technical Support,False,2400
+Positive,Neutral,0.6,Service Information,False,2401
+Positive,Gratitude,0.3,Service Information,False,2402
+Negative,Frustration,0.7,Complaint,True,2403
+Neutral,Neutral,0.0,Other,False,2404
+Neutral,Confusion,0.7,Technical Support,False,2405
+Neutral,Confusion,0.7,Technical Support,False,2406
+Positive,Gratitude,0.3,Service Information,False,2407
+Neutral,Confusion,0.6,Service Information,False,2408
+Neutral,Confusion,0.6,Technical Support,False,2409
+Positive,Neutral,0.7,Service Information,False,2410
+Neutral,Confusion,0.6,Technical Support,False,2411
+Neutral,Frustration,0.7,Service Information,False,2412
+Negative,Frustration,1.0,Complaint,True,2413
+Neutral,Confusion,0.7,Service Information,False,2414
+Positive,Gratitude,0.7,Service Information,False,2415
+Neutral,Confusion,0.6,Service Information,False,2416
+Positive,Gratitude,0.3,Service Information,False,2417
+Positive,Gratitude,0.0,Service Information,False,2418
+Neutral,Confusion,0.5,Service Information,False,2419
+Neutral,Confusion,0.6,Technical Support,False,2420
+Positive,Satisfaction,0.3,Technical Support,False,2421
+Positive,Neutral,0.3,Service Information,False,2422
+Positive,Satisfaction,0.7,Service Information,False,2423
+Neutral,Confusion,0.6,Technical Support,False,2424
+Positive,Gratitude,0.0,Service Information,False,2425
+Neutral,Neutral,0.5,Technical Support,False,2426
+Negative,Frustration,0.8,Complaint,True,2427
+Positive,Satisfaction,0.8,Service Information,False,2428
+Positive,Satisfaction,0.5,Service Information,False,2429
+Neutral,Neutral,0.4,Billing,False,2430
+Positive,Neutral,0.4,Service Information,False,2431
+Positive,Satisfaction,0.7,Service Information,False,2432
+Neutral,Neutral,0.5,Technical Support,False,2433
+Neutral,Confusion,0.6,Technical Support,False,2434
+Negative,Frustration,0.8,Complaint,False,2435
+Positive,Confusion,0.6,Service Information,False,2436
+Positive,Satisfaction,0.7,Technical Support,False,2437
+Neutral,Confusion,0.6,Technical Support,False,2438
+Negative,Frustration,0.8,Service Information,False,2439
+Neutral,Confusion,0.7,Technical Support,False,2440
+Neutral,Confusion,0.5,Billing,False,2441
+Negative,Frustration,0.8,Complaint,True,2442
+Positive,Satisfaction,1.0,Service Information,False,2443
+Positive,Neutral,0.5,Service Information,False,2444
+Positive,Satisfaction,0.3,Service Information,False,2445
+Positive,Satisfaction,0.3,Billing,False,2446
+Neutral,Neutral,0.5,Service Information,False,2447
+Positive,Satisfaction,0.2,Service Information,False,2448
+Neutral,Neutral,0.5,Service Information,False,2449
+Neutral,Confusion,0.6,Service Information,False,2450
+Neutral,Confusion,0.5,Service Information,False,2451
+Neutral,Neutral,0.5,Technical Support,False,2452
+Negative,Frustration,0.8,Complaint,True,2453
+Positive,Satisfaction,0.5,Technical Support,False,2454
+Positive,Satisfaction,0.0,Service Information,False,2455
+Neutral,Neutral,0.5,Billing,False,2456
+Neutral,Confusion,0.6,Technical Support,False,2457
+Neutral,Confusion,0.6,Technical Support,False,2458
+Positive,Satisfaction,0.7,Service Information,False,2459
+Negative,Anger,0.8,Complaint,True,2460
+Neutral,Neutral,0.2,Service Information,False,2461
+Negative,Frustration,0.7,Complaint,True,2462
+Negative,Frustration,0.8,Complaint,True,2463
+Neutral,Neutral,0.2,Service Information,False,2464
+Positive,Satisfaction,0.5,Service Information,False,2465
+Positive,Gratitude,0.5,Service Information,False,2466
+Neutral,Confusion,0.7,Technical Support,False,2467
+Negative,Frustration,0.7,Complaint,False,2468
+Negative,Frustration,0.8,Other,False,2469
+Negative,Frustration,0.8,Complaint,True,2470
+Negative,Frustration,0.8,Technical Support,False,2471
+Positive,Gratitude,0.0,Service Information,False,2472
+Neutral,Confusion,0.6,Technical Support,False,2473
+Negative,Frustration,0.8,Complaint,True,2474
+Neutral,Confusion,0.6,Technical Support,False,2475
+Neutral,Confusion,0.6,Service Information,False,2476
+Neutral,Neutral,0.5,Technical Support,False,2477
+Negative,Frustration,0.8,Complaint,True,2478
+Negative,Frustration,0.9,Complaint,True,2479
+Positive,Satisfaction,0.3,Service Information,False,2480
+Neutral,Confusion,0.6,Technical Support,False,2481
+Positive,Satisfaction,0.5,Service Information,False,2482
+Neutral,Confusion,0.6,Technical Support,False,2483
+Negative,Anger,0.8,Complaint,True,2484
+Neutral,Confusion,0.5,Service Information,False,2485
+Neutral,Confusion,0.6,Service Information,False,2486
+Neutral,Confusion,0.6,Technical Support,False,2487
+Positive,Neutral,0.5,Service Information,False,2488
+Negative,Frustration,0.8,Complaint,True,2489
+Positive,Satisfaction,0.5,Service Information,False,2490
+Neutral,Confusion,0.6,Service Information,False,2491
+Neutral,Confusion,0.5,Technical Support,False,2492
+Neutral,Confusion,0.5,Service Information,False,2493
+Neutral,Confusion,0.3,Service Information,False,2494
+Positive,Neutral,0.3,Service Information,False,2495
+Negative,Frustration,0.8,Technical Support,False,2496
+Negative,Frustration,0.9,Service Information,True,2497
+Neutral,Confusion,0.6,Technical Support,False,2498
+Positive,Gratitude,0.2,Service Information,False,2499
+Positive,Neutral,0.3,Complaint,False,2500
+Positive,Neutral,0.3,Service Information,False,2501
+Neutral,Confusion,0.8,Service Information,False,2502
+Negative,Frustration,0.8,Billing,False,2503
+Neutral,Confusion,0.6,Technical Support,False,2504
+Positive,Satisfaction,0.3,Service Information,False,2505
+Positive,Neutral,0.5,Service Information,False,2506
+Neutral,Neutral,0.5,Technical Support,False,2507
+Neutral,Confusion,0.6,Technical Support,False,2508
+Negative,Frustration,0.8,Service Information,False,2509
+Neutral,Confusion,0.6,Technical Support,False,2510
+Neutral,Confusion,0.6,Technical Support,False,2511
+Positive,Neutral,0.2,Service Information,False,2512
+Neutral,Confusion,0.6,Technical Support,False,2513
+Neutral,Confusion,0.5,Technical Support,False,2514
+Negative,Frustration,0.7,Complaint,True,2515
+Neutral,Confusion,0.7,Complaint,False,2516
+Positive,Gratitude,0.0,Service Information,False,2517
+Positive,Satisfaction,0.8,Service Information,False,2518
+Neutral,Confusion,0.6,Technical Support,False,2519
+Neutral,Confusion,0.6,Technical Support,False,2520
+Positive,Satisfaction,0.3,Service Information,False,2521
+Neutral,Frustration,0.7,Service Information,False,2522
+Neutral,Confusion,0.6,Service Information,False,2523
+Negative,Confusion,0.5,Service Information,False,2524
+Positive,Satisfaction,0.2,Technical Support,False,2525
+Positive,Gratitude,0.3,Service Information,False,2526
+Neutral,Frustration,0.7,Complaint,True,2527
+Positive,Satisfaction,0.6,Service Information,False,2528
+Positive,Satisfaction,0.5,Billing,False,2529
+Positive,Satisfaction,0.3,Service Information,False,2530
+Neutral,Neutral,0.5,Service Information,False,2531
+Neutral,Neutral,0.5,Technical Support,False,2532
+Neutral,Confusion,0.5,Service Information,False,2533
+Negative,Confusion,0.7,Technical Support,False,2534
+Positive,Neutral,0.7,Service Information,False,2535
+Neutral,Confusion,0.6,Technical Support,False,2536
+Neutral,Confusion,0.5,Service Information,False,2537
+Neutral,Neutral,0.5,Technical Support,False,2538
+Positive,Satisfaction,0.7,Service Information,False,2539
+Neutral,Satisfaction,0.8,Service Information,False,2540
+Positive,Gratitude,0.3,Service Information,False,2541
+Neutral,Confusion,0.7,Technical Support,False,2542
+Positive,Satisfaction,0.2,Service Information,False,2543
+Neutral,Confusion,0.6,Technical Support,False,2544
+Neutral,Confusion,0.6,Service Information,False,2545
+Positive,Satisfaction,0.2,Service Information,False,2546
+Negative,Frustration,0.9,Complaint,True,2547
+Neutral,Confusion,0.8,Service Information,False,2548
+Neutral,Confusion,0.7,Service Information,False,2549
+Neutral,Confusion,0.5,Service Information,False,2550
+Neutral,Confusion,0.8,Technical Support,False,2551
+Neutral,Frustration,0.7,Service Information,False,2552
+Neutral,Confusion,0.7,Technical Support,False,2553
+Neutral,Neutral,0.5,Technical Support,False,2554
+Negative,Frustration,0.8,Complaint,True,2555
+Positive,Neutral,0.5,Technical Support,False,2556
+Positive,Satisfaction,0.5,Service Information,False,2557
+Neutral,Neutral,0.5,Technical Support,False,2558
+Neutral,Neutral,0.5,Billing,False,2559
+Neutral,Neutral,0.5,Service Information,False,2560
+Negative,Confusion,0.7,Service Information,True,2561
+Negative,Confusion,0.8,Complaint,False,2562
+Neutral,Confusion,0.7,Technical Support,False,2563
+Neutral,Confusion,0.6,Service Information,False,2564
+Positive,Neutral,0.5,Service Information,False,2565
+Positive,Neutral,0.3,Service Information,False,2566
+Positive,Satisfaction,0.0,Service Information,False,2567
+Neutral,Neutral,0.5,Service Information,False,2568
+Neutral,Confusion,0.6,Technical Support,False,2569
+Neutral,Confusion,0.7,Technical Support,False,2570
+Positive,Neutral,0.7,Service Information,False,2571
+Negative,Frustration,0.8,Complaint,True,2572
+Neutral,Confusion,0.6,Technical Support,False,2573
+Neutral,Confusion,0.6,Technical Support,False,2574
+Positive,Satisfaction,0.3,Service Information,False,2575
+Neutral,Confusion,0.7,Service Information,False,2576
+Positive,Satisfaction,0.4,Service Information,False,2577
+Positive,Gratitude,0.5,Service Information,False,2578
+Neutral,Confusion,0.5,Technical Support,False,2579
+Positive,Neutral,0.7,Service Information,False,2580
+Negative,Frustration,0.8,Complaint,True,2581
+Negative,Frustration,0.8,Complaint,True,2582
+Neutral,Neutral,0.5,Service Information,False,2583
+Neutral,Neutral,0.5,Technical Support,False,2584
+Positive,Satisfaction,0.5,Service Information,False,2585
+Negative,Frustration,0.8,Complaint,True,2586
+Positive,Neutral,0.3,Service Information,False,2587
+Neutral,Confusion,0.4,Service Information,False,2588
+Negative,Anger,0.8,Billing,False,2589
+Negative,Confusion,0.7,Service Information,True,2590
+Neutral,Confusion,0.6,Service Information,False,2591
+Neutral,Confusion,0.6,Technical Support,False,2592
+Neutral,Confusion,0.6,Service Information,False,2593
+Positive,Satisfaction,0.7,Service Information,False,2594
+Negative,Frustration,0.8,Complaint,True,2595
+Negative,Frustration,1.0,Complaint,True,2596
+Neutral,Satisfaction,0.6,Service Information,False,2597
+Neutral,Neutral,0.3,Service Information,False,2598
+Positive,Satisfaction,0.3,Service Information,False,2599
+Positive,Satisfaction,0.0,Service Information,False,2600
+Positive,Satisfaction,0.3,Service Information,False,2601
+Positive,Satisfaction,0.3,Service Information,False,2602
+Negative,Frustration,0.8,Complaint,True,2603
+Neutral,Confusion,0.6,Technical Support,False,2604
+Positive,Neutral,0.2,Service Information,False,2605
+Positive,Neutral,0.5,Service Information,False,2606
+Positive,Gratitude,0.3,Service Information,False,2607
+Neutral,Confusion,0.8,Service Information,False,2608
+Neutral,Confusion,0.5,Technical Support,False,2609
+Positive,Gratitude,0.3,Service Information,False,2610
+Negative,Confusion,0.7,Billing,True,2611
+Neutral,Confusion,0.7,Technical Support,False,2612
+Positive,Satisfaction,0.8,Service Information,False,2613
+Neutral,Confusion,0.6,Technical Support,False,2614
+Positive,Satisfaction,0.6,Service Information,False,2615
+Positive,Neutral,0.8,Service Information,False,2616
+Positive,Satisfaction,0.6,Service Information,False,2617
+Neutral,Confusion,0.7,Technical Support,False,2618
+Positive,Satisfaction,0.3,Service Information,False,2619
+Neutral,Neutral,0.5,Service Information,False,2620
+Positive,Gratitude,0.0,Service Information,False,2621
+Negative,Confusion,0.6,Technical Support,False,2622
+Negative,Anger,0.8,Complaint,True,2623
+Negative,Frustration,0.8,Complaint,True,2624
+Neutral,Neutral,0.5,Billing,False,2625
+Neutral,Confusion,0.7,Service Information,False,2626
+Negative,Frustration,0.6,Complaint,False,2627
+Neutral,Confusion,0.6,Technical Support,False,2628
+Positive,Satisfaction,0.3,Service Information,False,2629
+Positive,Satisfaction,0.4,Service Information,False,2630
+Neutral,Neutral,0.5,Billing,False,2631
+Neutral,Confusion,0.7,Technical Support,False,2632
+Positive,Satisfaction,0.6,Service Information,False,2633
+Neutral,Confusion,0.6,Technical Support,False,2634
+Positive,Satisfaction,0.5,Service Information,False,2635
+Negative,Frustration,0.8,Complaint,True,2636
+Negative,Frustration,0.7,Complaint,True,2637
+Positive,Satisfaction,0.5,Billing,False,2638
+Positive,Satisfaction,0.8,Service Information,False,2639
+Neutral,Satisfaction,0.3,Service Information,False,2640
+Positive,Satisfaction,0.1,Service Information,False,2641
+Neutral,Confusion,0.7,Service Information,False,2642
+Neutral,Confusion,0.6,Technical Support,False,2643
+Neutral,Confusion,0.6,Technical Support,False,2644
+Neutral,Confusion,0.7,Service Information,False,2645
+Positive,Satisfaction,0.5,Service Information,False,2646
+Positive,Gratitude,0.8,Service Information,False,2647
+Neutral,Confusion,0.6,Technical Support,False,2648
+Neutral,Confusion,0.5,Service Information,False,2649
+Negative,Frustration,0.9,Complaint,True,2650
+Negative,Frustration,0.7,Service Information,False,2651
+Neutral,Confusion,0.5,Complaint,False,2652
+Positive,Satisfaction,0.3,Service Information,False,2653
+Negative,Frustration,0.7,Complaint,True,2654
+Positive,Gratitude,0.7,Service Information,False,2655
+Positive,Satisfaction,0.7,Service Information,False,2656
+Neutral,Confusion,0.5,Service Information,False,2657
+Positive,Satisfaction,0.3,Service Information,False,2658
+Negative,Frustration,0.9,Complaint,True,2659
+Neutral,Confusion,0.6,Technical Support,False,2660
+Negative,Frustration,0.8,Service Information,False,2661
+Negative,Frustration,0.8,Billing,False,2662
+Positive,Satisfaction,0.7,Service Information,False,2663
+Neutral,Confusion,0.7,Technical Support,False,2664
+Neutral,Frustration,0.7,Complaint,True,2665
+Negative,Confusion,0.6,Service Information,False,2666
+Positive,Satisfaction,0.7,Service Information,False,2667
+Neutral,Confusion,0.6,Technical Support,False,2668
+Neutral,Neutral,0.5,Service Information,False,2669
+Negative,Frustration,0.8,Technical Support,False,2670
+Neutral,Confusion,0.6,Service Information,False,2671
+Neutral,Confusion,0.6,Service Information,False,2672
+Neutral,Confusion,0.7,Service Information,False,2673
+Positive,Satisfaction,0.5,Billing,False,2674
+Negative,Frustration,0.8,Complaint,True,2675
+Neutral,Neutral,0.5,Service Information,False,2676
+Negative,Frustration,0.8,Complaint,True,2677
+Neutral,Confusion,0.6,Service Information,False,2678
+Neutral,Confusion,0.7,Technical Support,False,2679
+Positive,Satisfaction,0.3,Service Information,False,2680
+Positive,Gratitude,0.2,Service Information,False,2681
+Negative,Frustration,0.8,Complaint,True,2682
+Negative,Frustration,0.9,Complaint,True,2683
+Positive,Gratitude,0.0,Service Information,False,2684
+Neutral,Confusion,0.6,Technical Support,False,2685
+Neutral,Confusion,0.7,Service Information,False,2686
+Negative,Frustration,0.8,Technical Support,True,2687
+Positive,Satisfaction,0.7,Service Information,False,2688
+Positive,Satisfaction,0.5,Service Information,False,2689
+Positive,Neutral,0.5,Technical Support,False,2690
+Positive,Gratitude,0.3,Service Information,False,2691
+Positive,Satisfaction,0.3,Billing,False,2692
+Neutral,Confusion,0.7,Service Information,False,2693
+Neutral,Confusion,0.7,Service Information,False,2694
+Neutral,Confusion,0.6,Technical Support,False,2695
+Neutral,Neutral,0.5,Technical Support,False,2696
+Negative,Anger,0.8,Complaint,True,2697
+Neutral,Confusion,0.6,Technical Support,False,2698
+Neutral,Neutral,0.5,Billing,False,2699
+Neutral,Confusion,0.6,Technical Support,False,2700
+Neutral,Neutral,0.5,Technical Support,False,2701
+Positive,Gratitude,0.2,Service Information,False,2702
+Negative,Frustration,0.9,Complaint,True,2703
+Positive,Satisfaction,0.5,Service Information,False,2704
+Neutral,Confusion,0.6,Technical Support,False,2705
+Positive,Gratitude,1.0,Service Information,False,2706
+Negative,Frustration,0.9,Complaint,True,2707
+Neutral,Neutral,0.6,Service Information,False,2708
+Neutral,Confusion,0.7,Technical Support,False,2709
+Positive,Satisfaction,0.5,Service Information,False,2710
+Positive,Satisfaction,0.2,Service Information,False,2711
+Negative,Confusion,0.8,Service Information,False,2712
+Positive,Gratitude,0.7,Service Information,False,2713
+Neutral,Confusion,0.7,Service Information,False,2714
+Neutral,Confusion,0.8,Technical Support,False,2715
+Negative,Frustration,0.9,Complaint,True,2716
+Neutral,Confusion,0.5,Service Information,False,2717
+Neutral,Confusion,0.6,Technical Support,False,2718
+Neutral,Frustration,0.7,Billing,False,2719
+Negative,Frustration,0.8,Complaint,True,2720
+Positive,Gratitude,0.2,Service Information,False,2721
+Neutral,Confusion,0.6,Service Information,False,2722
+Neutral,Confusion,0.6,Technical Support,False,2723
+Negative,Confusion,0.8,Complaint,True,2724
+Negative,Frustration,0.9,Complaint,True,2725
+Neutral,Confusion,0.6,Technical Support,False,2726
+Neutral,Confusion,0.6,Technical Support,False,2727
+Negative,Frustration,0.8,Service Information,False,2728
+Neutral,Confusion,0.6,Technical Support,False,2729
+Neutral,Neutral,0.4,Technical Support,False,2730
+Positive,Gratitude,0.0,Service Information,False,2731
+Positive,Neutral,0.7,Service Information,False,2732
+Neutral,Confusion,0.5,Technical Support,False,2733
+Negative,Frustration,0.9,Complaint,True,2734
+Negative,Anger,1.0,Complaint,True,2735
+Neutral,Confusion,0.6,Service Information,False,2736
+Neutral,Confusion,0.7,Technical Support,False,2737
+Positive,Satisfaction,0.2,Service Information,False,2738
+Positive,Gratitude,0.7,Service Information,True,2739
+Neutral,Confusion,0.7,Service Information,False,2740
+Neutral,Confusion,0.6,Service Information,False,2741
+Negative,Frustration,0.8,Complaint,True,2742
+Negative,Frustration,0.9,Complaint,True,2743
+Neutral,Confusion,0.6,Service Information,False,2744
+Negative,Frustration,0.8,Complaint,True,2745
+Neutral,Neutral,0.5,Technical Support,False,2746
+Positive,Neutral,0.6,Service Information,False,2747
+Negative,Frustration,0.7,Complaint,False,2748
+Positive,Neutral,0.6,Service Information,False,2749
+Negative,Frustration,0.9,Complaint,True,2750
+Negative,Frustration,0.7,Billing,True,2751
+Negative,Frustration,0.8,Complaint,True,2752
+Positive,Gratitude,0.6,Service Information,False,2753
+Neutral,Frustration,0.7,Complaint,True,2754
+Negative,Frustration,0.8,Complaint,True,2755
+Neutral,Confusion,0.6,Technical Support,False,2756
+Neutral,Confusion,0.7,Service Information,False,2757
+Positive,Satisfaction,0.5,Service Information,False,2758
+Positive,Satisfaction,0.2,Service Information,False,2759
+Positive,Satisfaction,0.5,Service Information,False,2760
+Neutral,Frustration,0.9,Billing,True,2761
+Negative,Frustration,1.0,Complaint,True,2762
+Neutral,Confusion,0.6,Technical Support,False,2763
+Neutral,Confusion,0.4,Service Information,False,2764
+Negative,Frustration,0.7,Complaint,True,2765
+Positive,Gratitude,0.0,Service Information,False,2766
+Positive,Satisfaction,0.5,Service Information,False,2767
+Neutral,Confusion,0.6,Service Information,False,2768
+Neutral,Confusion,0.7,Technical Support,False,2769
+Neutral,Confusion,0.5,Service Information,False,2770
+Positive,Satisfaction,0.3,Service Information,False,2771
+Neutral,Confusion,0.6,Technical Support,False,2772
+Neutral,Frustration,0.7,Complaint,True,2773
+Positive,Satisfaction,0.5,Service Information,False,2774
+Neutral,Confusion,0.6,Technical Support,False,2775
+Positive,Satisfaction,0.5,Service Information,False,2776
+Neutral,Confusion,0.6,Service Information,False,2777
+Positive,Satisfaction,0.5,Service Information,False,2778
+Positive,Satisfaction,0.8,Service Information,False,2779
+Positive,Satisfaction,0.2,Service Information,False,2780
+Neutral,Confusion,0.7,Technical Support,False,2781
+Neutral,Confusion,0.8,Service Information,False,2782
+Negative,Frustration,0.7,Complaint,False,2783
+Positive,Neutral,0.5,Service Information,False,2784
+Negative,Frustration,0.8,Complaint,True,2785
+Neutral,Confusion,0.7,Service Information,False,2786
+Positive,Satisfaction,0.5,Service Information,False,2787
+Positive,Satisfaction,0.5,Service Information,False,2788
+Neutral,Neutral,0.5,Service Information,False,2789
+Neutral,Frustration,0.7,Service Information,False,2790
+Neutral,Confusion,0.7,Service Information,False,2791
+Negative,Frustration,0.8,Complaint,True,2792
+Neutral,Neutral,0.5,Technical Support,False,2793
+Negative,Frustration,0.8,Complaint,True,2794
+Neutral,Neutral,0.5,Complaint,False,2795
+Positive,Satisfaction,0.2,Service Information,False,2796
+Positive,Satisfaction,0.4,Service Information,False,2797
+Negative,Frustration,0.7,Complaint,True,2798
+Neutral,Neutral,0.5,Technical Support,False,2799
+Neutral,Confusion,0.7,Technical Support,False,2800
+Neutral,Confusion,0.7,Service Information,False,2801
+Neutral,Confusion,0.3,Service Information,False,2802
+Neutral,Confusion,0.6,Service Information,False,2803
+Negative,Frustration,0.7,Service Information,False,2804
+Positive,Satisfaction,0.3,Service Information,False,2805
+Positive,Gratitude,0.0,Service Information,False,2806
+Neutral,Confusion,0.6,Technical Support,False,2807
+Neutral,Confusion,0.5,Technical Support,False,2808
+Neutral,Confusion,0.6,Technical Support,False,2809
+Neutral,Confusion,0.7,Service Information,False,2810
+Positive,Satisfaction,0.4,Service Information,False,2811
+Neutral,Confusion,0.6,Technical Support,False,2812
+Neutral,Confusion,0.7,Billing,False,2813
+Neutral,Confusion,0.6,Technical Support,False,2814
+Positive,Gratitude,0.0,Service Information,False,2815
+Neutral,Confusion,0.7,Service Information,False,2816
+Neutral,Confusion,0.6,Technical Support,False,2817
+Neutral,Confusion,0.6,Service Information,False,2818
+Neutral,Confusion,0.8,Service Information,False,2819
+Positive,Gratitude,0.0,Service Information,False,2820
+Positive,Satisfaction,0.9,Service Information,False,2821
+Negative,Frustration,0.6,Complaint,True,2822
+Neutral,Neutral,0.3,Service Information,False,2823
+Neutral,Neutral,0.5,Service Information,False,2824
+Neutral,Confusion,0.6,Technical Support,False,2825
+Positive,Neutral,0.5,Service Information,False,2826
+Negative,Frustration,0.7,Service Information,False,2827
+Positive,Satisfaction,0.7,Service Information,False,2828
+Neutral,Confusion,0.6,Service Information,False,2829
+Positive,Satisfaction,0.7,Service Information,False,2830
+Positive,Satisfaction,0.5,Service Information,False,2831
+Neutral,Confusion,0.6,Technical Support,False,2832
+Neutral,Confusion,0.7,Billing,False,2833
+Neutral,Confusion,0.7,Billing,False,2834
+Positive,Satisfaction,0.6,Technical Support,False,2835
+Positive,Neutral,0.5,Service Information,False,2836
+Positive,Satisfaction,0.3,Service Information,False,2837
+Negative,Frustration,0.7,Complaint,True,2838
+Neutral,Neutral,0.5,Billing,False,2839
+Neutral,Neutral,0.5,Technical Support,False,2840
+Positive,Satisfaction,0.5,Service Information,False,2841
+Negative,Frustration,0.8,Complaint,True,2842
+Negative,Frustration,0.7,Complaint,True,2843
+Neutral,Confusion,0.6,Technical Support,False,2844
+Neutral,Neutral,0.5,Technical Support,False,2845
+Neutral,Confusion,0.7,Service Information,False,2846
+Neutral,Confusion,0.6,Technical Support,False,2847
+Neutral,Confusion,0.7,Technical Support,False,2848
+Neutral,Confusion,0.7,Technical Support,False,2849
+Negative,Frustration,0.8,Complaint,True,2850
+Positive,Satisfaction,0.3,Service Information,False,2851
+Neutral,Confusion,0.7,Service Information,False,2852
+Neutral,Confusion,0.6,Technical Support,False,2853
+Negative,Frustration,0.8,Technical Support,False,2854
+Positive,Gratitude,0.2,Service Information,False,2855
+Neutral,Confusion,0.7,Technical Support,False,2856
+Neutral,Confusion,0.7,Service Information,False,2857
+Negative,Frustration,0.9,Complaint,True,2858
+Positive,Gratitude,0.2,Service Information,False,2859
+Negative,Frustration,0.8,Complaint,True,2860
+Positive,Satisfaction,0.2,Service Information,False,2861
+Neutral,Confusion,0.6,Technical Support,False,2862
+Neutral,Confusion,0.6,Technical Support,False,2863
+Neutral,Neutral,0.3,Service Information,False,2864
+Neutral,Confusion,0.6,Technical Support,False,2865
+Positive,Satisfaction,0.3,Service Information,False,2866
+Positive,Neutral,0.5,Service Information,False,2867
+Neutral,Confusion,0.7,Technical Support,False,2868
+Neutral,Confusion,0.6,Technical Support,False,2869
+Positive,Satisfaction,1.0,Service Information,False,2870
+Negative,Frustration,0.7,Complaint,False,2871
+Neutral,Confusion,0.6,Technical Support,False,2872
+Negative,Frustration,0.7,Complaint,True,2873
+Positive,Satisfaction,0.3,Service Information,False,2874
+Neutral,Neutral,0.5,Billing,False,2875
+Positive,Satisfaction,0.3,Technical Support,False,2876
+Neutral,Confusion,0.7,Service Information,False,2877
+Positive,Satisfaction,0.3,Service Information,False,2878
+Neutral,Confusion,0.6,Service Information,False,2879
+Neutral,Confusion,0.6,Technical Support,False,2880
+Positive,Neutral,0.3,Service Information,False,2881
+Positive,Satisfaction,0.5,Service Information,False,2882
+Neutral,Confusion,0.6,Service Information,False,2883
+Neutral,Confusion,0.7,Billing,False,2884
+Positive,Gratitude,0.5,Service Information,False,2885
+Positive,Satisfaction,0.5,Service Information,False,2886
+Positive,Satisfaction,0.7,Service Information,False,2887
+Neutral,Confusion,0.7,Service Information,False,2888
+Positive,Satisfaction,0.7,Technical Support,False,2889
+Positive,Satisfaction,0.3,Service Information,False,2890
+Neutral,Confusion,0.6,Service Information,False,2891
+Negative,Frustration,0.9,Complaint,True,2892
+Positive,Satisfaction,0.8,Service Information,False,2893
+Positive,Satisfaction,1.0,Service Information,False,2894
+Negative,Frustration,0.7,Complaint,True,2895
+Neutral,Confusion,0.8,Service Information,False,2896
+Negative,Frustration,0.8,Complaint,True,2897
+Neutral,Confusion,0.6,Technical Support,False,2898
+Neutral,Confusion,0.4,Service Information,False,2899
+Neutral,Confusion,0.6,Service Information,False,2900
+Neutral,Confusion,0.6,Technical Support,False,2901
+Neutral,Neutral,0.5,Complaint,False,2902
+Neutral,Confusion,0.6,Technical Support,False,2903
+Positive,Gratitude,0.3,Service Information,False,2904
+Neutral,Confusion,0.7,Technical Support,False,2905
+Negative,Frustration,0.9,Complaint,True,2906
+Neutral,Frustration,0.6,Service Information,False,2907
+Neutral,Confusion,0.5,Service Information,False,2908
+Neutral,Neutral,0.5,Billing,False,2909
+Neutral,Neutral,0.5,Billing,False,2910
+Neutral,Confusion,0.7,Technical Support,False,2911
+Positive,Satisfaction,0.6,Service Information,False,2912
+Positive,Gratitude,0.6,Service Information,False,2913
+Positive,Neutral,0.7,Service Information,False,2914
+Neutral,Confusion,0.6,Technical Support,False,2915
+Neutral,Confusion,0.6,Technical Support,False,2916
+Neutral,Confusion,0.6,Service Information,False,2917
+Positive,Satisfaction,0.3,Service Information,False,2918
+Neutral,Confusion,0.7,Technical Support,False,2919
+Negative,Frustration,1.0,Complaint,False,2920
+Negative,Frustration,1.0,Complaint,True,2921
+Positive,Satisfaction,0.5,Service Information,False,2922
+Positive,Satisfaction,0.0,Service Information,False,2923
+Positive,Gratitude,0.7,Service Information,False,2924
+Positive,Satisfaction,0.3,Service Information,False,2925
+Neutral,Confusion,0.7,Service Information,False,2926
+Negative,Frustration,0.7,Complaint,True,2927
+Positive,Satisfaction,0.3,Service Information,False,2928
+Neutral,Confusion,0.7,Complaint,False,2929
+Positive,Satisfaction,0.3,Service Information,False,2930
+Positive,Gratitude,0.3,Service Information,False,2931
+Positive,Satisfaction,0.3,Service Information,False,2932
+Negative,Frustration,0.9,Complaint,True,2933
+Neutral,Confusion,0.5,Service Information,False,2934
+Negative,Frustration,0.6,Complaint,True,2935
+Positive,Satisfaction,0.5,Service Information,False,2936
+Positive,Satisfaction,0.2,Service Information,False,2937
+Positive,Gratitude,0.0,Service Information,False,2938
+Neutral,Confusion,0.6,Technical Support,False,2939
+Positive,Neutral,0.7,Service Information,False,2940
+Negative,Anger,0.9,Complaint,True,2941
+Positive,Satisfaction,0.3,Service Information,False,2942
+Neutral,Confusion,0.6,Technical Support,False,2943
+Negative,Frustration,0.6,Complaint,True,2944
+Negative,Frustration,0.8,Complaint,True,2945
+Neutral,Confusion,0.6,Service Information,False,2946
+Negative,Frustration,0.8,Technical Support,True,2947
+Positive,Satisfaction,0.3,Service Information,False,2948
+Positive,Neutral,0.7,Service Information,False,2949
+Neutral,Confusion,0.6,Technical Support,False,2950
+Positive,Satisfaction,0.3,Service Information,False,2951
+Positive,Neutral,0.3,Service Information,False,2952
+Negative,Frustration,0.6,Complaint,True,2953
+Negative,Anger,0.8,Complaint,True,2954
+Positive,Gratitude,0.3,Service Information,False,2955
+Positive,Satisfaction,0.7,Service Information,False,2956
+Positive,Satisfaction,0.3,Service Information,False,2957
+Negative,Frustration,1.0,Service Information,False,2958
+Neutral,Confusion,0.7,Service Information,False,2959
+Negative,Frustration,0.8,Complaint,True,2960
+Negative,Frustration,0.8,Complaint,True,2961
+Negative,Frustration,0.7,Complaint,True,2962
+Positive,Satisfaction,0.5,Service Information,False,2963
+Negative,Frustration,0.8,Complaint,True,2964
+Neutral,Confusion,0.6,Service Information,False,2965
+Neutral,Neutral,0.7,Service Information,True,2966
+Neutral,Confusion,0.5,Service Information,False,2967
+Neutral,Neutral,0.5,Technical Support,False,2968
+Positive,Neutral,0.5,Service Information,False,2969
+Neutral,Confusion,0.7,Technical Support,False,2970
+Negative,Frustration,0.8,Complaint,False,2971
+Negative,Frustration,0.7,Complaint,False,2972
+Neutral,Confusion,0.6,Service Information,False,2973
+Positive,Satisfaction,0.5,Service Information,False,2974
+Neutral,Confusion,0.6,Service Information,False,2975
+Positive,Satisfaction,0.7,Service Information,False,2976
+Negative,Frustration,1.0,Complaint,True,2977
+Neutral,Confusion,0.7,Service Information,False,2978
+Neutral,Confusion,0.7,Service Information,False,2979
+Positive,Satisfaction,0.3,Service Information,False,2980
+Negative,Frustration,0.8,Complaint,True,2981
+Positive,Satisfaction,0.5,Technical Support,False,2982
+Negative,Frustration,0.7,Complaint,True,2983
+Neutral,Confusion,0.7,Service Information,False,2984
+Neutral,Confusion,0.6,Technical Support,False,2985
+Positive,Gratitude,0.3,Service Information,False,2986
+Neutral,Confusion,0.6,Technical Support,False,2987
+Neutral,Confusion,0.6,Technical Support,False,2988
+Negative,Frustration,0.7,Complaint,True,2989
+Neutral,Confusion,0.6,Technical Support,False,2990
+Neutral,Confusion,0.7,Service Information,False,2991
+Negative,Frustration,0.8,Complaint,True,2992
+Neutral,Neutral,0.6,Service Information,False,2993
+Positive,Neutral,0.5,Service Information,False,2994
+Positive,Gratitude,0.0,Complaint,False,2995
+Positive,Satisfaction,0.3,Service Information,False,2996
+Positive,Neutral,0.3,Service Information,False,2997
+Positive,Neutral,0.5,Service Information,False,2998
+Neutral,Confusion,0.6,Technical Support,False,2999
+Neutral,Confusion,0.7,Technical Support,True,3000
+Neutral,Confusion,0.6,Technical Support,False,3001
+Neutral,Confusion,0.6,Technical Support,False,3002
+Neutral,Confusion,0.6,Technical Support,False,3003
+Neutral,Confusion,0.7,Service Information,False,3004
+Negative,Frustration,0.7,Complaint,True,3005
+Neutral,Confusion,0.6,Technical Support,False,3006
+Neutral,Confusion,0.6,Technical Support,False,3007
+Neutral,Confusion,0.7,Technical Support,False,3008
+Neutral,Confusion,0.5,Service Information,False,3009
+Positive,Satisfaction,0.2,Service Information,False,3010
+Neutral,Confusion,0.6,Technical Support,False,3011
+Negative,Frustration,0.8,Technical Support,False,3012
+Neutral,Confusion,0.7,Service Information,True,3013
+Positive,Satisfaction,0.7,Service Information,False,3014
+Negative,Frustration,1.0,Complaint,True,3015
+Neutral,Confusion,0.8,Service Information,False,3016
+Neutral,Confusion,0.7,Service Information,False,3017
+Neutral,Frustration,0.8,Technical Support,True,3018
+Positive,Neutral,0.2,Service Information,False,3019
+Neutral,Confusion,0.6,Service Information,False,3020
+Neutral,Confusion,0.7,Technical Support,False,3021
+Neutral,Confusion,0.6,Technical Support,False,3022
+Positive,Satisfaction,0.7,Service Information,False,3023
+Negative,Frustration,0.7,Complaint,True,3024
+Negative,Neutral,0.0,Service Information,False,3025
+Positive,Gratitude,0.5,Service Information,False,3026
+Negative,Frustration,0.8,Complaint,True,3027
+Positive,Satisfaction,0.2,Service Information,False,3028
+Positive,Satisfaction,0.8,Service Information,False,3029
+Neutral,Confusion,0.6,Service Information,False,3030
+Positive,Satisfaction,0.2,Service Information,False,3031
+Positive,Satisfaction,0.3,Service Information,False,3032
+Negative,Frustration,0.9,Complaint,True,3033
+Negative,Frustration,0.8,Complaint,True,3034
+Positive,Neutral,0.5,Service Information,False,3035
+Positive,Satisfaction,0.7,Service Information,False,3036
+Negative,Anger,0.8,Complaint,True,3037
+Neutral,Confusion,0.6,Technical Support,False,3038
+Positive,Gratitude,0.3,Service Information,False,3039
+Positive,Satisfaction,0.0,Service Information,False,3040
+Positive,Satisfaction,0.2,Service Information,False,3041
+Negative,Frustration,0.8,Technical Support,True,3042
+Neutral,Confusion,0.5,Service Information,False,3043
+Neutral,Confusion,0.6,Service Information,False,3044
+Neutral,Confusion,0.7,Technical Support,False,3045
+Neutral,Confusion,0.4,Service Information,False,3046
+Positive,Satisfaction,0.3,Service Information,False,3047
+Neutral,Confusion,0.7,Technical Support,False,3048
+Neutral,Confusion,0.5,Technical Support,False,3049
+Positive,Gratitude,0.4,Service Information,False,3050
+Neutral,Confusion,0.6,Technical Support,False,3051
+Neutral,Confusion,0.6,Technical Support,False,3052
+Positive,Neutral,0.6,Service Information,False,3053
+Neutral,Confusion,0.6,Technical Support,False,3054
+Positive,Gratitude,0.4,Billing,False,3055
+Neutral,Confusion,0.6,Technical Support,False,3056
+Neutral,Confusion,0.7,Service Information,False,3057
+Positive,Satisfaction,0.6,Service Information,False,3058
+Positive,Satisfaction,0.7,Service Information,False,3059
+Positive,Satisfaction,0.7,Service Information,False,3060
+Positive,Neutral,0.7,Service Information,False,3061
+Positive,Neutral,0.5,Service Information,False,3062
+Positive,Neutral,0.3,Service Information,False,3063
+Negative,Frustration,0.9,Complaint,True,3064
+Neutral,Frustration,0.7,Service Information,False,3065
+Negative,Frustration,0.9,Complaint,True,3066
+Neutral,Confusion,0.8,Service Information,False,3067
+Positive,Satisfaction,0.3,Service Information,False,3068
+Negative,Frustration,0.8,Complaint,True,3069
+Neutral,Confusion,0.5,Technical Support,False,3070
+Positive,Neutral,0.8,Service Information,False,3071
+Neutral,Confusion,0.7,Service Information,False,3072
+Neutral,Confusion,0.7,Technical Support,False,3073
+Neutral,Confusion,0.6,Technical Support,False,3074
+Negative,Frustration,0.8,Complaint,True,3075
+Positive,Satisfaction,0.5,Service Information,False,3076
+Negative,Frustration,0.8,Complaint,True,3077
+Neutral,Confusion,0.6,Technical Support,False,3078
+Negative,Frustration,0.8,Complaint,True,3079
+Neutral,Confusion,0.6,Technical Support,False,3080
+Neutral,Confusion,0.6,Technical Support,False,3081
+Positive,Neutral,0.6,Service Information,False,3082
+Positive,Neutral,0.4,Service Information,False,3083
+Neutral,Neutral,0.5,Service Information,False,3084
+Positive,Satisfaction,0.3,Service Information,False,3085
+Neutral,Neutral,0.5,Service Information,False,3086
+Neutral,Confusion,0.6,Technical Support,False,3087
+Positive,Satisfaction,0.2,Service Information,False,3088
+Positive,Gratitude,0.2,Service Information,False,3089
+Neutral,Frustration,0.9,Service Information,False,3090
+Neutral,Neutral,0.5,Service Information,False,3091
+Positive,Satisfaction,0.3,Service Information,False,3092
+Positive,Gratitude,0.1,Service Information,False,3093
+Positive,Gratitude,0.3,Service Information,False,3094
+Positive,Satisfaction,0.7,Service Information,False,3095
+Positive,Neutral,0.7,Service Information,False,3096
+Positive,Satisfaction,0.5,Service Information,False,3097
+Neutral,Neutral,0.5,Billing,False,3098
+Positive,Satisfaction,0.5,Service Information,False,3099
+Positive,Satisfaction,0.3,Service Information,False,3100
+Positive,Gratitude,0.7,Technical Support,False,3101
+Neutral,Confusion,0.6,Service Information,False,3102
+Neutral,Confusion,0.5,Service Information,False,3103
+Positive,Satisfaction,0.2,Service Information,False,3104
+Positive,Gratitude,0.6,Service Information,False,3105
+Positive,Gratitude,0.0,Service Information,False,3106
+Positive,Satisfaction,0.7,Service Information,False,3107
+Neutral,Confusion,0.7,Technical Support,False,3108
+Neutral,Confusion,0.3,Service Information,False,3109
+Negative,Frustration,0.8,Complaint,True,3110
+Neutral,Satisfaction,0.5,Service Information,False,3111
+Positive,Satisfaction,0.8,Service Information,False,3112
+Neutral,Confusion,0.8,Service Information,False,3113
+Positive,Neutral,0.3,Service Information,False,3114
+Neutral,Frustration,0.7,Complaint,False,3115
+Neutral,Confusion,0.6,Technical Support,False,3116
+Positive,Satisfaction,0.6,Service Information,False,3117
+Positive,Neutral,0.2,Service Information,False,3118
+Positive,Satisfaction,0.8,Service Information,False,3119
+Positive,Satisfaction,0.7,Service Information,False,3120
+Positive,Satisfaction,0.8,Service Information,False,3121
+Neutral,Confusion,0.5,Service Information,False,3122
+Negative,Frustration,0.8,Complaint,True,3123
+Positive,Satisfaction,0.8,Service Information,False,3124
+Positive,Satisfaction,0.5,Service Information,False,3125
+Positive,Gratitude,0.2,Service Information,False,3126
+Positive,Satisfaction,0.5,Service Information,False,3127
+Neutral,Confusion,0.5,Service Information,False,3128
+Negative,Frustration,0.9,Complaint,True,3129
+Neutral,Satisfaction,0.5,Service Information,False,3130
+Positive,Satisfaction,0.2,Technical Support,False,3131
+Positive,Gratitude,0.4,Service Information,False,3132
+Neutral,Confusion,0.7,Service Information,False,3133
+Positive,Satisfaction,0.7,Service Information,False,3134
+Neutral,Confusion,0.6,Technical Support,False,3135
+Negative,Frustration,0.8,Complaint,False,3136
+Neutral,Neutral,0.5,Technical Support,False,3137
+Positive,Gratitude,0.0,Service Information,False,3138
+Neutral,Confusion,0.7,Technical Support,False,3139
+Negative,Frustration,0.9,Complaint,True,3140
+Neutral,Confusion,0.6,Technical Support,False,3141
+Neutral,Confusion,0.6,Technical Support,False,3142
+Positive,Gratitude,0.0,Service Information,False,3143
+Neutral,Confusion,0.6,Technical Support,False,3144
+Neutral,Confusion,0.3,Service Information,False,3145
+Negative,Frustration,0.7,Complaint,True,3146
+Negative,Frustration,0.7,Technical Support,True,3147
+Positive,Gratitude,0.1,Service Information,False,3148
+Neutral,Confusion,0.6,Technical Support,False,3149
+Positive,Gratitude,0.2,Technical Support,False,3150
+Positive,Satisfaction,0.2,Service Information,False,3151
+Positive,Gratitude,0.6,Complaint,False,3152
+Neutral,Confusion,0.7,Service Information,False,3153
+Neutral,Confusion,0.7,Service Information,False,3154
+Neutral,Neutral,0.5,Service Information,False,3155
+Neutral,Confusion,0.5,Service Information,False,3156
+Negative,Frustration,0.7,Complaint,True,3157
+Positive,Satisfaction,0.7,Complaint,False,3158
+Negative,Anger,1.0,Complaint,False,3159
+Positive,Satisfaction,0.2,Service Information,False,3160
+Negative,Frustration,0.9,Complaint,True,3161
+Positive,Neutral,0.6,Service Information,False,3162
+Neutral,Frustration,0.6,Billing,False,3163
+Negative,Frustration,0.8,Complaint,True,3164
+Positive,Neutral,0.5,Service Information,False,3165
+Negative,Frustration,0.7,Complaint,True,3166
+Negative,Anger,0.8,Complaint,True,3167
+Neutral,Confusion,0.8,Service Information,False,3168
+Positive,Satisfaction,0.8,Service Information,False,3169
+Neutral,Confusion,0.7,Service Information,False,3170
+Neutral,Confusion,0.6,Technical Support,False,3171
+Neutral,Confusion,0.6,Service Information,False,3172
+Positive,Neutral,0.5,Service Information,False,3173
+Positive,Satisfaction,0.3,Service Information,False,3174
+Positive,Satisfaction,0.3,Service Information,False,3175
+Negative,Frustration,0.8,Complaint,True,3176
+Positive,Gratitude,0.0,Service Information,False,3177
+Neutral,Confusion,0.6,Technical Support,False,3178
+Negative,Frustration,0.9,Service Information,False,3179
+Neutral,Confusion,0.6,Billing,False,3180
+Positive,Frustration,0.7,Service Information,False,3181
+Positive,Satisfaction,0.3,Service Information,False,3182
+Neutral,Confusion,0.6,Technical Support,False,3183
+Negative,Anger,0.8,Technical Support,True,3184
+Positive,Satisfaction,0.5,Service Information,False,3185
+Negative,Frustration,1.0,Complaint,True,3186
+Positive,Satisfaction,0.6,Service Information,False,3187
+Neutral,Neutral,0.5,Billing,False,3188
+Neutral,Confusion,0.5,Service Information,False,3189
+Negative,Frustration,0.9,Complaint,True,3190
+Positive,Satisfaction,0.6,Technical Support,False,3191
+Negative,Frustration,0.8,Complaint,True,3192
+Negative,Frustration,0.7,Complaint,False,3193
+Neutral,Neutral,0.5,Billing,False,3194
+Positive,Satisfaction,0.2,Service Information,False,3195
+Neutral,Confusion,0.6,Technical Support,False,3196
+Neutral,Confusion,0.6,Service Information,False,3197
+Positive,Gratitude,0.1,Service Information,False,3198
+Positive,Satisfaction,0.7,Service Information,False,3199
+Positive,Neutral,0.0,Service Information,False,3200
+Positive,Satisfaction,0.2,Billing,False,3201
+Neutral,Confusion,0.5,Service Information,False,3202
+Neutral,Confusion,0.5,Service Information,False,3203
+Positive,Frustration,0.7,Service Information,False,3204
+Positive,Satisfaction,0.3,Service Information,False,3205
+Positive,Satisfaction,0.3,Service Information,False,3206
+Positive,Neutral,0.7,Service Information,False,3207
+Positive,Satisfaction,0.2,Service Information,False,3208
+Neutral,Confusion,0.5,Service Information,False,3209
+Positive,Neutral,0.7,Service Information,False,3210
+Neutral,Confusion,0.6,Service Information,False,3211
+Positive,Satisfaction,0.2,Service Information,False,3212
+Negative,Frustration,0.7,Technical Support,True,3213
+Negative,Frustration,0.8,Complaint,True,3214
+Negative,Frustration,1.0,Complaint,True,3215
+Positive,Gratitude,0.3,Service Information,False,3216
+Neutral,Confusion,0.6,Technical Support,False,3217
+Positive,Gratitude,0.1,Service Information,False,3218
+Positive,Neutral,0.6,Service Information,False,3219
+Neutral,Confusion,0.7,Technical Support,False,3220
+Positive,Satisfaction,0.5,Service Information,False,3221
+Negative,Frustration,0.7,Technical Support,False,3222
+Negative,Frustration,0.8,Complaint,True,3223
+Positive,Satisfaction,0.7,Service Information,False,3224
+Neutral,Confusion,0.7,Technical Support,False,3225
+Positive,Satisfaction,0.2,Service Information,False,3226
+Neutral,Confusion,0.7,Service Information,False,3227
+Neutral,Confusion,0.7,Service Information,False,3228
+Neutral,Neutral,0.5,Service Information,False,3229
+Positive,Neutral,0.7,Service Information,False,3230
+Negative,Frustration,0.8,Complaint,True,3231
+Neutral,Confusion,0.3,Service Information,False,3232
+Neutral,Confusion,0.6,Technical Support,False,3233
+Positive,Neutral,0.7,Service Information,False,3234
+Positive,Satisfaction,0.5,Service Information,False,3235
+Neutral,Confusion,0.5,Technical Support,False,3236
+Positive,Satisfaction,0.66,Service Information,False,3237
+Positive,Satisfaction,0.3,Service Information,False,3238
+Neutral,Neutral,0.5,Technical Support,False,3239
+Neutral,Confusion,0.3,Technical Support,False,3240
+Neutral,Confusion,0.7,Service Information,False,3241
+Positive,Frustration,0.8,Service Information,False,3242
+Neutral,Confusion,0.6,Technical Support,False,3243
+Neutral,Confusion,0.6,Technical Support,False,3244
+Negative,Frustration,0.8,Complaint,True,3245
+Neutral,Confusion,0.6,Service Information,False,3246
+Negative,Frustration,0.8,Complaint,True,3247
+Negative,Frustration,0.8,Complaint,True,3248
+Neutral,Neutral,0.5,Billing,False,3249
+Neutral,Confusion,0.7,Other,False,3250
+Positive,Satisfaction,0.3,Service Information,False,3251
+Neutral,Confusion,0.7,Technical Support,False,3252
+Positive,Gratitude,0.1,Service Information,False,3253
+Positive,Satisfaction,0.5,Billing,False,3254
+Positive,Satisfaction,0.3,Service Information,False,3255
+Neutral,Neutral,0.5,Technical Support,False,3256
+Negative,Frustration,0.8,Complaint,True,3257
+Negative,Frustration,0.8,Complaint,True,3258
+Positive,Satisfaction,0.5,Service Information,False,3259
+Negative,Frustration,0.8,Complaint,True,3260
+Positive,Neutral,0.6,Technical Support,False,3261
+Neutral,Confusion,0.4,Service Information,False,3262
+Neutral,Confusion,0.7,Service Information,False,3263
+Negative,Frustration,0.8,Complaint,True,3264
+Neutral,Confusion,0.6,Service Information,False,3265
+Neutral,Confusion,0.7,Service Information,False,3266
+Positive,Satisfaction,0.7,Service Information,False,3267
+Negative,Frustration,0.9,Complaint,True,3268
+Positive,Neutral,0.3,Service Information,False,3269
+Negative,Frustration,0.8,Complaint,True,3270
+Neutral,Confusion,0.5,Service Information,False,3271
+Neutral,Confusion,0.6,Technical Support,False,3272
+Positive,Satisfaction,0.3,Service Information,False,3273
+Neutral,Confusion,0.6,Technical Support,False,3274
+Negative,Frustration,0.7,Complaint,True,3275
+Neutral,Confusion,0.7,Technical Support,False,3276
+Positive,Neutral,0.7,Service Information,False,3277
+Neutral,Neutral,0.7,Service Information,False,3278
+Negative,Frustration,0.8,Complaint,True,3279
+Neutral,Neutral,0.5,Technical Support,False,3280
+Neutral,Confusion,0.7,Service Information,False,3281
+Positive,Neutral,0.7,Service Information,False,3282
+Positive,Gratitude,0.3,Service Information,False,3283
+Positive,Gratitude,0.7,Service Information,False,3284
+Neutral,Confusion,0.6,Technical Support,False,3285
+Neutral,Confusion,0.5,Service Information,False,3286
+Positive,Gratitude,0.3,Service Information,False,3287
+Positive,Satisfaction,0.3,Technical Support,False,3288
+Neutral,Confusion,0.7,Service Information,False,3289
+Positive,Satisfaction,0.5,Service Information,False,3290
+Negative,Frustration,0.8,Service Information,False,3291
+Positive,Satisfaction,0.6,Service Information,False,3292
+Positive,Satisfaction,0.3,Service Information,False,3293
+Positive,Satisfaction,0.6,Service Information,False,3294
+Negative,Anger,0.6,Service Information,False,3295
+Neutral,Confusion,0.6,Technical Support,False,3296
+Neutral,Confusion,0.7,Service Information,False,3297
+Positive,Confusion,0.6,Service Information,False,3298
+Positive,Satisfaction,0.8,Service Information,False,3299
+Negative,Frustration,1.0,Complaint,True,3300
+Neutral,Confusion,0.6,Technical Support,False,3301
+Neutral,Neutral,0.5,Service Information,False,3302
+Positive,Satisfaction,0.7,Service Information,False,3303
+Positive,Neutral,0.8,Service Information,False,3304
+Negative,Frustration,0.8,Complaint,True,3305
+Positive,Neutral,0.0,Service Information,False,3306
+Neutral,Confusion,0.7,Technical Support,False,3307
+Positive,Satisfaction,0.5,Service Information,False,3308
+Neutral,Confusion,0.6,Technical Support,False,3309
+Positive,Satisfaction,0.3,Service Information,False,3310
+Positive,Gratitude,0.0,Service Information,False,3311
+Neutral,Confusion,0.6,Service Information,False,3312
+Negative,Frustration,0.8,Technical Support,False,3313
+Neutral,Neutral,0.6,Service Information,False,3314
+Positive,Satisfaction,0.3,Service Information,False,3315
+Positive,Satisfaction,0.6,Service Information,False,3316
+Neutral,Confusion,0.6,Technical Support,False,3317
+Positive,Gratitude,0.0,Service Information,False,3318
+Neutral,Neutral,0.5,Service Information,False,3319
+Positive,Satisfaction,0.5,Service Information,False,3320
+Neutral,Confusion,0.7,Service Information,False,3321
+Negative,Frustration,0.8,Complaint,True,3322
+Negative,Frustration,0.8,Complaint,True,3323
+Neutral,Confusion,0.7,Complaint,True,3324
+Positive,Confusion,0.6,Service Information,False,3325
+Neutral,Confusion,0.6,Technical Support,False,3326
+Positive,Neutral,0.5,Service Information,False,3327
+Neutral,Confusion,0.6,Service Information,False,3328
+Positive,Satisfaction,0.7,Service Information,False,3329
+Neutral,Frustration,0.7,Complaint,True,3330
+Neutral,Neutral,0.7,Service Information,False,3331
+Neutral,Confusion,0.6,Technical Support,False,3332
