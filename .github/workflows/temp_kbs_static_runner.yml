@@ -1,0 +1,21 @@
+name: Temporary KBS static correction runner
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/temp_kbs_static_runner.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  run-correction:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out KBS revision branch
+        uses: actions/checkout@v4
+        with:
+          ref: kbs-static-knowledge-fix-20260717
+          fetch
