@@ -34,11 +34,16 @@ jobs:
       - name: Run corrected leakage-free pipeline
         run: |
           rm -rf kbs_static_fix/outputs
+          mkdir -p kbs_static_fix/outputs
+          set +e
           python kbs_static_fix/run_corrected_pipeline.py \
             --data data/raw_sources/churn_dataset.csv \
-            --out kbs_static_fix/outputs
+            --out kbs_static_fix/outputs \
+            > kbs_static_fix/outputs/workflow_run.log 2>&1
+          echo $? > kbs_static_fix/outputs/exit_code.txt
+          set -e
 
-      - name: Commit locked outputs to revision branch
+      - name: Commit outputs and diagnostics to revision branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -46,6 +51,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No output changes to commit"
           else
-            git commit -m "Add corrected KBS analysis outputs [skip ci]"
+            git commit -m "Add corrected KBS outputs and diagnostics [skip ci]"
             git push origin HEAD:${{ github.head_ref }}
           fi
