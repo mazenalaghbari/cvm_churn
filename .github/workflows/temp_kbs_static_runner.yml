@@ -1,0 +1,69 @@
+name: Temporary KBS static correction runner
+
+on:
+  push:
+    branches: [kbs-static-knowledge-fix-20260717]
+    paths-ignore:
+      - 'kbs_static_fix/outputs/**'
+
+permissions:
+  contents: write
+
+jobs:
+  run-correction:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out revision branch
+        uses: actions/checkout@v4
+        with:
+          ref: kbs-static-knowledge-fix-20260717
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pandas numpy scipy scikit-learn xgboost shap matplotlib
+
+      - name: Patch categorical dtype detection
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('kbs_static_fix/run_corrected_pipeline.py')
+          s = p.read_text(encoding='utf-8')
+          pattern = r'''    categorical = \[\n(?:.*\n){3}    \]\n    numeric = \[c for c in df\.columns if c not in categorical\]\n'''
+          replacement = '''    categorical = [c for c in df.columns if not pd.api.types.is_numeric_dtype(df[c])]
+    numeric = [c for c in df.columns if c not in categorical]
+'''
+          s2, count = re.subn(pattern, replacement, s, count=1)
+          if count == 1:
+              p.write_text(s2, encoding='utf-8')
+          elif 'not pd.api.types.is_numeric_dtype' not in s:
+              raise SystemExit(f'Expected preprocessing block not found; replacements={count}')
+          PY
+
+      - name: Run corrected leakage-free pipeline
+        run: |
+          rm -rf kbs_static_fix/outputs
+          python kbs_static_fix/run_corrected_pipeline.py \
+            --data data/raw_sources/churn_dataset.csv \
+            --out kbs_static_fix/outputs
+
+      - name: Commit locked outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kbs_static_fix/run_corrected_pipeline.py kbs_static_fix/outputs
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Add corrected KBS locked outputs [skip ci]"
+            git push origin HEAD:kbs-static-knowledge-fix-20260717
+          fi
