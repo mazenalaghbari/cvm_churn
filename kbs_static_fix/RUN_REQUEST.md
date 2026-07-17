@@ -2,4 +2,4 @@
 
 This marker triggers the leakage-free static knowledge analysis workflow for the KBS manuscript revision.
 
-Retry: preprocessing dtype fix enabled.
+Retry: robust preprocessing dtype patch enabled.
