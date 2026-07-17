@@ -35,21 +35,17 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import re
           p = Path('kbs_static_fix/run_corrected_pipeline.py')
           s = p.read_text(encoding='utf-8')
-          old = '''    categorical = [
-              c
-              for c in df.columns
-              if df[c].dtype == "object" or str(df[c].dtype).startswith("category")
-          ]
-          numeric = [c for c in df.columns if c not in categorical]
-          '''
-          new = '''    categorical = [c for c in df.columns if not pd.api.types.is_numeric_dtype(df[c])]
-          numeric = [c for c in df.columns if c not in categorical]
-          '''
-          if old not in s:
-              raise SystemExit('Expected preprocessing block not found')
-          p.write_text(s.replace(old, new), encoding='utf-8')
+          pattern = r'''    categorical = \[\n(?:.*\n){3}    \]\n    numeric = \[c for c in df\.columns if c not in categorical\]\n'''
+          replacement = '''    categorical = [c for c in df.columns if not pd.api.types.is_numeric_dtype(df[c])]
+    numeric = [c for c in df.columns if c not in categorical]
+'''
+          s2, count = re.subn(pattern, replacement, s, count=1)
+          if count != 1:
+              raise SystemExit(f'Expected preprocessing block not found; replacements={count}')
+          p.write_text(s2, encoding='utf-8')
           PY
 
       - name: Run corrected leakage-free pipeline
